@@ -115,9 +115,20 @@ export default {
       promotion.forEach((proPrice) => {
         items.forEach((item) => {
           if (proPrice["No."] === item.name) {
-            item.disc_1 = "10%";
-            item.disc_2 = "15%";
-            item.disc_3 = "20%";
+            let full_price = Number(item.price.replace(",", ""));
+            let sale_price = Number(proPrice["Sales Price"].replace(",", ""));
+            item.disc_1 =
+              parseInt(
+                ((full_price - sale_price * 0.9) / full_price) * 100
+              ).toString() + "%";
+            item.disc_2 =
+              parseInt(
+                ((full_price - sale_price * 0.85) / full_price) * 100
+              ).toString() + "%";
+            item.disc_3 =
+              parseInt(
+                ((full_price - sale_price * 0.8) / full_price) * 100
+              ).toString() + "%";
             item.sale_1 = (
               Number(proPrice["Sales Price"].replace(",", "")) * 0.9
             ).toLocaleString("en-US", { minimumFractionDigits: 2 });

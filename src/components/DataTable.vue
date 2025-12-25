@@ -51,7 +51,10 @@ export default {
               {{ row.desc.split("_")[1] }}
             </h6>
             <div :class="row.proCat + '-price-table'">
-              <h6 v-show="row.isOnPromotion" :class="row.proCat">
+              <h6
+                v-show="row.isOnPromotion || row.isOnStackPromotion"
+                :class="row.proCat"
+              >
                 โปรโมชั่น : {{ row.proName }}
                 <span v-if="row.proCat == 'Sale'" class="desc">
                   (25 ธ.ค 2568 - 4 ม.ค 2569)</span
@@ -90,7 +93,7 @@ export default {
                   "
                   :class="row.proCat + '-price'"
                 >
-                  {{ row.sale }}-<span class="desc"> (ลด {{ row.disc }})</span>
+                  {{ row.sale }} <span class="desc"> (ลด {{ row.disc }})</span>
                 </h5>
                 <h6 v-show="row.isOnStackPromotion">
                   ราคาเต็ม {{ row.price }}-
@@ -107,24 +110,25 @@ export default {
                   v-show="row.isOnStackPromotion"
                   :class="row.proCat + '-price'"
                 >
-                  เมื่อซื้อ 2 ชิ้นลดเหลือ {{ row.sale_1 }}-<span class="desc">
-                    (ลด on-top {{ row.disc_1 }})</span
+                  2 ชิ้น
+                  {{ row.sale_1 }}-<span class="desc">
+                    (ลด {{ row.disc_1 }})</span
                   >
                 </h5>
                 <h5
                   v-show="row.isOnStackPromotion"
                   :class="row.proCat + '-price'"
                 >
-                  เมื่อซื้อ 3 ชิ้นลดเหลือ {{ row.sale_2 }}-<span class="desc">
-                    (ลด on-top {{ row.disc_2 }})</span
+                  3 ชิ้น {{ row.sale_2 }}-<span class="desc">
+                    (ลด {{ row.disc_2 }})</span
                   >
                 </h5>
                 <h5
                   v-show="row.isOnStackPromotion"
                   :class="row.proCat + '-price'"
                 >
-                  เมื่อซื้อ 4 ชิ้นลดเหลือ {{ row.sale_3 }}-<span class="desc">
-                    (ลด on-top {{ row.disc_3 }})</span
+                  4 ชิ้น {{ row.sale_3 }}-<span class="desc">
+                    (ลด {{ row.disc_3 }})</span
                   >
                 </h5>
               </div>
@@ -207,6 +211,13 @@ export default {
 
 .Main-price {
   color: rgb(26, 86, 135);
+}
+
+.emph {
+  color: beige;
+  background-color: steelblue;
+  padding: 2px;
+  border-radius: 4px;
 }
 
 .Sale {
