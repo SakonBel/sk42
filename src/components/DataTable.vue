@@ -59,13 +59,72 @@ export default {
                 <span v-else class="desc"> (1-31 ต.ค 2568)</span>
               </h6>
               <div class="inner-price-table">
-                <h6 class="reg-price" v-show="!row.isOnPromotion">
+                <h6
+                  class="reg-price"
+                  v-show="!row.isOnPromotion && !row.isOnStackPromotion"
+                >
                   ราคา <span> {{ row.price }}-</span>
                 </h6>
-                <h6 v-show="row.isOnPromotion">ราคาเต็ม {{ row.price }}-</h6>
-                <h5 v-show="row.isOnPromotion" :class="row.proCat + '-price'">
+                <h6 v-show="row.isOnPromotion && !row.isOnStackPromotion">
+                  ราคาเต็ม {{ row.price }}-
+                </h6>
+                <h5
+                  v-show="
+                    (row.isOnPromotion &&
+                      !row.isOnStackPromotion &&
+                      !row.proCat == 'BOGO') ||
+                    row.proCat == 'Special'
+                  "
+                  :class="row.proCat + '-price'"
+                >
                   ราคาลด {{ row.sale }}-<span class="desc">
                     (ลด {{ row.disc }})</span
+                  >
+                </h5>
+                <h5
+                  v-show="
+                    (row.isOnPromotion &&
+                      !row.isOnStackPromotion &&
+                      !row.proCat == 'Special') ||
+                    row.proCat == 'BOGO'
+                  "
+                  :class="row.proCat + '-price'"
+                >
+                  {{ row.sale }}-<span class="desc"> (ลด {{ row.disc }})</span>
+                </h5>
+                <h6 v-show="row.isOnStackPromotion">
+                  ราคาเต็ม {{ row.price }}-
+                </h6>
+                <h6
+                  v-show="row.isOnStackPromotion && row.isOnPromotion"
+                  :class="row.proCat + '-price'"
+                >
+                  ราคาลด {{ row.sale }}-<span class="desc">
+                    (ลด {{ row.disc }})</span
+                  >
+                </h6>
+                <h5
+                  v-show="row.isOnStackPromotion"
+                  :class="row.proCat + '-price'"
+                >
+                  เมื่อซื้อ 2 ชิ้นลดเหลือ {{ row.sale_1 }}-<span class="desc">
+                    (ลด on-top {{ row.disc_1 }})</span
+                  >
+                </h5>
+                <h5
+                  v-show="row.isOnStackPromotion"
+                  :class="row.proCat + '-price'"
+                >
+                  เมื่อซื้อ 3 ชิ้นลดเหลือ {{ row.sale_2 }}-<span class="desc">
+                    (ลด on-top {{ row.disc_2 }})</span
+                  >
+                </h5>
+                <h5
+                  v-show="row.isOnStackPromotion"
+                  :class="row.proCat + '-price'"
+                >
+                  เมื่อซื้อ 4 ชิ้นลดเหลือ {{ row.sale_3 }}-<span class="desc">
+                    (ลด on-top {{ row.disc_3 }})</span
                   >
                 </h5>
               </div>
@@ -141,45 +200,59 @@ export default {
 }
 
 .Main {
-  color: black;
-  background-color: plum;
+  color: beige;
+  background-color: steelblue;
   padding: 5px;
 }
 
 .Main-price {
-  color: purple;
+  color: rgb(26, 86, 135);
 }
 
 .Sale {
-  color: beige;
-  background-color: maroon;
+  color: whitesmoke;
+  background-color: gray;
   padding: 5px;
 }
 
 .Sale-price {
-  color: maroon;
+  color: gray;
 }
 
 .Special {
+  color: beige;
+  background-color: palevioletred;
+  padding: 5px;
+}
+
+.Special-price {
+  color: palevioletred;
+}
+
+.BOGO {
   color: beige;
   background-color: orangered;
   padding: 5px;
 }
 
-.Special-price {
-  color: orangered;
+.BOGO-price {
+  color: red;
 }
 
 .Main-price-table {
-  border: darkmagenta 1px solid;
+  border: rgb(26, 86, 135) 1px solid;
 }
 
 .Sale-price-table {
-  border: Maroon 1px solid;
+  border: black 1px solid;
 }
 
 .Special-price-table {
-  border: orangered 1px solid;
+  border: purple 1px solid;
+}
+
+.BOGO-price-table {
+  border: red 1px solid;
 }
 
 .inner-price-table {

@@ -4,6 +4,7 @@ import location from "./assets/location.json";
 import price from "./assets/price.json";
 import promotion from "./assets/promotion.json";
 import promotion2 from "./assets/promotion2.json";
+import promotion3 from "./assets/promotion3.json";
 
 import datatable from "./components/DataTable.vue";
 import singleitem from "./components/SingleItem.vue";
@@ -114,12 +115,20 @@ export default {
       promotion.forEach((proPrice) => {
         items.forEach((item) => {
           if (proPrice["No."] === item.name) {
-            item.disc = "5%";
-            item.sale = (
-              Number(proPrice["Retail Price"].replace(",", "")) * 0.95
+            item.disc_1 = "10%";
+            item.disc_2 = "15%";
+            item.disc_3 = "20%";
+            item.sale_1 = (
+              Number(proPrice["Sales Price"].replace(",", "")) * 0.9
             ).toLocaleString("en-US", { minimumFractionDigits: 2 });
-            item.isOnPromotion = true;
-            item.proName = "October Chills & Thrills";
+            item.sale_2 = (
+              Number(proPrice["Sales Price"].replace(",", "")) * 0.85
+            ).toLocaleString("en-US", { minimumFractionDigits: 2 });
+            item.sale_3 = (
+              Number(proPrice["Sales Price"].replace(",", "")) * 0.8
+            ).toLocaleString("en-US", { minimumFractionDigits: 2 });
+            item.isOnStackPromotion = true;
+            item.proName = "Happy Holidays";
             item.proCat = "Main";
           }
         });
@@ -134,8 +143,22 @@ export default {
               Number(proPrice["Retail Price"].replace(",", "")) * 0.8
             ).toLocaleString("en-US");
             item.isOnPromotion = true;
-            item.proName = "Special Promotion";
+            item.proName = "Discount 20%";
             item.proCat = "Special";
+          }
+        });
+      });
+
+      // Add additional promotion 3
+      promotion3.forEach((proPrice) => {
+        items.forEach((item) => {
+          if (proPrice["No."] === item.name) {
+            item.disc = "สูงสุด 50%";
+            item.sale = "ซื้อ 1 แถม 1";
+            item.isOnPromotion = true;
+            item.isOnStackPromotion = false;
+            item.proName = "Buy 1 Get 1";
+            item.proCat = "BOGO";
           }
         });
       });
@@ -220,7 +243,7 @@ export default {
     <nav class="container navbar bg-body-tertiary fixed-top">
       <div class="d-md-flex justify-content-between w-100 px-4">
         <a class="navbar-brand fs-4"
-          ><span class="text-primary">SKECHERS</span> The Mall Korat</a
+          ><span class="text-primary">SKECHERS</span> Terminal 21 Korat</a
         >
 
         <!-- <form class="d-flex" role="search"> -->

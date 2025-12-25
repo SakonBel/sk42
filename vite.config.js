@@ -4,7 +4,7 @@ import { VitePWA } from "vite-plugin-pwa";
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base: "/sk_2/",
+  base: "/sk42/",
   plugins: [
     vue(),
     VitePWA({
