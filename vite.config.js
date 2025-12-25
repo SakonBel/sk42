@@ -10,7 +10,7 @@ export default defineConfig({
     VitePWA({
       registerType: "autoUpdate",
       manifest: {
-        name: "Skechers Korat",
+        name: "Skechers Terminal 21 Korat",
         short_name: "SKK",
         theme_color: "#ffffff",
         display: "standalone",

@@ -54,9 +54,9 @@ export default {
               <h6 v-show="row.isOnPromotion" :class="row.proCat">
                 โปรโมชั่น : {{ row.proName }}
                 <span v-if="row.proCat == 'Sale'" class="desc">
-                  (1-31 ต.ค 2568)</span
+                  (25 ธ.ค 2568 - 4 ม.ค 2569)</span
                 >
-                <span v-else class="desc"> (1-31 ต.ค 2568)</span>
+                <span v-else class="desc"> (25 ธ.ค 2568 - 4 ม.ค 2569)</span>
               </h6>
               <div class="inner-price-table">
                 <h6
