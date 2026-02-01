@@ -139,7 +139,7 @@ export default {
               Number(proPrice["Sales Price"].replace(",", "")) * 0.8
             ).toLocaleString("en-US", { minimumFractionDigits: 2 });
             item.isOnStackPromotion = true;
-            item.proName = "Happy Holidays";
+            item.proName = "Love the Vibe Deals";
             item.proCat = "Main";
           }
         });

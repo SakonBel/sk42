@@ -56,10 +56,10 @@ export default {
                 :class="row.proCat"
               >
                 โปรโมชั่น : {{ row.proName }}
-                <span v-if="row.proCat == 'Sale'" class="desc">
-                  (25 ธ.ค 2568 - 4 ม.ค 2569)</span
+                <span v-if="row.proCat == 'BOGO'" class="desc">
+                  (2 ก.พ 2569 - 1 มี.ค 2569)</span
                 >
-                <span v-else class="desc"> (25 ธ.ค 2568 - 4 ม.ค 2569)</span>
+                <span v-else class="desc"> (2 ก.พ 2569 - 26 ก.พ 2569)</span>
               </h6>
               <div class="inner-price-table">
                 <h6
@@ -78,6 +78,14 @@ export default {
                       !row.proCat == 'BOGO') ||
                     row.proCat == 'Special'
                   "
+                  :class="row.proCat + '-price'"
+                >
+                  ราคาลด {{ row.sale }}-<span class="desc">
+                    (ลด {{ row.disc }})</span
+                  >
+                </h5>
+                <h5
+                  v-show="row.proName == 'One Price'"
                   :class="row.proCat + '-price'"
                 >
                   ราคาลด {{ row.sale }}-<span class="desc">
@@ -119,7 +127,7 @@ export default {
                   v-show="row.isOnStackPromotion"
                   :class="row.proCat + '-price'"
                 >
-                  3 ชิ้น {{ row.sale_2 }}-<span class="desc">
+                  4 ชิ้น {{ row.sale_2 }}-<span class="desc">
                     (ลด {{ row.disc_2 }})</span
                   >
                 </h5>
@@ -127,7 +135,7 @@ export default {
                   v-show="row.isOnStackPromotion"
                   :class="row.proCat + '-price'"
                 >
-                  4 ชิ้น {{ row.sale_3 }}-<span class="desc">
+                  6 ชิ้น {{ row.sale_3 }}-<span class="desc">
                     (ลด {{ row.disc_3 }})</span
                   >
                 </h5>
