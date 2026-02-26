@@ -119,15 +119,15 @@ export default {
             let sale_price = Number(proPrice["Sales Price"].replace(",", ""));
             item.disc_1 =
               parseInt(
-                ((full_price - sale_price * 0.9) / full_price) * 100
+                ((full_price - sale_price * 0.9) / full_price) * 100,
               ).toString() + "%";
             item.disc_2 =
               parseInt(
-                ((full_price - sale_price * 0.85) / full_price) * 100
+                ((full_price - sale_price * 0.85) / full_price) * 100,
               ).toString() + "%";
             item.disc_3 =
               parseInt(
-                ((full_price - sale_price * 0.8) / full_price) * 100
+                ((full_price - sale_price * 0.8) / full_price) * 100,
               ).toString() + "%";
             item.sale_1 = (
               Number(proPrice["Sales Price"].replace(",", "")) * 0.9
@@ -139,7 +139,7 @@ export default {
               Number(proPrice["Sales Price"].replace(",", "")) * 0.8
             ).toLocaleString("en-US", { minimumFractionDigits: 2 });
             item.isOnStackPromotion = true;
-            item.proName = "Love the Vibe Deals";
+            item.proName = "Bright & Breezy";
             item.proCat = "Main";
           }
         });
@@ -213,7 +213,7 @@ export default {
         return this.items.filter((item) =>
           (item.name.split("-")[0] + item.name.split("-")[1])
             .toLowerCase()
-            .includes(this.searchValue.trim().toLowerCase())
+            .includes(this.searchValue.trim().toLowerCase()),
         );
       }
       return this.randomItems;

@@ -30,7 +30,7 @@ export default {
                   '***',
                   row.name.split('-')[0].substr(0, 6) +
                     '_' +
-                    row.name.split('-')[1]
+                    row.name.split('-')[1],
                 )
               "
               alt=""
@@ -59,7 +59,7 @@ export default {
                 <span v-if="row.proCat == 'BOGO'" class="desc">
                   (2 ก.พ 2569 - 1 มี.ค 2569)</span
                 >
-                <span v-else class="desc"> (2 ก.พ 2569 - 26 ก.พ 2569)</span>
+                <span v-else class="desc"> (27 ก.พ 2569 - 31 มี.ค 2569)</span>
               </h6>
               <div class="inner-price-table">
                 <h6
@@ -212,13 +212,13 @@ export default {
 }
 
 .Main {
-  color: beige;
-  background-color: steelblue;
+  color: black;
+  background-color: orange;
   padding: 5px;
 }
 
 .Main-price {
-  color: rgb(26, 86, 135);
+  color: rgb(198, 129, 0);
 }
 
 .emph {
