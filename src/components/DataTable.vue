@@ -213,12 +213,12 @@ export default {
 
 .Main {
   color: black;
-  background-color: orange;
+  background-color: skyblue;
   padding: 5px;
 }
 
 .Main-price {
-  color: rgb(198, 129, 0);
+  color: darkcyan;
 }
 
 .emph {
