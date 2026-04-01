@@ -4,7 +4,7 @@ import location from "./assets/location.json";
 import price from "./assets/price.json";
 import promotion from "./assets/promotion.json";
 import promotion2 from "./assets/promotion2.json";
-// import promotion3 from "./assets/promotion3.json";
+import promotion3 from "./assets/promotion3.json";
 
 import datatable from "./components/DataTable.vue";
 import singleitem from "./components/SingleItem.vue";
@@ -139,7 +139,7 @@ export default {
               Number(proPrice["Sales Price"].replace(",", "")) * 0.8
             ).toLocaleString("en-US", { minimumFractionDigits: 2 });
             item.isOnStackPromotion = true;
-            item.proName = "Bright & Breezy";
+            item.proName = "Happy Songkran";
             item.proCat = "Main";
           }
         });
@@ -161,18 +161,18 @@ export default {
       });
 
       // Add additional promotion 3
-      // promotion3.forEach((proPrice) => {
-      //   items.forEach((item) => {
-      //     if (proPrice["No."] === item.name) {
-      //       item.disc = "สูงสุด 50%";
-      //       item.sale = "ซื้อ 1 แถม 1";
-      //       item.isOnPromotion = true;
-      //       item.isOnStackPromotion = false;
-      //       item.proName = "Buy 1 Get 1";
-      //       item.proCat = "BOGO";
-      //     }
-      //   });
-      // });
+      promotion3.forEach((proPrice) => {
+        items.forEach((item) => {
+          if (proPrice["No."] === item.name) {
+            item.disc = "สูงสุด 50%";
+            item.sale = "ซื้อ 1 แถม 1";
+            item.isOnPromotion = true;
+            item.isOnStackPromotion = false;
+            item.proName = "Buy 1 Get 1";
+            item.proCat = "BOGO";
+          }
+        });
+      });
 
       // Add sizes to items appropriately
       items.forEach((item, index) => {

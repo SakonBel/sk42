@@ -57,9 +57,9 @@ export default {
               >
                 โปรโมชั่น : {{ row.proName }}
                 <span v-if="row.proCat == 'BOGO'" class="desc">
-                  (2 ก.พ 2569 - 1 มี.ค 2569)</span
+                  (19 มี.ค 2569 - 6 เม.ษ 2569)</span
                 >
-                <span v-else class="desc"> (27 ก.พ 2569 - 31 มี.ค 2569)</span>
+                <span v-else class="desc"> (1 เม.ษ 2569 - 3 พ.ค 2569)</span>
               </h6>
               <div class="inner-price-table">
                 <h6
@@ -103,18 +103,18 @@ export default {
                 >
                   {{ row.sale }} <span class="desc"> (ลด {{ row.disc }})</span>
                 </h5>
-                <h6 v-show="row.isOnStackPromotion">
+                <h5 v-show="row.isOnStackPromotion" class="Unit-price">
                   ราคาเต็ม {{ row.price }}-
-                </h6>
-                <h6
+                </h5>
+                <h5
                   v-show="row.isOnStackPromotion && row.isOnPromotion"
-                  :class="row.proCat + '-price'"
+                  class="Unit-sales-price"
                 >
                   ราคาลด {{ row.sale }}-<span class="desc">
                     (ลด {{ row.disc }})</span
                   >
-                </h6>
-                <h5
+                </h5>
+                <h6
                   v-show="row.isOnStackPromotion"
                   :class="row.proCat + '-price'"
                 >
@@ -122,23 +122,23 @@ export default {
                   {{ row.sale_1 }}-<span class="desc">
                     (ลด {{ row.disc_1 }})</span
                   >
-                </h5>
-                <h5
+                </h6>
+                <h6
                   v-show="row.isOnStackPromotion"
                   :class="row.proCat + '-price'"
                 >
-                  4 ชิ้น {{ row.sale_2 }}-<span class="desc">
+                  3 ชิ้น {{ row.sale_2 }}-<span class="desc">
                     (ลด {{ row.disc_2 }})</span
                   >
-                </h5>
-                <h5
+                </h6>
+                <h6
                   v-show="row.isOnStackPromotion"
                   :class="row.proCat + '-price'"
                 >
-                  6 ชิ้น {{ row.sale_3 }}-<span class="desc">
+                  4 ชิ้น {{ row.sale_3 }}-<span class="desc">
                     (ลด {{ row.disc_3 }})</span
                   >
-                </h5>
+                </h6>
               </div>
             </div>
           </td>
@@ -213,12 +213,25 @@ export default {
 
 .Main {
   color: black;
-  background-color: skyblue;
+  background-color: palevioletred;
   padding: 5px;
 }
 
 .Main-price {
-  color: darkcyan;
+  color: palevioletred;
+  font-weight: bold;
+}
+
+.Unit-price {
+  color: black;
+  font-weight: bold;
+}
+
+.Unit-sales-price {
+  color: snow;
+  background-color: darkmagenta;
+  padding: 5px;
+  font-weight: bold;
 }
 
 .emph {
@@ -240,12 +253,12 @@ export default {
 
 .Special {
   color: beige;
-  background-color: palevioletred;
+  background-color: burlywood;
   padding: 5px;
 }
 
 .Special-price {
-  color: palevioletred;
+  color: burlywood;
 }
 
 .BOGO {
@@ -284,6 +297,7 @@ export default {
 
 .desc {
   font-size: x-small;
+  font-style: italic;
 }
 
 .big-table {
