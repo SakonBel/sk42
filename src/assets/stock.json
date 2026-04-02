@@ -389,7 +389,7 @@
     "Variant": "9",
     "Description": "100731-TPE_ARCH FIT SUNNY",
     "UOM": "PAIR",
-    "Net Inventory": "2"
+    "Net Inventory": "1"
   },
   {
     "Item No.": "100762-BBK",
@@ -1705,7 +1705,7 @@
     "Variant": "9",
     "Description": "108145-BLK_SQUAD CHAOS SR",
     "UOM": "PAIR",
-    "Net Inventory": "2"
+    "Net Inventory": "1"
   },
   {
     "Item No.": "108181-BLK",
@@ -4488,13 +4488,6 @@
   },
   {
     "Item No.": "118425-BBK",
-    "Variant": "11",
-    "Description": "118425-BBK_BOBS ARC WAVES",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
-  },
-  {
-    "Item No.": "118425-BBK",
     "Variant": "12",
     "Description": "118425-BBK_BOBS ARC WAVES",
     "UOM": "PAIR",
@@ -6827,13 +6820,6 @@
   {
     "Item No.": "125204-LTBL",
     "Variant": "6",
-    "Description": "125204-LTBL_GO WALK 7",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
-  },
-  {
-    "Item No.": "125204-LTBL",
-    "Variant": "7",
     "Description": "125204-LTBL_GO WALK 7",
     "UOM": "PAIR",
     "Net Inventory": "1"
@@ -9755,7 +9741,7 @@
     "Variant": "7.5",
     "Description": "128619-BKMN_GO RUN CONSISTE 2.",
     "UOM": "PAIR",
-    "Net Inventory": "2"
+    "Net Inventory": "1"
   },
   {
     "Item No.": "128619-BKMN",
@@ -11197,7 +11183,7 @@
     "Variant": "7",
     "Description": "129473-BBK_MAX CUSH ENDEAVOUR",
     "UOM": "PAIR",
-    "Net Inventory": "3"
+    "Net Inventory": "2"
   },
   {
     "Item No.": "129473-WBK",
@@ -15565,7 +15551,7 @@
     "Variant": "9",
     "Description": "216323-GRY_GO WALK FLEX",
     "UOM": "PAIR",
-    "Net Inventory": "2"
+    "Net Inventory": "1"
   },
   {
     "Item No.": "216323-NVGY",
@@ -15593,7 +15579,7 @@
     "Variant": "9",
     "Description": "216323-NVGY_GO WALK FLEX",
     "UOM": "PAIR",
-    "Net Inventory": "2"
+    "Net Inventory": "1"
   },
   {
     "Item No.": "216323-NVGY",
@@ -18196,13 +18182,6 @@
     "Item No.": "216492-KHK",
     "Variant": "9.5",
     "Description": "216492-KHK_GO WALK FLEX",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
-  },
-  {
-    "Item No.": "216504-BKGY",
-    "Variant": "10",
-    "Description": "216504-BKGY_GO WALK FLEX",
     "UOM": "PAIR",
     "Net Inventory": "1"
   },
@@ -22383,7 +22362,7 @@
     "Variant": "11",
     "Description": "220863WW-GRY_GO RUN CONSISTE 2",
     "UOM": "PAIR",
-    "Net Inventory": "4"
+    "Net Inventory": "3"
   },
   {
     "Item No.": "220863WW-GRY",
@@ -22838,7 +22817,7 @@
     "Variant": "9",
     "Description": "220880-CCBK_GO RUN CONSISTE 2.",
     "UOM": "PAIR",
-    "Net Inventory": "3"
+    "Net Inventory": "2"
   },
   {
     "Item No.": "220880-NVY",
@@ -23548,13 +23527,6 @@
     "Net Inventory": "3"
   },
   {
-    "Item No.": "229204-CHAR",
-    "Variant": "8",
-    "Description": "229204-CHAR_GO WALK FLEX SANDA",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
-  },
-  {
     "Item No.": "229204-TPE",
     "Variant": "10",
     "Description": "229204-TPE_GO WALK FLEX SANDAL",
@@ -23888,7 +23860,7 @@
     "Variant": "8",
     "Description": "229401-BKCC_GO WALK FLEX SANDA",
     "UOM": "PAIR",
-    "Net Inventory": "2"
+    "Net Inventory": "1"
   },
   {
     "Item No.": "229401-BKCC",
@@ -28151,7 +28123,7 @@
     "Variant": "0",
     "Description": "L121K097-00C7_BASEBALL CAP",
     "UOM": "PCS",
-    "Net Inventory": "4"
+    "Net Inventory": "3"
   },
   {
     "Item No.": "L124K015-0183",
@@ -28376,13 +28348,6 @@
     "Description": "P224U020-042Z_BASEBALL CAP",
     "UOM": "PCS",
     "Net Inventory": "4"
-  },
-  {
-    "Item No.": "P324U011-051G",
-    "Variant": "0",
-    "Description": "P324U011-051G_BACKPACK",
-    "UOM": "PCS",
-    "Net Inventory": "1"
   },
   {
     "Item No.": "P324U021-00MM",
