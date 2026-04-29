@@ -1,290 +1,10 @@
 [
   {
-    "Item No.": "100440-BBK",
-    "Variant": "10",
-    "Description": "100440-BBK_NEWBURY ST",
-    "UOM": "PAIR",
-    "Net Inventory": "2"
-  },
-  {
-    "Item No.": "100440-BBK",
-    "Variant": "11",
-    "Description": "100440-BBK_NEWBURY ST",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
-  },
-  {
-    "Item No.": "100440-BBK",
-    "Variant": "6",
-    "Description": "100440-BBK_NEWBURY ST",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
-  },
-  {
-    "Item No.": "100440-BBK",
-    "Variant": "6.5",
-    "Description": "100440-BBK_NEWBURY ST",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
-  },
-  {
-    "Item No.": "100440-BBK",
-    "Variant": "7",
-    "Description": "100440-BBK_NEWBURY ST",
-    "UOM": "PAIR",
-    "Net Inventory": "6"
-  },
-  {
-    "Item No.": "100440-BBK",
-    "Variant": "7.5",
-    "Description": "100440-BBK_NEWBURY ST",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
-  },
-  {
-    "Item No.": "100440-BBK",
-    "Variant": "8",
-    "Description": "100440-BBK_NEWBURY ST",
-    "UOM": "PAIR",
-    "Net Inventory": "3"
-  },
-  {
-    "Item No.": "100440-BBK",
-    "Variant": "8.5",
-    "Description": "100440-BBK_NEWBURY ST",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
-  },
-  {
-    "Item No.": "100440-BBK",
-    "Variant": "9",
-    "Description": "100440-BBK_NEWBURY ST",
-    "UOM": "PAIR",
-    "Net Inventory": "3"
-  },
-  {
-    "Item No.": "100440-BBK",
-    "Variant": "9.5",
-    "Description": "100440-BBK_NEWBURY ST",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
-  },
-  {
-    "Item No.": "100440-TPE",
-    "Variant": "10",
-    "Description": "100440-TPE_NEWBURY ST",
-    "UOM": "PAIR",
-    "Net Inventory": "3"
-  },
-  {
-    "Item No.": "100440-TPE",
-    "Variant": "11",
-    "Description": "100440-TPE_NEWBURY ST",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
-  },
-  {
-    "Item No.": "100440-TPE",
-    "Variant": "6",
-    "Description": "100440-TPE_NEWBURY ST",
-    "UOM": "PAIR",
-    "Net Inventory": "2"
-  },
-  {
-    "Item No.": "100440-TPE",
-    "Variant": "7",
-    "Description": "100440-TPE_NEWBURY ST",
-    "UOM": "PAIR",
-    "Net Inventory": "3"
-  },
-  {
-    "Item No.": "100440-TPE",
-    "Variant": "8",
-    "Description": "100440-TPE_NEWBURY ST",
-    "UOM": "PAIR",
-    "Net Inventory": "2"
-  },
-  {
-    "Item No.": "100440-TPE",
-    "Variant": "9",
-    "Description": "100440-TPE_NEWBURY ST",
-    "UOM": "PAIR",
-    "Net Inventory": "3"
-  },
-  {
-    "Item No.": "100468-MVE",
-    "Variant": "10",
-    "Description": "100468-MVE_UP-LIFTED",
-    "UOM": "PAIR",
-    "Net Inventory": "4"
-  },
-  {
-    "Item No.": "100468-MVE",
-    "Variant": "11",
-    "Description": "100468-MVE_UP-LIFTED",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
-  },
-  {
-    "Item No.": "100468-MVE",
-    "Variant": "6",
-    "Description": "100468-MVE_UP-LIFTED",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
-  },
-  {
-    "Item No.": "100468-MVE",
-    "Variant": "8",
-    "Description": "100468-MVE_UP-LIFTED",
-    "UOM": "PAIR",
-    "Net Inventory": "2"
-  },
-  {
-    "Item No.": "100468-MVE",
-    "Variant": "8.5",
-    "Description": "100468-MVE_UP-LIFTED",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
-  },
-  {
-    "Item No.": "100468-MVE",
-    "Variant": "9",
-    "Description": "100468-MVE_UP-LIFTED",
-    "UOM": "PAIR",
-    "Net Inventory": "6"
-  },
-  {
-    "Item No.": "100468-NVY",
-    "Variant": "10",
-    "Description": "100468-NVY_UP-LIFTED",
-    "UOM": "PAIR",
-    "Net Inventory": "3"
-  },
-  {
-    "Item No.": "100468-NVY",
-    "Variant": "11",
-    "Description": "100468-NVY_UP-LIFTED",
-    "UOM": "PAIR",
-    "Net Inventory": "2"
-  },
-  {
-    "Item No.": "100468-NVY",
-    "Variant": "6",
-    "Description": "100468-NVY_UP-LIFTED",
-    "UOM": "PAIR",
-    "Net Inventory": "2"
-  },
-  {
-    "Item No.": "100468-NVY",
-    "Variant": "8",
-    "Description": "100468-NVY_UP-LIFTED",
-    "UOM": "PAIR",
-    "Net Inventory": "8"
-  },
-  {
-    "Item No.": "100468-NVY",
-    "Variant": "8.5",
-    "Description": "100468-NVY_UP-LIFTED",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
-  },
-  {
-    "Item No.": "100468-NVY",
-    "Variant": "9",
-    "Description": "100468-NVY_UP-LIFTED",
-    "UOM": "PAIR",
-    "Net Inventory": "2"
-  },
-  {
-    "Item No.": "100468-NVY",
-    "Variant": "9.5",
-    "Description": "100468-NVY_UP-LIFTED",
-    "UOM": "PAIR",
-    "Net Inventory": "2"
-  },
-  {
-    "Item No.": "100705-BBK",
-    "Variant": "10",
-    "Description": "100705-BBK_GRACEFUL",
-    "UOM": "PAIR",
-    "Net Inventory": "2"
-  },
-  {
-    "Item No.": "100705-BBK",
-    "Variant": "7",
-    "Description": "100705-BBK_GRACEFUL",
-    "UOM": "PAIR",
-    "Net Inventory": "2"
-  },
-  {
-    "Item No.": "100705-BBK",
-    "Variant": "7.5",
-    "Description": "100705-BBK_GRACEFUL",
-    "UOM": "PAIR",
-    "Net Inventory": "2"
-  },
-  {
-    "Item No.": "100705-BBK",
-    "Variant": "8",
-    "Description": "100705-BBK_GRACEFUL",
-    "UOM": "PAIR",
-    "Net Inventory": "5"
-  },
-  {
-    "Item No.": "100705-BBK",
-    "Variant": "8.5",
-    "Description": "100705-BBK_GRACEFUL",
-    "UOM": "PAIR",
-    "Net Inventory": "2"
-  },
-  {
-    "Item No.": "100705-BBK",
-    "Variant": "9",
-    "Description": "100705-BBK_GRACEFUL",
-    "UOM": "PAIR",
-    "Net Inventory": "3"
-  },
-  {
-    "Item No.": "100705-WHT",
-    "Variant": "10",
-    "Description": "100705-WHT_GRACEFUL",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
-  },
-  {
-    "Item No.": "100705-WHT",
-    "Variant": "7",
-    "Description": "100705-WHT_GRACEFUL",
-    "UOM": "PAIR",
-    "Net Inventory": "3"
-  },
-  {
-    "Item No.": "100705-WHT",
-    "Variant": "7.5",
-    "Description": "100705-WHT_GRACEFUL",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
-  },
-  {
-    "Item No.": "100705-WHT",
-    "Variant": "8",
-    "Description": "100705-WHT_GRACEFUL",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
-  },
-  {
-    "Item No.": "100705-WHT",
-    "Variant": "9",
-    "Description": "100705-WHT_GRACEFUL",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
-  },
-  {
     "Item No.": "100731-OFWT",
     "Variant": "10",
     "Description": "100731-OFWT_ARCH FIT SUNNY",
     "UOM": "PAIR",
-    "Net Inventory": "3"
+    "Net Inventory": "2"
   },
   {
     "Item No.": "100731-OFWT",
@@ -326,7 +46,7 @@
     "Variant": "9",
     "Description": "100731-OFWT_ARCH FIT SUNNY",
     "UOM": "PAIR",
-    "Net Inventory": "4"
+    "Net Inventory": "3"
   },
   {
     "Item No.": "100731-TPE",
@@ -365,87 +85,10 @@
   },
   {
     "Item No.": "100731-TPE",
-    "Variant": "8",
-    "Description": "100731-TPE_ARCH FIT SUNNY",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
-  },
-  {
-    "Item No.": "100731-TPE",
     "Variant": "9",
     "Description": "100731-TPE_ARCH FIT SUNNY",
     "UOM": "PAIR",
     "Net Inventory": "3"
-  },
-  {
-    "Item No.": "100762-BBK",
-    "Variant": "10",
-    "Description": "100762-BBK_BREATHE-EASY",
-    "UOM": "PAIR",
-    "Net Inventory": "2"
-  },
-  {
-    "Item No.": "100762-BBK",
-    "Variant": "5",
-    "Description": "100762-BBK_BREATHE-EASY",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
-  },
-  {
-    "Item No.": "100762-BBK",
-    "Variant": "7",
-    "Description": "100762-BBK_BREATHE-EASY",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
-  },
-  {
-    "Item No.": "100762-BBK",
-    "Variant": "8",
-    "Description": "100762-BBK_BREATHE-EASY",
-    "UOM": "PAIR",
-    "Net Inventory": "5"
-  },
-  {
-    "Item No.": "100762-BBK",
-    "Variant": "9",
-    "Description": "100762-BBK_BREATHE-EASY",
-    "UOM": "PAIR",
-    "Net Inventory": "3"
-  },
-  {
-    "Item No.": "100762-NVY",
-    "Variant": "10",
-    "Description": "100762-NVY_BREATHE-EASY",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
-  },
-  {
-    "Item No.": "100762-NVY",
-    "Variant": "6",
-    "Description": "100762-NVY_BREATHE-EASY",
-    "UOM": "PAIR",
-    "Net Inventory": "2"
-  },
-  {
-    "Item No.": "100762-NVY",
-    "Variant": "7",
-    "Description": "100762-NVY_BREATHE-EASY",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
-  },
-  {
-    "Item No.": "100762-NVY",
-    "Variant": "8",
-    "Description": "100762-NVY_BREATHE-EASY",
-    "UOM": "PAIR",
-    "Net Inventory": "2"
-  },
-  {
-    "Item No.": "100762-NVY",
-    "Variant": "9",
-    "Description": "100762-NVY_BREATHE-EASY",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
   },
   {
     "Item No.": "100805-BBK",
@@ -676,14 +319,14 @@
     "Variant": "7",
     "Description": "100888-TPGD_GRACEFUL",
     "UOM": "PAIR",
-    "Net Inventory": "2"
+    "Net Inventory": "1"
   },
   {
     "Item No.": "100888-TPGD",
     "Variant": "8",
     "Description": "100888-TPGD_GRACEFUL",
     "UOM": "PAIR",
-    "Net Inventory": "3"
+    "Net Inventory": "2"
   },
   {
     "Item No.": "100888-TPGD",
@@ -708,13 +351,6 @@
   },
   {
     "Item No.": "100966-BBK",
-    "Variant": "8",
-    "Description": "100966-BBK_GRACEFUL",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
-  },
-  {
-    "Item No.": "100966-BBK",
     "Variant": "9",
     "Description": "100966-BBK_GRACEFUL",
     "UOM": "PAIR",
@@ -777,6 +413,202 @@
     "Net Inventory": "3"
   },
   {
+    "Item No.": "100970-BBK",
+    "Variant": "10",
+    "Description": "100970-BBK_GRACEFUL",
+    "UOM": "PAIR",
+    "Net Inventory": "1"
+  },
+  {
+    "Item No.": "100970-BBK",
+    "Variant": "6",
+    "Description": "100970-BBK_GRACEFUL",
+    "UOM": "PAIR",
+    "Net Inventory": "1"
+  },
+  {
+    "Item No.": "100970-BBK",
+    "Variant": "7",
+    "Description": "100970-BBK_GRACEFUL",
+    "UOM": "PAIR",
+    "Net Inventory": "3"
+  },
+  {
+    "Item No.": "100970-BBK",
+    "Variant": "7.5",
+    "Description": "100970-BBK_GRACEFUL",
+    "UOM": "PAIR",
+    "Net Inventory": "1"
+  },
+  {
+    "Item No.": "100970-BBK",
+    "Variant": "8",
+    "Description": "100970-BBK_GRACEFUL",
+    "UOM": "PAIR",
+    "Net Inventory": "3"
+  },
+  {
+    "Item No.": "100970-BBK",
+    "Variant": "8.5",
+    "Description": "100970-BBK_GRACEFUL",
+    "UOM": "PAIR",
+    "Net Inventory": "1"
+  },
+  {
+    "Item No.": "100970-BBK",
+    "Variant": "9",
+    "Description": "100970-BBK_GRACEFUL",
+    "UOM": "PAIR",
+    "Net Inventory": "3"
+  },
+  {
+    "Item No.": "100970-GRY",
+    "Variant": "10",
+    "Description": "100970-GRY_GRACEFUL",
+    "UOM": "PAIR",
+    "Net Inventory": "1"
+  },
+  {
+    "Item No.": "100970-GRY",
+    "Variant": "6",
+    "Description": "100970-GRY_GRACEFUL",
+    "UOM": "PAIR",
+    "Net Inventory": "1"
+  },
+  {
+    "Item No.": "100970-GRY",
+    "Variant": "7",
+    "Description": "100970-GRY_GRACEFUL",
+    "UOM": "PAIR",
+    "Net Inventory": "3"
+  },
+  {
+    "Item No.": "100970-GRY",
+    "Variant": "7.5",
+    "Description": "100970-GRY_GRACEFUL",
+    "UOM": "PAIR",
+    "Net Inventory": "1"
+  },
+  {
+    "Item No.": "100970-GRY",
+    "Variant": "8",
+    "Description": "100970-GRY_GRACEFUL",
+    "UOM": "PAIR",
+    "Net Inventory": "3"
+  },
+  {
+    "Item No.": "100970-GRY",
+    "Variant": "8.5",
+    "Description": "100970-GRY_GRACEFUL",
+    "UOM": "PAIR",
+    "Net Inventory": "1"
+  },
+  {
+    "Item No.": "100970-GRY",
+    "Variant": "9",
+    "Description": "100970-GRY_GRACEFUL",
+    "UOM": "PAIR",
+    "Net Inventory": "3"
+  },
+  {
+    "Item No.": "100970-NVY",
+    "Variant": "10",
+    "Description": "100970-NVY_GRACEFUL",
+    "UOM": "PAIR",
+    "Net Inventory": "1"
+  },
+  {
+    "Item No.": "100970-NVY",
+    "Variant": "6",
+    "Description": "100970-NVY_GRACEFUL",
+    "UOM": "PAIR",
+    "Net Inventory": "1"
+  },
+  {
+    "Item No.": "100970-NVY",
+    "Variant": "7",
+    "Description": "100970-NVY_GRACEFUL",
+    "UOM": "PAIR",
+    "Net Inventory": "3"
+  },
+  {
+    "Item No.": "100970-NVY",
+    "Variant": "7.5",
+    "Description": "100970-NVY_GRACEFUL",
+    "UOM": "PAIR",
+    "Net Inventory": "1"
+  },
+  {
+    "Item No.": "100970-NVY",
+    "Variant": "8",
+    "Description": "100970-NVY_GRACEFUL",
+    "UOM": "PAIR",
+    "Net Inventory": "3"
+  },
+  {
+    "Item No.": "100970-NVY",
+    "Variant": "8.5",
+    "Description": "100970-NVY_GRACEFUL",
+    "UOM": "PAIR",
+    "Net Inventory": "1"
+  },
+  {
+    "Item No.": "100970-NVY",
+    "Variant": "9",
+    "Description": "100970-NVY_GRACEFUL",
+    "UOM": "PAIR",
+    "Net Inventory": "3"
+  },
+  {
+    "Item No.": "100970-TPE",
+    "Variant": "10",
+    "Description": "100970-TPE_GRACEFUL",
+    "UOM": "PAIR",
+    "Net Inventory": "1"
+  },
+  {
+    "Item No.": "100970-TPE",
+    "Variant": "6",
+    "Description": "100970-TPE_GRACEFUL",
+    "UOM": "PAIR",
+    "Net Inventory": "1"
+  },
+  {
+    "Item No.": "100970-TPE",
+    "Variant": "7",
+    "Description": "100970-TPE_GRACEFUL",
+    "UOM": "PAIR",
+    "Net Inventory": "3"
+  },
+  {
+    "Item No.": "100970-TPE",
+    "Variant": "7.5",
+    "Description": "100970-TPE_GRACEFUL",
+    "UOM": "PAIR",
+    "Net Inventory": "1"
+  },
+  {
+    "Item No.": "100970-TPE",
+    "Variant": "8",
+    "Description": "100970-TPE_GRACEFUL",
+    "UOM": "PAIR",
+    "Net Inventory": "3"
+  },
+  {
+    "Item No.": "100970-TPE",
+    "Variant": "8.5",
+    "Description": "100970-TPE_GRACEFUL",
+    "UOM": "PAIR",
+    "Net Inventory": "1"
+  },
+  {
+    "Item No.": "100970-TPE",
+    "Variant": "9",
+    "Description": "100970-TPE_GRACEFUL",
+    "UOM": "PAIR",
+    "Net Inventory": "3"
+  },
+  {
     "Item No.": "104421-NTBK",
     "Variant": "10",
     "Description": "104421-NTBK_VIRTUE",
@@ -786,13 +618,6 @@
   {
     "Item No.": "104421-NTBK",
     "Variant": "11",
-    "Description": "104421-NTBK_VIRTUE",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
-  },
-  {
-    "Item No.": "104421-NTBK",
-    "Variant": "5",
     "Description": "104421-NTBK_VIRTUE",
     "UOM": "PAIR",
     "Net Inventory": "1"
@@ -886,7 +711,7 @@
     "Variant": "5",
     "Description": "104425-BBK_VIRTUE",
     "UOM": "PAIR",
-    "Net Inventory": "3"
+    "Net Inventory": "2"
   },
   {
     "Item No.": "104425-BBK",
@@ -1001,83 +826,6 @@
     "Net Inventory": "4"
   },
   {
-    "Item No.": "104430-BKW",
-    "Variant": "10",
-    "Description": "104430-BKW_VIRTUE",
-    "UOM": "PAIR",
-    "Net Inventory": "2"
-  },
-  {
-    "Item No.": "104430-BKW",
-    "Variant": "5",
-    "Description": "104430-BKW_VIRTUE",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
-  },
-  {
-    "Item No.": "104430-BKW",
-    "Variant": "6",
-    "Description": "104430-BKW_VIRTUE",
-    "UOM": "PAIR",
-    "Net Inventory": "4"
-  },
-  {
-    "Item No.": "104430-BKW",
-    "Variant": "7",
-    "Description": "104430-BKW_VIRTUE",
-    "UOM": "PAIR",
-    "Net Inventory": "7"
-  },
-  {
-    "Item No.": "104430-BKW",
-    "Variant": "8",
-    "Description": "104430-BKW_VIRTUE",
-    "UOM": "PAIR",
-    "Net Inventory": "3"
-  },
-  {
-    "Item No.": "104430-BKW",
-    "Variant": "9",
-    "Description": "104430-BKW_VIRTUE",
-    "UOM": "PAIR",
-    "Net Inventory": "4"
-  },
-  {
-    "Item No.": "104430-OFWT",
-    "Variant": "10",
-    "Description": "104430-OFWT_VIRTUE",
-    "UOM": "PAIR",
-    "Net Inventory": "4"
-  },
-  {
-    "Item No.": "104430-OFWT",
-    "Variant": "5",
-    "Description": "104430-OFWT_VIRTUE",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
-  },
-  {
-    "Item No.": "104430-OFWT",
-    "Variant": "6",
-    "Description": "104430-OFWT_VIRTUE",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
-  },
-  {
-    "Item No.": "104430-OFWT",
-    "Variant": "7",
-    "Description": "104430-OFWT_VIRTUE",
-    "UOM": "PAIR",
-    "Net Inventory": "2"
-  },
-  {
-    "Item No.": "104430-OFWT",
-    "Variant": "8",
-    "Description": "104430-OFWT_VIRTUE",
-    "UOM": "PAIR",
-    "Net Inventory": "5"
-  },
-  {
     "Item No.": "104433-NUDE",
     "Variant": "10",
     "Description": "104433-NUDE_VIRTUE",
@@ -1160,34 +908,6 @@
     "Description": "104433-OFWT_VIRTUE",
     "UOM": "PAIR",
     "Net Inventory": "2"
-  },
-  {
-    "Item No.": "104437-GRY",
-    "Variant": "5",
-    "Description": "104437-GRY_VIRTUE",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
-  },
-  {
-    "Item No.": "104437-GRY",
-    "Variant": "7",
-    "Description": "104437-GRY_VIRTUE",
-    "UOM": "PAIR",
-    "Net Inventory": "3"
-  },
-  {
-    "Item No.": "104437-GRY",
-    "Variant": "8",
-    "Description": "104437-GRY_VIRTUE",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
-  },
-  {
-    "Item No.": "104437-GRY",
-    "Variant": "9",
-    "Description": "104437-GRY_VIRTUE",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
   },
   {
     "Item No.": "104451-BKW",
@@ -1667,13 +1387,6 @@
   },
   {
     "Item No.": "108144W-BBK",
-    "Variant": "10",
-    "Description": "108144W-BBK_SUMMITS SR",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
-  },
-  {
-    "Item No.": "108144W-BBK",
     "Variant": "5",
     "Description": "108144W-BBK_SUMMITS SR",
     "UOM": "PAIR",
@@ -1705,7 +1418,7 @@
     "Variant": "9",
     "Description": "108144W-BBK_SUMMITS SR",
     "UOM": "PAIR",
-    "Net Inventory": "3"
+    "Net Inventory": "2"
   },
   {
     "Item No.": "108145-BLK",
@@ -1852,7 +1565,7 @@
     "Variant": "8",
     "Description": "108274-BLK_CORART",
     "UOM": "PAIR",
-    "Net Inventory": "4"
+    "Net Inventory": "3"
   },
   {
     "Item No.": "108274-BLK",
@@ -1873,7 +1586,7 @@
     "Variant": "6",
     "Description": "111054-BBK_FOOTSTEPS",
     "UOM": "PAIR",
-    "Net Inventory": "2"
+    "Net Inventory": "1"
   },
   {
     "Item No.": "111054-BBK",
@@ -2013,7 +1726,7 @@
     "Variant": "9",
     "Description": "111126-WHT_MAX CUSHIONING FOAM",
     "UOM": "PAIR",
-    "Net Inventory": "2"
+    "Net Inventory": "1"
   },
   {
     "Item No.": "111127-TPE",
@@ -2144,13 +1857,6 @@
   {
     "Item No.": "111239-BBK",
     "Variant": "10",
-    "Description": "111239-BBK_ARCH FIT ASCEND",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
-  },
-  {
-    "Item No.": "111239-BBK",
-    "Variant": "5",
     "Description": "111239-BBK_ARCH FIT ASCEND",
     "UOM": "PAIR",
     "Net Inventory": "1"
@@ -2290,17 +1996,10 @@
   },
   {
     "Item No.": "111268-HPK",
-    "Variant": "6",
-    "Description": "111268-HPK_MAX CUSHIONING FOAM",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
-  },
-  {
-    "Item No.": "111268-HPK",
     "Variant": "7",
     "Description": "111268-HPK_MAX CUSHIONING FOAM",
     "UOM": "PAIR",
-    "Net Inventory": "2"
+    "Net Inventory": "1"
   },
   {
     "Item No.": "111268-HPK",
@@ -2342,7 +2041,7 @@
     "Variant": "8",
     "Description": "111268-LTGY_MAX CUSHIONING FOA",
     "UOM": "PAIR",
-    "Net Inventory": "2"
+    "Net Inventory": "1"
   },
   {
     "Item No.": "111268-LTGY",
@@ -2353,13 +2052,6 @@
   },
   {
     "Item No.": "111268-MVE",
-    "Variant": "6",
-    "Description": "111268-MVE_MAX CUSHIONING FOAM",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
-  },
-  {
-    "Item No.": "111268-MVE",
     "Variant": "7",
     "Description": "111268-MVE_MAX CUSHIONING FOAM",
     "UOM": "PAIR",
@@ -2475,7 +2167,7 @@
     "Variant": "6",
     "Description": "111380-BBK_ARCH FIT FOOTSTEPS",
     "UOM": "PAIR",
-    "Net Inventory": "2"
+    "Net Inventory": "1"
   },
   {
     "Item No.": "111380-BBK",
@@ -2570,13 +2262,6 @@
   },
   {
     "Item No.": "111385-BBK",
-    "Variant": "10",
-    "Description": "111385-BBK_ARCH FIT FOAMIES",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
-  },
-  {
-    "Item No.": "111385-BBK",
     "Variant": "5",
     "Description": "111385-BBK_ARCH FIT FOAMIES",
     "UOM": "PAIR",
@@ -2629,7 +2314,7 @@
     "Variant": "6",
     "Description": "111385-BLSH_ARCH FIT FOAMIES",
     "UOM": "PAIR",
-    "Net Inventory": "3"
+    "Net Inventory": "1"
   },
   {
     "Item No.": "111385-BLSH",
@@ -2678,7 +2363,7 @@
     "Variant": "7",
     "Description": "111419-BLK_ARCH FIT FOAMIES OU",
     "UOM": "PAIR",
-    "Net Inventory": "2"
+    "Net Inventory": "1"
   },
   {
     "Item No.": "111419-BLK",
@@ -2703,13 +2388,6 @@
   },
   {
     "Item No.": "111444-BKW",
-    "Variant": "10",
-    "Description": "111444-BKW_ARCH FIT FOAMIES OU",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
-  },
-  {
-    "Item No.": "111444-BKW",
     "Variant": "6",
     "Description": "111444-BKW_ARCH FIT FOAMIES OU",
     "UOM": "PAIR",
@@ -2727,7 +2405,7 @@
     "Variant": "8",
     "Description": "111444-BKW_ARCH FIT FOAMIES OU",
     "UOM": "PAIR",
-    "Net Inventory": "2"
+    "Net Inventory": "1"
   },
   {
     "Item No.": "111444-YLMT",
@@ -2902,7 +2580,7 @@
     "Variant": "10",
     "Description": "111581-LAV_FOAMIES SURGE",
     "UOM": "PAIR",
-    "Net Inventory": "2"
+    "Net Inventory": "1"
   },
   {
     "Item No.": "111581-LAV",
@@ -3280,7 +2958,7 @@
     "Variant": "8",
     "Description": "117391-TPE_BOBS B FLEX HI",
     "UOM": "PAIR",
-    "Net Inventory": "2"
+    "Net Inventory": "1"
   },
   {
     "Item No.": "117391-TPE",
@@ -3308,7 +2986,7 @@
     "Variant": "8",
     "Description": "117391-WHT_BOBS B FLEX HI",
     "UOM": "PAIR",
-    "Net Inventory": "5"
+    "Net Inventory": "3"
   },
   {
     "Item No.": "117391-WHT",
@@ -3318,20 +2996,6 @@
     "Net Inventory": "2"
   },
   {
-    "Item No.": "117620-BLK",
-    "Variant": "6",
-    "Description": "117620-BLK_BOBS SPARROW 2.0",
-    "UOM": "PAIR",
-    "Net Inventory": "3"
-  },
-  {
-    "Item No.": "117620-BLK",
-    "Variant": "7",
-    "Description": "117620-BLK_BOBS SPARROW 2.0",
-    "UOM": "PAIR",
-    "Net Inventory": "2"
-  },
-  {
     "Item No.": "117629-BBK",
     "Variant": "10",
     "Description": "117629-BBK_BOBS ARC WAVES",
@@ -3365,13 +3029,6 @@
     "Description": "117629-BBK_BOBS ARC WAVES",
     "UOM": "PAIR",
     "Net Inventory": "4"
-  },
-  {
-    "Item No.": "117629-NAT",
-    "Variant": "10",
-    "Description": "117629-NAT_BOBS ARC WAVES",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
   },
   {
     "Item No.": "117629-NAT",
@@ -3465,13 +3122,6 @@
     "Net Inventory": "2"
   },
   {
-    "Item No.": "117648-WHT",
-    "Variant": "9",
-    "Description": "117648-WHT_BOBS VISION AIR",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
-  },
-  {
     "Item No.": "117679-OFWT",
     "Variant": "10",
     "Description": "117679-OFWT_BOBS SQUAD WAVES",
@@ -3588,7 +3238,7 @@
     "Variant": "9",
     "Description": "117681-LTGY_BOBS SQUAD WAVES",
     "UOM": "PAIR",
-    "Net Inventory": "3"
+    "Net Inventory": "2"
   },
   {
     "Item No.": "117681-NAT",
@@ -3644,7 +3294,7 @@
     "Variant": "7",
     "Description": "117681-ROS_BOBS SQUAD WAVES",
     "UOM": "PAIR",
-    "Net Inventory": "4"
+    "Net Inventory": "3"
   },
   {
     "Item No.": "117681-ROS",
@@ -3657,6 +3307,90 @@
     "Item No.": "117681-ROS",
     "Variant": "9",
     "Description": "117681-ROS_BOBS SQUAD WAVES",
+    "UOM": "PAIR",
+    "Net Inventory": "3"
+  },
+  {
+    "Item No.": "117716-BBK",
+    "Variant": "10",
+    "Description": "117716-BBK_BOBS B FLEX LO",
+    "UOM": "PAIR",
+    "Net Inventory": "1"
+  },
+  {
+    "Item No.": "117716-BBK",
+    "Variant": "5",
+    "Description": "117716-BBK_BOBS B FLEX LO",
+    "UOM": "PAIR",
+    "Net Inventory": "1"
+  },
+  {
+    "Item No.": "117716-BBK",
+    "Variant": "6",
+    "Description": "117716-BBK_BOBS B FLEX LO",
+    "UOM": "PAIR",
+    "Net Inventory": "3"
+  },
+  {
+    "Item No.": "117716-BBK",
+    "Variant": "7",
+    "Description": "117716-BBK_BOBS B FLEX LO",
+    "UOM": "PAIR",
+    "Net Inventory": "3"
+  },
+  {
+    "Item No.": "117716-BBK",
+    "Variant": "8",
+    "Description": "117716-BBK_BOBS B FLEX LO",
+    "UOM": "PAIR",
+    "Net Inventory": "3"
+  },
+  {
+    "Item No.": "117716-BBK",
+    "Variant": "9",
+    "Description": "117716-BBK_BOBS B FLEX LO",
+    "UOM": "PAIR",
+    "Net Inventory": "3"
+  },
+  {
+    "Item No.": "117716-WHT",
+    "Variant": "10",
+    "Description": "117716-WHT_BOBS B FLEX LO",
+    "UOM": "PAIR",
+    "Net Inventory": "1"
+  },
+  {
+    "Item No.": "117716-WHT",
+    "Variant": "5",
+    "Description": "117716-WHT_BOBS B FLEX LO",
+    "UOM": "PAIR",
+    "Net Inventory": "1"
+  },
+  {
+    "Item No.": "117716-WHT",
+    "Variant": "6",
+    "Description": "117716-WHT_BOBS B FLEX LO",
+    "UOM": "PAIR",
+    "Net Inventory": "3"
+  },
+  {
+    "Item No.": "117716-WHT",
+    "Variant": "7",
+    "Description": "117716-WHT_BOBS B FLEX LO",
+    "UOM": "PAIR",
+    "Net Inventory": "3"
+  },
+  {
+    "Item No.": "117716-WHT",
+    "Variant": "8",
+    "Description": "117716-WHT_BOBS B FLEX LO",
+    "UOM": "PAIR",
+    "Net Inventory": "3"
+  },
+  {
+    "Item No.": "117716-WHT",
+    "Variant": "9",
+    "Description": "117716-WHT_BOBS B FLEX LO",
     "UOM": "PAIR",
     "Net Inventory": "3"
   },
@@ -3685,36 +3419,36 @@
     "Item No.": "117732-BLSH",
     "Variant": "8",
     "Description": "117732-BLSH_BOBS MODA FLEX",
-    "UOM": "PAIR",
-    "Net Inventory": "3"
-  },
-  {
-    "Item No.": "117732-BLSH",
-    "Variant": "9",
-    "Description": "117732-BLSH_BOBS MODA FLEX",
-    "UOM": "PAIR",
-    "Net Inventory": "3"
-  },
-  {
-    "Item No.": "117732-NAT",
-    "Variant": "10",
-    "Description": "117732-NAT_BOBS MODA FLEX",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
-  },
-  {
-    "Item No.": "117732-NAT",
-    "Variant": "6",
-    "Description": "117732-NAT_BOBS MODA FLEX",
     "UOM": "PAIR",
     "Net Inventory": "2"
   },
   {
+    "Item No.": "117732-BLSH",
+    "Variant": "9",
+    "Description": "117732-BLSH_BOBS MODA FLEX",
+    "UOM": "PAIR",
+    "Net Inventory": "3"
+  },
+  {
+    "Item No.": "117732-NAT",
+    "Variant": "10",
+    "Description": "117732-NAT_BOBS MODA FLEX",
+    "UOM": "PAIR",
+    "Net Inventory": "1"
+  },
+  {
+    "Item No.": "117732-NAT",
+    "Variant": "6",
+    "Description": "117732-NAT_BOBS MODA FLEX",
+    "UOM": "PAIR",
+    "Net Inventory": "1"
+  },
+  {
     "Item No.": "117732-NAT",
     "Variant": "7",
     "Description": "117732-NAT_BOBS MODA FLEX",
     "UOM": "PAIR",
-    "Net Inventory": "3"
+    "Net Inventory": "1"
   },
   {
     "Item No.": "117732-NAT",
@@ -3749,21 +3483,14 @@
     "Variant": "7",
     "Description": "117732-OFWT_BOBS MODA FLEX",
     "UOM": "PAIR",
-    "Net Inventory": "4"
-  },
-  {
-    "Item No.": "117732-OFWT",
-    "Variant": "8",
-    "Description": "117732-OFWT_BOBS MODA FLEX",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
+    "Net Inventory": "3"
   },
   {
     "Item No.": "117732-OFWT",
     "Variant": "9",
     "Description": "117732-OFWT_BOBS MODA FLEX",
     "UOM": "PAIR",
-    "Net Inventory": "3"
+    "Net Inventory": "1"
   },
   {
     "Item No.": "117734-BBK",
@@ -3791,14 +3518,14 @@
     "Variant": "8",
     "Description": "117734-BBK_BOBS MODA FLEX",
     "UOM": "PAIR",
-    "Net Inventory": "4"
+    "Net Inventory": "3"
   },
   {
     "Item No.": "117734-BBK",
     "Variant": "9",
     "Description": "117734-BBK_BOBS MODA FLEX",
     "UOM": "PAIR",
-    "Net Inventory": "3"
+    "Net Inventory": "1"
   },
   {
     "Item No.": "117734-LAV",
@@ -3819,14 +3546,14 @@
     "Variant": "8",
     "Description": "117734-LAV_BOBS MODA FLEX",
     "UOM": "PAIR",
-    "Net Inventory": "2"
+    "Net Inventory": "1"
   },
   {
     "Item No.": "117734-LAV",
     "Variant": "9",
     "Description": "117734-LAV_BOBS MODA FLEX",
     "UOM": "PAIR",
-    "Net Inventory": "3"
+    "Net Inventory": "2"
   },
   {
     "Item No.": "117734-OFWT",
@@ -3920,6 +3647,48 @@
     "Net Inventory": "4"
   },
   {
+    "Item No.": "117756-BBK",
+    "Variant": "10",
+    "Description": "117756-BBK_BOBS SKILLZ",
+    "UOM": "PAIR",
+    "Net Inventory": "1"
+  },
+  {
+    "Item No.": "117756-BBK",
+    "Variant": "5",
+    "Description": "117756-BBK_BOBS SKILLZ",
+    "UOM": "PAIR",
+    "Net Inventory": "1"
+  },
+  {
+    "Item No.": "117756-BBK",
+    "Variant": "6",
+    "Description": "117756-BBK_BOBS SKILLZ",
+    "UOM": "PAIR",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "117756-BBK",
+    "Variant": "7",
+    "Description": "117756-BBK_BOBS SKILLZ",
+    "UOM": "PAIR",
+    "Net Inventory": "3"
+  },
+  {
+    "Item No.": "117756-BBK",
+    "Variant": "8",
+    "Description": "117756-BBK_BOBS SKILLZ",
+    "UOM": "PAIR",
+    "Net Inventory": "3"
+  },
+  {
+    "Item No.": "117756-BBK",
+    "Variant": "9",
+    "Description": "117756-BBK_BOBS SKILLZ",
+    "UOM": "PAIR",
+    "Net Inventory": "3"
+  },
+  {
     "Item No.": "117756-OFWT",
     "Variant": "6",
     "Description": "117756-OFWT_BOBS SKILLZ",
@@ -3948,6 +3717,48 @@
     "Net Inventory": "1"
   },
   {
+    "Item No.": "117756-QUAL",
+    "Variant": "10",
+    "Description": "117756-QUAL_BOBS SKILLZ",
+    "UOM": "PAIR",
+    "Net Inventory": "1"
+  },
+  {
+    "Item No.": "117756-QUAL",
+    "Variant": "5",
+    "Description": "117756-QUAL_BOBS SKILLZ",
+    "UOM": "PAIR",
+    "Net Inventory": "1"
+  },
+  {
+    "Item No.": "117756-QUAL",
+    "Variant": "6",
+    "Description": "117756-QUAL_BOBS SKILLZ",
+    "UOM": "PAIR",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "117756-QUAL",
+    "Variant": "7",
+    "Description": "117756-QUAL_BOBS SKILLZ",
+    "UOM": "PAIR",
+    "Net Inventory": "3"
+  },
+  {
+    "Item No.": "117756-QUAL",
+    "Variant": "8",
+    "Description": "117756-QUAL_BOBS SKILLZ",
+    "UOM": "PAIR",
+    "Net Inventory": "3"
+  },
+  {
+    "Item No.": "117756-QUAL",
+    "Variant": "9",
+    "Description": "117756-QUAL_BOBS SKILLZ",
+    "UOM": "PAIR",
+    "Net Inventory": "3"
+  },
+  {
     "Item No.": "117756-WHT",
     "Variant": "6",
     "Description": "117756-WHT_BOBS SKILLZ",
@@ -3972,6 +3783,111 @@
     "Item No.": "117756-WHT",
     "Variant": "9",
     "Description": "117756-WHT_BOBS SKILLZ",
+    "UOM": "PAIR",
+    "Net Inventory": "3"
+  },
+  {
+    "Item No.": "117757-BLK",
+    "Variant": "10",
+    "Description": "117757-BLK_BOBS SKILLZ",
+    "UOM": "PAIR",
+    "Net Inventory": "1"
+  },
+  {
+    "Item No.": "117757-BLK",
+    "Variant": "6",
+    "Description": "117757-BLK_BOBS SKILLZ",
+    "UOM": "PAIR",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "117757-BLK",
+    "Variant": "7",
+    "Description": "117757-BLK_BOBS SKILLZ",
+    "UOM": "PAIR",
+    "Net Inventory": "4"
+  },
+  {
+    "Item No.": "117757-BLK",
+    "Variant": "8",
+    "Description": "117757-BLK_BOBS SKILLZ",
+    "UOM": "PAIR",
+    "Net Inventory": "4"
+  },
+  {
+    "Item No.": "117757-BLK",
+    "Variant": "9",
+    "Description": "117757-BLK_BOBS SKILLZ",
+    "UOM": "PAIR",
+    "Net Inventory": "3"
+  },
+  {
+    "Item No.": "117757-NAT",
+    "Variant": "10",
+    "Description": "117757-NAT_BOBS SKILLZ",
+    "UOM": "PAIR",
+    "Net Inventory": "1"
+  },
+  {
+    "Item No.": "117757-NAT",
+    "Variant": "6",
+    "Description": "117757-NAT_BOBS SKILLZ",
+    "UOM": "PAIR",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "117757-NAT",
+    "Variant": "7",
+    "Description": "117757-NAT_BOBS SKILLZ",
+    "UOM": "PAIR",
+    "Net Inventory": "4"
+  },
+  {
+    "Item No.": "117757-NAT",
+    "Variant": "8",
+    "Description": "117757-NAT_BOBS SKILLZ",
+    "UOM": "PAIR",
+    "Net Inventory": "4"
+  },
+  {
+    "Item No.": "117757-NAT",
+    "Variant": "9",
+    "Description": "117757-NAT_BOBS SKILLZ",
+    "UOM": "PAIR",
+    "Net Inventory": "3"
+  },
+  {
+    "Item No.": "117757-WHT",
+    "Variant": "10",
+    "Description": "117757-WHT_BOBS SKILLZ",
+    "UOM": "PAIR",
+    "Net Inventory": "1"
+  },
+  {
+    "Item No.": "117757-WHT",
+    "Variant": "6",
+    "Description": "117757-WHT_BOBS SKILLZ",
+    "UOM": "PAIR",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "117757-WHT",
+    "Variant": "7",
+    "Description": "117757-WHT_BOBS SKILLZ",
+    "UOM": "PAIR",
+    "Net Inventory": "4"
+  },
+  {
+    "Item No.": "117757-WHT",
+    "Variant": "8",
+    "Description": "117757-WHT_BOBS SKILLZ",
+    "UOM": "PAIR",
+    "Net Inventory": "4"
+  },
+  {
+    "Item No.": "117757-WHT",
+    "Variant": "9",
+    "Description": "117757-WHT_BOBS SKILLZ",
     "UOM": "PAIR",
     "Net Inventory": "3"
   },
@@ -4001,7 +3917,7 @@
     "Variant": "7",
     "Description": "117758-BLK_BOBS SKILLZ",
     "UOM": "PAIR",
-    "Net Inventory": "4"
+    "Net Inventory": "3"
   },
   {
     "Item No.": "117758-BLK",
@@ -4148,7 +4064,7 @@
     "Variant": "8",
     "Description": "117771-TPE_BOBS VAMOS",
     "UOM": "PAIR",
-    "Net Inventory": "5"
+    "Net Inventory": "4"
   },
   {
     "Item No.": "117771-TPE",
@@ -4158,79 +4074,156 @@
     "Net Inventory": "3"
   },
   {
-    "Item No.": "118106-BLK",
-    "Variant": "10",
-    "Description": "118106-BLK_BOBS B FLEX",
-    "UOM": "PAIR",
-    "Net Inventory": "2"
-  },
-  {
-    "Item No.": "118106-BLK",
-    "Variant": "12",
-    "Description": "118106-BLK_BOBS B FLEX",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
-  },
-  {
-    "Item No.": "118106-BLK",
-    "Variant": "7.5",
-    "Description": "118106-BLK_BOBS B FLEX",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
-  },
-  {
-    "Item No.": "118106-BLK",
-    "Variant": "8",
-    "Description": "118106-BLK_BOBS B FLEX",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
-  },
-  {
-    "Item No.": "118106-BLK",
-    "Variant": "9",
-    "Description": "118106-BLK_BOBS B FLEX",
-    "UOM": "PAIR",
-    "Net Inventory": "2"
-  },
-  {
     "Item No.": "118106-OFWT",
-    "Variant": "10",
+    "Variant": "12",
     "Description": "118106-OFWT_BOBS B FLEX",
+    "UOM": "PAIR",
+    "Net Inventory": "1"
+  },
+  {
+    "Item No.": "118156-BBK",
+    "Variant": "10",
+    "Description": "118156-BBK_BOBS MODA FLEX",
     "UOM": "PAIR",
     "Net Inventory": "3"
   },
   {
-    "Item No.": "118106-OFWT",
+    "Item No.": "118156-BBK",
+    "Variant": "10.5",
+    "Description": "118156-BBK_BOBS MODA FLEX",
+    "UOM": "PAIR",
+    "Net Inventory": "1"
+  },
+  {
+    "Item No.": "118156-BBK",
     "Variant": "11",
-    "Description": "118106-OFWT_BOBS B FLEX",
-    "UOM": "PAIR",
-    "Net Inventory": "2"
-  },
-  {
-    "Item No.": "118106-OFWT",
-    "Variant": "12",
-    "Description": "118106-OFWT_BOBS B FLEX",
-    "UOM": "PAIR",
-    "Net Inventory": "2"
-  },
-  {
-    "Item No.": "118106-OFWT",
-    "Variant": "7.5",
-    "Description": "118106-OFWT_BOBS B FLEX",
+    "Description": "118156-BBK_BOBS MODA FLEX",
     "UOM": "PAIR",
     "Net Inventory": "1"
   },
   {
-    "Item No.": "118106-OFWT",
+    "Item No.": "118156-BBK",
+    "Variant": "12",
+    "Description": "118156-BBK_BOBS MODA FLEX",
+    "UOM": "PAIR",
+    "Net Inventory": "1"
+  },
+  {
+    "Item No.": "118156-BBK",
+    "Variant": "7.5",
+    "Description": "118156-BBK_BOBS MODA FLEX",
+    "UOM": "PAIR",
+    "Net Inventory": "1"
+  },
+  {
+    "Item No.": "118156-BBK",
     "Variant": "8",
-    "Description": "118106-OFWT_BOBS B FLEX",
+    "Description": "118156-BBK_BOBS MODA FLEX",
     "UOM": "PAIR",
     "Net Inventory": "3"
   },
   {
-    "Item No.": "118106-OFWT",
+    "Item No.": "118156-BBK",
     "Variant": "9",
-    "Description": "118106-OFWT_BOBS B FLEX",
+    "Description": "118156-BBK_BOBS MODA FLEX",
+    "UOM": "PAIR",
+    "Net Inventory": "3"
+  },
+  {
+    "Item No.": "118156-BRN",
+    "Variant": "10",
+    "Description": "118156-BRN_BOBS MODA FLEX",
+    "UOM": "PAIR",
+    "Net Inventory": "3"
+  },
+  {
+    "Item No.": "118156-BRN",
+    "Variant": "10.5",
+    "Description": "118156-BRN_BOBS MODA FLEX",
+    "UOM": "PAIR",
+    "Net Inventory": "1"
+  },
+  {
+    "Item No.": "118156-BRN",
+    "Variant": "11",
+    "Description": "118156-BRN_BOBS MODA FLEX",
+    "UOM": "PAIR",
+    "Net Inventory": "1"
+  },
+  {
+    "Item No.": "118156-BRN",
+    "Variant": "12",
+    "Description": "118156-BRN_BOBS MODA FLEX",
+    "UOM": "PAIR",
+    "Net Inventory": "1"
+  },
+  {
+    "Item No.": "118156-BRN",
+    "Variant": "7.5",
+    "Description": "118156-BRN_BOBS MODA FLEX",
+    "UOM": "PAIR",
+    "Net Inventory": "1"
+  },
+  {
+    "Item No.": "118156-BRN",
+    "Variant": "8",
+    "Description": "118156-BRN_BOBS MODA FLEX",
+    "UOM": "PAIR",
+    "Net Inventory": "3"
+  },
+  {
+    "Item No.": "118156-BRN",
+    "Variant": "9",
+    "Description": "118156-BRN_BOBS MODA FLEX",
+    "UOM": "PAIR",
+    "Net Inventory": "3"
+  },
+  {
+    "Item No.": "118156-DKNV",
+    "Variant": "10",
+    "Description": "118156-DKNV_BOBS MODA FLEX",
+    "UOM": "PAIR",
+    "Net Inventory": "3"
+  },
+  {
+    "Item No.": "118156-DKNV",
+    "Variant": "10.5",
+    "Description": "118156-DKNV_BOBS MODA FLEX",
+    "UOM": "PAIR",
+    "Net Inventory": "1"
+  },
+  {
+    "Item No.": "118156-DKNV",
+    "Variant": "11",
+    "Description": "118156-DKNV_BOBS MODA FLEX",
+    "UOM": "PAIR",
+    "Net Inventory": "1"
+  },
+  {
+    "Item No.": "118156-DKNV",
+    "Variant": "12",
+    "Description": "118156-DKNV_BOBS MODA FLEX",
+    "UOM": "PAIR",
+    "Net Inventory": "1"
+  },
+  {
+    "Item No.": "118156-DKNV",
+    "Variant": "7.5",
+    "Description": "118156-DKNV_BOBS MODA FLEX",
+    "UOM": "PAIR",
+    "Net Inventory": "1"
+  },
+  {
+    "Item No.": "118156-DKNV",
+    "Variant": "8",
+    "Description": "118156-DKNV_BOBS MODA FLEX",
+    "UOM": "PAIR",
+    "Net Inventory": "3"
+  },
+  {
+    "Item No.": "118156-DKNV",
+    "Variant": "9",
+    "Description": "118156-DKNV_BOBS MODA FLEX",
     "UOM": "PAIR",
     "Net Inventory": "3"
   },
@@ -4662,34 +4655,6 @@
     "Net Inventory": "5"
   },
   {
-    "Item No.": "118425-BBK",
-    "Variant": "10",
-    "Description": "118425-BBK_BOBS ARC WAVES",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
-  },
-  {
-    "Item No.": "118425-BBK",
-    "Variant": "11",
-    "Description": "118425-BBK_BOBS ARC WAVES",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
-  },
-  {
-    "Item No.": "118425-BBK",
-    "Variant": "12",
-    "Description": "118425-BBK_BOBS ARC WAVES",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
-  },
-  {
-    "Item No.": "118425-BBK",
-    "Variant": "9",
-    "Description": "118425-BBK_BOBS ARC WAVES",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
-  },
-  {
     "Item No.": "118425-CCL",
     "Variant": "10",
     "Description": "118425-CCL_BOBS ARC WAVES",
@@ -4753,6 +4718,251 @@
     "Net Inventory": "3"
   },
   {
+    "Item No.": "118431-BLK",
+    "Variant": "10",
+    "Description": "118431-BLK_BOBS SKILLZ",
+    "UOM": "PAIR",
+    "Net Inventory": "3"
+  },
+  {
+    "Item No.": "118431-BLK",
+    "Variant": "10.5",
+    "Description": "118431-BLK_BOBS SKILLZ",
+    "UOM": "PAIR",
+    "Net Inventory": "1"
+  },
+  {
+    "Item No.": "118431-BLK",
+    "Variant": "11",
+    "Description": "118431-BLK_BOBS SKILLZ",
+    "UOM": "PAIR",
+    "Net Inventory": "1"
+  },
+  {
+    "Item No.": "118431-BLK",
+    "Variant": "12",
+    "Description": "118431-BLK_BOBS SKILLZ",
+    "UOM": "PAIR",
+    "Net Inventory": "1"
+  },
+  {
+    "Item No.": "118431-BLK",
+    "Variant": "7.5",
+    "Description": "118431-BLK_BOBS SKILLZ",
+    "UOM": "PAIR",
+    "Net Inventory": "1"
+  },
+  {
+    "Item No.": "118431-BLK",
+    "Variant": "8",
+    "Description": "118431-BLK_BOBS SKILLZ",
+    "UOM": "PAIR",
+    "Net Inventory": "3"
+  },
+  {
+    "Item No.": "118431-BLK",
+    "Variant": "9",
+    "Description": "118431-BLK_BOBS SKILLZ",
+    "UOM": "PAIR",
+    "Net Inventory": "3"
+  },
+  {
+    "Item No.": "118431-LTGY",
+    "Variant": "10",
+    "Description": "118431-LTGY_BOBS SKILLZ",
+    "UOM": "PAIR",
+    "Net Inventory": "3"
+  },
+  {
+    "Item No.": "118431-LTGY",
+    "Variant": "10.5",
+    "Description": "118431-LTGY_BOBS SKILLZ",
+    "UOM": "PAIR",
+    "Net Inventory": "1"
+  },
+  {
+    "Item No.": "118431-LTGY",
+    "Variant": "11",
+    "Description": "118431-LTGY_BOBS SKILLZ",
+    "UOM": "PAIR",
+    "Net Inventory": "1"
+  },
+  {
+    "Item No.": "118431-LTGY",
+    "Variant": "12",
+    "Description": "118431-LTGY_BOBS SKILLZ",
+    "UOM": "PAIR",
+    "Net Inventory": "1"
+  },
+  {
+    "Item No.": "118431-LTGY",
+    "Variant": "7.5",
+    "Description": "118431-LTGY_BOBS SKILLZ",
+    "UOM": "PAIR",
+    "Net Inventory": "1"
+  },
+  {
+    "Item No.": "118431-LTGY",
+    "Variant": "8",
+    "Description": "118431-LTGY_BOBS SKILLZ",
+    "UOM": "PAIR",
+    "Net Inventory": "3"
+  },
+  {
+    "Item No.": "118431-LTGY",
+    "Variant": "9",
+    "Description": "118431-LTGY_BOBS SKILLZ",
+    "UOM": "PAIR",
+    "Net Inventory": "3"
+  },
+  {
+    "Item No.": "118431-NTOL",
+    "Variant": "10",
+    "Description": "118431-NTOL_BOBS SKILLZ",
+    "UOM": "PAIR",
+    "Net Inventory": "3"
+  },
+  {
+    "Item No.": "118431-NTOL",
+    "Variant": "10.5",
+    "Description": "118431-NTOL_BOBS SKILLZ",
+    "UOM": "PAIR",
+    "Net Inventory": "1"
+  },
+  {
+    "Item No.": "118431-NTOL",
+    "Variant": "11",
+    "Description": "118431-NTOL_BOBS SKILLZ",
+    "UOM": "PAIR",
+    "Net Inventory": "1"
+  },
+  {
+    "Item No.": "118431-NTOL",
+    "Variant": "12",
+    "Description": "118431-NTOL_BOBS SKILLZ",
+    "UOM": "PAIR",
+    "Net Inventory": "1"
+  },
+  {
+    "Item No.": "118431-NTOL",
+    "Variant": "7.5",
+    "Description": "118431-NTOL_BOBS SKILLZ",
+    "UOM": "PAIR",
+    "Net Inventory": "1"
+  },
+  {
+    "Item No.": "118431-NTOL",
+    "Variant": "8",
+    "Description": "118431-NTOL_BOBS SKILLZ",
+    "UOM": "PAIR",
+    "Net Inventory": "3"
+  },
+  {
+    "Item No.": "118431-NTOL",
+    "Variant": "9",
+    "Description": "118431-NTOL_BOBS SKILLZ",
+    "UOM": "PAIR",
+    "Net Inventory": "3"
+  },
+  {
+    "Item No.": "118431-TPE",
+    "Variant": "10",
+    "Description": "118431-TPE_BOBS SKILLZ",
+    "UOM": "PAIR",
+    "Net Inventory": "3"
+  },
+  {
+    "Item No.": "118431-TPE",
+    "Variant": "10.5",
+    "Description": "118431-TPE_BOBS SKILLZ",
+    "UOM": "PAIR",
+    "Net Inventory": "1"
+  },
+  {
+    "Item No.": "118431-TPE",
+    "Variant": "11",
+    "Description": "118431-TPE_BOBS SKILLZ",
+    "UOM": "PAIR",
+    "Net Inventory": "1"
+  },
+  {
+    "Item No.": "118431-TPE",
+    "Variant": "12",
+    "Description": "118431-TPE_BOBS SKILLZ",
+    "UOM": "PAIR",
+    "Net Inventory": "1"
+  },
+  {
+    "Item No.": "118431-TPE",
+    "Variant": "7.5",
+    "Description": "118431-TPE_BOBS SKILLZ",
+    "UOM": "PAIR",
+    "Net Inventory": "1"
+  },
+  {
+    "Item No.": "118431-TPE",
+    "Variant": "8",
+    "Description": "118431-TPE_BOBS SKILLZ",
+    "UOM": "PAIR",
+    "Net Inventory": "3"
+  },
+  {
+    "Item No.": "118431-TPE",
+    "Variant": "9",
+    "Description": "118431-TPE_BOBS SKILLZ",
+    "UOM": "PAIR",
+    "Net Inventory": "3"
+  },
+  {
+    "Item No.": "118431-WGY",
+    "Variant": "10",
+    "Description": "118431-WGY_BOBS SKILLZ",
+    "UOM": "PAIR",
+    "Net Inventory": "3"
+  },
+  {
+    "Item No.": "118431-WGY",
+    "Variant": "10.5",
+    "Description": "118431-WGY_BOBS SKILLZ",
+    "UOM": "PAIR",
+    "Net Inventory": "1"
+  },
+  {
+    "Item No.": "118431-WGY",
+    "Variant": "11",
+    "Description": "118431-WGY_BOBS SKILLZ",
+    "UOM": "PAIR",
+    "Net Inventory": "1"
+  },
+  {
+    "Item No.": "118431-WGY",
+    "Variant": "12",
+    "Description": "118431-WGY_BOBS SKILLZ",
+    "UOM": "PAIR",
+    "Net Inventory": "1"
+  },
+  {
+    "Item No.": "118431-WGY",
+    "Variant": "7.5",
+    "Description": "118431-WGY_BOBS SKILLZ",
+    "UOM": "PAIR",
+    "Net Inventory": "1"
+  },
+  {
+    "Item No.": "118431-WGY",
+    "Variant": "8",
+    "Description": "118431-WGY_BOBS SKILLZ",
+    "UOM": "PAIR",
+    "Net Inventory": "3"
+  },
+  {
+    "Item No.": "118431-WGY",
+    "Variant": "9",
+    "Description": "118431-WGY_BOBS SKILLZ",
+    "UOM": "PAIR",
+    "Net Inventory": "3"
+  },
+  {
     "Item No.": "118433-BBK",
     "Variant": "10",
     "Description": "118433-BBK_BOBS SKILLZ",
@@ -4799,7 +5009,7 @@
     "Variant": "9",
     "Description": "118433-BBK_BOBS SKILLZ",
     "UOM": "PAIR",
-    "Net Inventory": "2"
+    "Net Inventory": "1"
   },
   {
     "Item No.": "119827-BLSH",
@@ -4831,17 +5041,10 @@
   },
   {
     "Item No.": "119827-BLSH",
-    "Variant": "8",
-    "Description": "119827-BLSH_D'LUX WALKER",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
-  },
-  {
-    "Item No.": "119827-BLSH",
     "Variant": "9",
     "Description": "119827-BLSH_D'LUX WALKER",
     "UOM": "PAIR",
-    "Net Inventory": "2"
+    "Net Inventory": "1"
   },
   {
     "Item No.": "119827-LAV",
@@ -4876,7 +5079,7 @@
     "Variant": "9",
     "Description": "119827-LAV_D'LUX WALKER",
     "UOM": "PAIR",
-    "Net Inventory": "2"
+    "Net Inventory": "1"
   },
   {
     "Item No.": "119975-BBK",
@@ -4887,17 +5090,10 @@
   },
   {
     "Item No.": "119975-BBK",
-    "Variant": "8",
-    "Description": "119975-BBK_ULTRA FLEX 3.0",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
-  },
-  {
-    "Item No.": "119975-BBK",
     "Variant": "9",
     "Description": "119975-BBK_ULTRA FLEX 3.0",
     "UOM": "PAIR",
-    "Net Inventory": "2"
+    "Net Inventory": "1"
   },
   {
     "Item No.": "119975-BLK",
@@ -4963,13 +5159,6 @@
     "Net Inventory": "2"
   },
   {
-    "Item No.": "124187-TPE",
-    "Variant": "9",
-    "Description": "124187-TPE_GO WALK JOY",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
-  },
-  {
     "Item No.": "124277-NVW",
     "Variant": "10",
     "Description": "124277-NVW_GO WALK TRAVEL",
@@ -4988,7 +5177,7 @@
     "Variant": "7",
     "Description": "124277-NVW_GO WALK TRAVEL",
     "UOM": "PAIR",
-    "Net Inventory": "3"
+    "Net Inventory": "2"
   },
   {
     "Item No.": "124277-NVW",
@@ -5002,7 +5191,7 @@
     "Variant": "9",
     "Description": "124277-NVW_GO WALK TRAVEL",
     "UOM": "PAIR",
-    "Net Inventory": "4"
+    "Net Inventory": "3"
   },
   {
     "Item No.": "124637-BKW",
@@ -5310,7 +5499,7 @@
     "Variant": "6",
     "Description": "124683-GYLP_GO WALK JOY",
     "UOM": "PAIR",
-    "Net Inventory": "2"
+    "Net Inventory": "1"
   },
   {
     "Item No.": "124683-GYLP",
@@ -5527,7 +5716,7 @@
     "Variant": "8",
     "Description": "124686-TPE_GO WALK JOY",
     "UOM": "PAIR",
-    "Net Inventory": "5"
+    "Net Inventory": "4"
   },
   {
     "Item No.": "124686-TPE",
@@ -5576,7 +5765,7 @@
     "Variant": "9",
     "Description": "124763-BKW_GO WALK TRAVEL",
     "UOM": "PAIR",
-    "Net Inventory": "3"
+    "Net Inventory": "2"
   },
   {
     "Item No.": "124763-MVE",
@@ -5870,7 +6059,7 @@
     "Variant": "8",
     "Description": "124823-NTPR_GO WALK FLEX",
     "UOM": "PAIR",
-    "Net Inventory": "3"
+    "Net Inventory": "2"
   },
   {
     "Item No.": "124823-NTPR",
@@ -6262,7 +6451,7 @@
     "Variant": "9",
     "Description": "124836-BLU_GO WALK FLEX",
     "UOM": "PAIR",
-    "Net Inventory": "2"
+    "Net Inventory": "1"
   },
   {
     "Item No.": "124836-LTPK",
@@ -6395,7 +6584,7 @@
     "Variant": "9",
     "Description": "124836-WHT_GO WALK FLEX",
     "UOM": "PAIR",
-    "Net Inventory": "4"
+    "Net Inventory": "3"
   },
   {
     "Item No.": "124840-BBK",
@@ -6591,7 +6780,7 @@
     "Variant": "9",
     "Description": "124840-WHT_GO WALK FLEX",
     "UOM": "PAIR",
-    "Net Inventory": "4"
+    "Net Inventory": "3"
   },
   {
     "Item No.": "124848-BKW",
@@ -6626,14 +6815,7 @@
     "Variant": "7",
     "Description": "124848-BKW_GO WALK FLEX",
     "UOM": "PAIR",
-    "Net Inventory": "3"
-  },
-  {
-    "Item No.": "124848-BKW",
-    "Variant": "8",
-    "Description": "124848-BKW_GO WALK FLEX",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
+    "Net Inventory": "2"
   },
   {
     "Item No.": "124848-BKW",
@@ -6937,711 +7119,11 @@
     "Net Inventory": "1"
   },
   {
-    "Item No.": "125204-BKW",
-    "Variant": "10",
-    "Description": "125204-BKW_GO WALK 7",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
-  },
-  {
-    "Item No.": "125204-BKW",
-    "Variant": "5",
-    "Description": "125204-BKW_GO WALK 7",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
-  },
-  {
-    "Item No.": "125204-BKW",
-    "Variant": "6",
-    "Description": "125204-BKW_GO WALK 7",
-    "UOM": "PAIR",
-    "Net Inventory": "2"
-  },
-  {
-    "Item No.": "125204-BKW",
-    "Variant": "7",
-    "Description": "125204-BKW_GO WALK 7",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
-  },
-  {
-    "Item No.": "125204-BKW",
-    "Variant": "8",
-    "Description": "125204-BKW_GO WALK 7",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
-  },
-  {
-    "Item No.": "125204-BKW",
-    "Variant": "9.5",
-    "Description": "125204-BKW_GO WALK 7",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
-  },
-  {
-    "Item No.": "125204-LTBL",
-    "Variant": "10",
-    "Description": "125204-LTBL_GO WALK 7",
-    "UOM": "PAIR",
-    "Net Inventory": "2"
-  },
-  {
-    "Item No.": "125204-LTBL",
-    "Variant": "5",
-    "Description": "125204-LTBL_GO WALK 7",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
-  },
-  {
-    "Item No.": "125204-LTBL",
-    "Variant": "6",
-    "Description": "125204-LTBL_GO WALK 7",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
-  },
-  {
-    "Item No.": "125204-LTBL",
-    "Variant": "7.5",
-    "Description": "125204-LTBL_GO WALK 7",
-    "UOM": "PAIR",
-    "Net Inventory": "2"
-  },
-  {
-    "Item No.": "125204-LTBL",
-    "Variant": "8",
-    "Description": "125204-LTBL_GO WALK 7",
-    "UOM": "PAIR",
-    "Net Inventory": "2"
-  },
-  {
-    "Item No.": "125204-LTBL",
-    "Variant": "8.5",
-    "Description": "125204-LTBL_GO WALK 7",
-    "UOM": "PAIR",
-    "Net Inventory": "2"
-  },
-  {
-    "Item No.": "125204-LTBL",
-    "Variant": "9",
-    "Description": "125204-LTBL_GO WALK 7",
-    "UOM": "PAIR",
-    "Net Inventory": "2"
-  },
-  {
-    "Item No.": "125204-MVE",
-    "Variant": "10",
-    "Description": "125204-MVE_GO WALK 7",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
-  },
-  {
-    "Item No.": "125204-MVE",
-    "Variant": "6",
-    "Description": "125204-MVE_GO WALK 7",
-    "UOM": "PAIR",
-    "Net Inventory": "2"
-  },
-  {
-    "Item No.": "125204-MVE",
-    "Variant": "8.5",
-    "Description": "125204-MVE_GO WALK 7",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
-  },
-  {
-    "Item No.": "125204-MVE",
-    "Variant": "9",
-    "Description": "125204-MVE_GO WALK 7",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
-  },
-  {
-    "Item No.": "125204-OWHT",
-    "Variant": "10",
-    "Description": "125204-OWHT_GO WALK 7",
-    "UOM": "PAIR",
-    "Net Inventory": "2"
-  },
-  {
-    "Item No.": "125204-OWHT",
-    "Variant": "11",
-    "Description": "125204-OWHT_GO WALK 7",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
-  },
-  {
-    "Item No.": "125204-OWHT",
-    "Variant": "6",
-    "Description": "125204-OWHT_GO WALK 7",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
-  },
-  {
-    "Item No.": "125204-OWHT",
-    "Variant": "7",
-    "Description": "125204-OWHT_GO WALK 7",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
-  },
-  {
-    "Item No.": "125204-OWHT",
-    "Variant": "9.5",
-    "Description": "125204-OWHT_GO WALK 7",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
-  },
-  {
-    "Item No.": "125213-BKAQ",
-    "Variant": "10",
-    "Description": "125213-BKAQ_GO WALK 7",
-    "UOM": "PAIR",
-    "Net Inventory": "2"
-  },
-  {
-    "Item No.": "125213-BKAQ",
-    "Variant": "5",
-    "Description": "125213-BKAQ_GO WALK 7",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
-  },
-  {
-    "Item No.": "125213-BKAQ",
-    "Variant": "6",
-    "Description": "125213-BKAQ_GO WALK 7",
-    "UOM": "PAIR",
-    "Net Inventory": "2"
-  },
-  {
-    "Item No.": "125213-BKAQ",
-    "Variant": "6.5",
-    "Description": "125213-BKAQ_GO WALK 7",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
-  },
-  {
-    "Item No.": "125213-BKAQ",
-    "Variant": "7",
-    "Description": "125213-BKAQ_GO WALK 7",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
-  },
-  {
-    "Item No.": "125213-BKAQ",
-    "Variant": "7.5",
-    "Description": "125213-BKAQ_GO WALK 7",
-    "UOM": "PAIR",
-    "Net Inventory": "2"
-  },
-  {
-    "Item No.": "125213-BKAQ",
-    "Variant": "9",
-    "Description": "125213-BKAQ_GO WALK 7",
-    "UOM": "PAIR",
-    "Net Inventory": "2"
-  },
-  {
-    "Item No.": "125213-MVE",
-    "Variant": "10",
-    "Description": "125213-MVE_GO WALK 7",
-    "UOM": "PAIR",
-    "Net Inventory": "2"
-  },
-  {
-    "Item No.": "125213-MVE",
-    "Variant": "6",
-    "Description": "125213-MVE_GO WALK 7",
-    "UOM": "PAIR",
-    "Net Inventory": "2"
-  },
-  {
-    "Item No.": "125213-MVE",
-    "Variant": "7",
-    "Description": "125213-MVE_GO WALK 7",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
-  },
-  {
-    "Item No.": "125213-MVE",
-    "Variant": "9",
-    "Description": "125213-MVE_GO WALK 7",
-    "UOM": "PAIR",
-    "Net Inventory": "2"
-  },
-  {
-    "Item No.": "125213-WHT",
-    "Variant": "10",
-    "Description": "125213-WHT_GO WALK 7",
-    "UOM": "PAIR",
-    "Net Inventory": "2"
-  },
-  {
-    "Item No.": "125213-WHT",
-    "Variant": "6",
-    "Description": "125213-WHT_GO WALK 7",
-    "UOM": "PAIR",
-    "Net Inventory": "2"
-  },
-  {
-    "Item No.": "125213-WHT",
-    "Variant": "6.5",
-    "Description": "125213-WHT_GO WALK 7",
-    "UOM": "PAIR",
-    "Net Inventory": "2"
-  },
-  {
-    "Item No.": "125213-WHT",
-    "Variant": "7",
-    "Description": "125213-WHT_GO WALK 7",
-    "UOM": "PAIR",
-    "Net Inventory": "2"
-  },
-  {
-    "Item No.": "125213-WHT",
-    "Variant": "7.5",
-    "Description": "125213-WHT_GO WALK 7",
-    "UOM": "PAIR",
-    "Net Inventory": "2"
-  },
-  {
-    "Item No.": "125213-WHT",
-    "Variant": "8",
-    "Description": "125213-WHT_GO WALK 7",
-    "UOM": "PAIR",
-    "Net Inventory": "2"
-  },
-  {
-    "Item No.": "125213-WHT",
-    "Variant": "8.5",
-    "Description": "125213-WHT_GO WALK 7",
-    "UOM": "PAIR",
-    "Net Inventory": "2"
-  },
-  {
-    "Item No.": "125213-WHT",
-    "Variant": "9",
-    "Description": "125213-WHT_GO WALK 7",
-    "UOM": "PAIR",
-    "Net Inventory": "2"
-  },
-  {
-    "Item No.": "125213-WHT",
-    "Variant": "9.5",
-    "Description": "125213-WHT_GO WALK 7",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
-  },
-  {
-    "Item No.": "125218-BKW",
-    "Variant": "10",
-    "Description": "125218-BKW_GO WALK 7",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
-  },
-  {
-    "Item No.": "125218-BKW",
-    "Variant": "6",
-    "Description": "125218-BKW_GO WALK 7",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
-  },
-  {
-    "Item No.": "125218-BKW",
-    "Variant": "9",
-    "Description": "125218-BKW_GO WALK 7",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
-  },
-  {
-    "Item No.": "125218-WLB",
-    "Variant": "10",
-    "Description": "125218-WLB_GO WALK 7",
-    "UOM": "PAIR",
-    "Net Inventory": "2"
-  },
-  {
-    "Item No.": "125218-WLB",
-    "Variant": "11",
-    "Description": "125218-WLB_GO WALK 7",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
-  },
-  {
-    "Item No.": "125218-WLB",
-    "Variant": "5",
-    "Description": "125218-WLB_GO WALK 7",
-    "UOM": "PAIR",
-    "Net Inventory": "2"
-  },
-  {
-    "Item No.": "125218-WLB",
-    "Variant": "6",
-    "Description": "125218-WLB_GO WALK 7",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
-  },
-  {
-    "Item No.": "125218-WLB",
-    "Variant": "6.5",
-    "Description": "125218-WLB_GO WALK 7",
-    "UOM": "PAIR",
-    "Net Inventory": "2"
-  },
-  {
-    "Item No.": "125218-WLB",
-    "Variant": "7",
-    "Description": "125218-WLB_GO WALK 7",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
-  },
-  {
-    "Item No.": "125218-WLB",
-    "Variant": "7.5",
-    "Description": "125218-WLB_GO WALK 7",
-    "UOM": "PAIR",
-    "Net Inventory": "2"
-  },
-  {
-    "Item No.": "125218-WLB",
-    "Variant": "8",
-    "Description": "125218-WLB_GO WALK 7",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
-  },
-  {
-    "Item No.": "125218-WLB",
-    "Variant": "8.5",
-    "Description": "125218-WLB_GO WALK 7",
-    "UOM": "PAIR",
-    "Net Inventory": "2"
-  },
-  {
-    "Item No.": "125218-WLB",
-    "Variant": "9",
-    "Description": "125218-WLB_GO WALK 7",
-    "UOM": "PAIR",
-    "Net Inventory": "2"
-  },
-  {
-    "Item No.": "125218-WLB",
-    "Variant": "9.5",
-    "Description": "125218-WLB_GO WALK 7",
-    "UOM": "PAIR",
-    "Net Inventory": "2"
-  },
-  {
-    "Item No.": "125228-GYLV",
-    "Variant": "10",
-    "Description": "125228-GYLV_GO WALK 7",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
-  },
-  {
-    "Item No.": "125228-GYLV",
-    "Variant": "5",
-    "Description": "125228-GYLV_GO WALK 7",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
-  },
-  {
-    "Item No.": "125228-GYLV",
-    "Variant": "6",
-    "Description": "125228-GYLV_GO WALK 7",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
-  },
-  {
-    "Item No.": "125228-GYLV",
-    "Variant": "7.5",
-    "Description": "125228-GYLV_GO WALK 7",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
-  },
-  {
-    "Item No.": "125228-GYLV",
-    "Variant": "8",
-    "Description": "125228-GYLV_GO WALK 7",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
-  },
-  {
-    "Item No.": "125228-GYLV",
-    "Variant": "8.5",
-    "Description": "125228-GYLV_GO WALK 7",
-    "UOM": "PAIR",
-    "Net Inventory": "2"
-  },
-  {
-    "Item No.": "125228-GYLV",
-    "Variant": "9",
-    "Description": "125228-GYLV_GO WALK 7",
-    "UOM": "PAIR",
-    "Net Inventory": "2"
-  },
-  {
     "Item No.": "125228-LTPK",
     "Variant": "10",
     "Description": "125228-LTPK_GO WALK 7",
     "UOM": "PAIR",
     "Net Inventory": "1"
-  },
-  {
-    "Item No.": "125228-LTPK",
-    "Variant": "6",
-    "Description": "125228-LTPK_GO WALK 7",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
-  },
-  {
-    "Item No.": "125228-LTPK",
-    "Variant": "7",
-    "Description": "125228-LTPK_GO WALK 7",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
-  },
-  {
-    "Item No.": "125228-LTPK",
-    "Variant": "7.5",
-    "Description": "125228-LTPK_GO WALK 7",
-    "UOM": "PAIR",
-    "Net Inventory": "2"
-  },
-  {
-    "Item No.": "125228-LTPK",
-    "Variant": "8.5",
-    "Description": "125228-LTPK_GO WALK 7",
-    "UOM": "PAIR",
-    "Net Inventory": "2"
-  },
-  {
-    "Item No.": "125228-LTPK",
-    "Variant": "9",
-    "Description": "125228-LTPK_GO WALK 7",
-    "UOM": "PAIR",
-    "Net Inventory": "2"
-  },
-  {
-    "Item No.": "125228-NVAQ",
-    "Variant": "5",
-    "Description": "125228-NVAQ_GO WALK 7",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
-  },
-  {
-    "Item No.": "125228-NVAQ",
-    "Variant": "6",
-    "Description": "125228-NVAQ_GO WALK 7",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
-  },
-  {
-    "Item No.": "125228-NVAQ",
-    "Variant": "8",
-    "Description": "125228-NVAQ_GO WALK 7",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
-  },
-  {
-    "Item No.": "125228-NVAQ",
-    "Variant": "9",
-    "Description": "125228-NVAQ_GO WALK 7",
-    "UOM": "PAIR",
-    "Net Inventory": "2"
-  },
-  {
-    "Item No.": "125228-WPK",
-    "Variant": "10",
-    "Description": "125228-WPK_GO WALK 7",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
-  },
-  {
-    "Item No.": "125228-WPK",
-    "Variant": "5",
-    "Description": "125228-WPK_GO WALK 7",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
-  },
-  {
-    "Item No.": "125228-WPK",
-    "Variant": "6",
-    "Description": "125228-WPK_GO WALK 7",
-    "UOM": "PAIR",
-    "Net Inventory": "2"
-  },
-  {
-    "Item No.": "125228-WPK",
-    "Variant": "6.5",
-    "Description": "125228-WPK_GO WALK 7",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
-  },
-  {
-    "Item No.": "125228-WPK",
-    "Variant": "7",
-    "Description": "125228-WPK_GO WALK 7",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
-  },
-  {
-    "Item No.": "125228-WPK",
-    "Variant": "7.5",
-    "Description": "125228-WPK_GO WALK 7",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
-  },
-  {
-    "Item No.": "125228-WPK",
-    "Variant": "8",
-    "Description": "125228-WPK_GO WALK 7",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
-  },
-  {
-    "Item No.": "125228-WPK",
-    "Variant": "8.5",
-    "Description": "125228-WPK_GO WALK 7",
-    "UOM": "PAIR",
-    "Net Inventory": "2"
-  },
-  {
-    "Item No.": "125228-WPK",
-    "Variant": "9",
-    "Description": "125228-WPK_GO WALK 7",
-    "UOM": "PAIR",
-    "Net Inventory": "2"
-  },
-  {
-    "Item No.": "125242-BKLV",
-    "Variant": "5",
-    "Description": "125242-BKLV_GO WALK 7",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
-  },
-  {
-    "Item No.": "125242-BKLV",
-    "Variant": "6",
-    "Description": "125242-BKLV_GO WALK 7",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
-  },
-  {
-    "Item No.": "125242-NVAQ",
-    "Variant": "6",
-    "Description": "125242-NVAQ_GO WALK 7",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
-  },
-  {
-    "Item No.": "125242-NVAQ",
-    "Variant": "7",
-    "Description": "125242-NVAQ_GO WALK 7",
-    "UOM": "PAIR",
-    "Net Inventory": "2"
-  },
-  {
-    "Item No.": "125242-NVAQ",
-    "Variant": "8.5",
-    "Description": "125242-NVAQ_GO WALK 7",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
-  },
-  {
-    "Item No.": "125242-NVAQ",
-    "Variant": "9",
-    "Description": "125242-NVAQ_GO WALK 7",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
-  },
-  {
-    "Item No.": "125242-TPE",
-    "Variant": "10",
-    "Description": "125242-TPE_GO WALK 7",
-    "UOM": "PAIR",
-    "Net Inventory": "2"
-  },
-  {
-    "Item No.": "125242-TPE",
-    "Variant": "5",
-    "Description": "125242-TPE_GO WALK 7",
-    "UOM": "PAIR",
-    "Net Inventory": "2"
-  },
-  {
-    "Item No.": "125242-TPE",
-    "Variant": "6",
-    "Description": "125242-TPE_GO WALK 7",
-    "UOM": "PAIR",
-    "Net Inventory": "2"
-  },
-  {
-    "Item No.": "125242-TPE",
-    "Variant": "7.5",
-    "Description": "125242-TPE_GO WALK 7",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
-  },
-  {
-    "Item No.": "125242-TPE",
-    "Variant": "8.5",
-    "Description": "125242-TPE_GO WALK 7",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
-  },
-  {
-    "Item No.": "125242-TPE",
-    "Variant": "9",
-    "Description": "125242-TPE_GO WALK 7",
-    "UOM": "PAIR",
-    "Net Inventory": "2"
-  },
-  {
-    "Item No.": "125242-WHT",
-    "Variant": "10",
-    "Description": "125242-WHT_GO WALK 7",
-    "UOM": "PAIR",
-    "Net Inventory": "2"
-  },
-  {
-    "Item No.": "125242-WHT",
-    "Variant": "6",
-    "Description": "125242-WHT_GO WALK 7",
-    "UOM": "PAIR",
-    "Net Inventory": "2"
-  },
-  {
-    "Item No.": "125242-WHT",
-    "Variant": "7",
-    "Description": "125242-WHT_GO WALK 7",
-    "UOM": "PAIR",
-    "Net Inventory": "2"
-  },
-  {
-    "Item No.": "125242-WHT",
-    "Variant": "7.5",
-    "Description": "125242-WHT_GO WALK 7",
-    "UOM": "PAIR",
-    "Net Inventory": "2"
-  },
-  {
-    "Item No.": "125242-WHT",
-    "Variant": "8.5",
-    "Description": "125242-WHT_GO WALK 7",
-    "UOM": "PAIR",
-    "Net Inventory": "2"
-  },
-  {
-    "Item No.": "125242-WHT",
-    "Variant": "9",
-    "Description": "125242-WHT_GO WALK 7",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
-  },
-  {
-    "Item No.": "125242-WHT",
-    "Variant": "9.5",
-    "Description": "125242-WHT_GO WALK 7",
-    "UOM": "PAIR",
-    "Net Inventory": "2"
   },
   {
     "Item No.": "125503-NVBL",
@@ -7684,13 +7166,6 @@
     "Description": "125503-NVBL_GO WALK FLEX",
     "UOM": "PAIR",
     "Net Inventory": "4"
-  },
-  {
-    "Item No.": "125503-NVBL",
-    "Variant": "7.5",
-    "Description": "125503-NVBL_GO WALK FLEX",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
   },
   {
     "Item No.": "125503-NVBL",
@@ -8744,13 +8219,6 @@
   },
   {
     "Item No.": "125662-GLD",
-    "Variant": "6",
-    "Description": "125662-GLD_GO WALK NOW",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
-  },
-  {
-    "Item No.": "125662-GLD",
     "Variant": "6.5",
     "Description": "125662-GLD_GO WALK NOW",
     "UOM": "PAIR",
@@ -8985,7 +8453,7 @@
     "Variant": "9",
     "Description": "125840-BKW_GOWALKARCHFIT N-JOY",
     "UOM": "PAIR",
-    "Net Inventory": "2"
+    "Net Inventory": "1"
   },
   {
     "Item No.": "125840-NVW",
@@ -9020,14 +8488,14 @@
     "Variant": "8",
     "Description": "125840-NVW_GOWALKARCHFIT N-JOY",
     "UOM": "PAIR",
-    "Net Inventory": "3"
+    "Net Inventory": "2"
   },
   {
     "Item No.": "125840-NVW",
     "Variant": "9",
     "Description": "125840-NVW_GOWALKARCHFIT N-JOY",
     "UOM": "PAIR",
-    "Net Inventory": "2"
+    "Net Inventory": "1"
   },
   {
     "Item No.": "125840-NVW",
@@ -9164,13 +8632,6 @@
   },
   {
     "Item No.": "125842-NAT",
-    "Variant": "6.5",
-    "Description": "125842-NAT_GOWALKARCHFIT N-JOY",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
-  },
-  {
-    "Item No.": "125842-NAT",
     "Variant": "7",
     "Description": "125842-NAT_GOWALKARCHFIT N-JOY",
     "UOM": "PAIR",
@@ -9590,13 +9051,6 @@
     "Net Inventory": "1"
   },
   {
-    "Item No.": "125850-BLK",
-    "Variant": "9",
-    "Description": "125850-BLK_GOWALKARCHFIT N-JOY",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
-  },
-  {
     "Item No.": "125850-WHT",
     "Variant": "10",
     "Description": "125850-WHT_GOWALKARCHFIT N-JOY",
@@ -9626,15 +9080,225 @@
   },
   {
     "Item No.": "125850-WHT",
-    "Variant": "8",
+    "Variant": "9",
     "Description": "125850-WHT_GOWALKARCHFIT N-JOY",
     "UOM": "PAIR",
     "Net Inventory": "1"
   },
   {
-    "Item No.": "125850-WHT",
+    "Item No.": "125880-BKW",
+    "Variant": "6",
+    "Description": "125880-BKW_GOWALK MAXCUSH HYPE",
+    "UOM": "PAIR",
+    "Net Inventory": "1"
+  },
+  {
+    "Item No.": "125880-BKW",
+    "Variant": "7",
+    "Description": "125880-BKW_GOWALK MAXCUSH HYPE",
+    "UOM": "PAIR",
+    "Net Inventory": "3"
+  },
+  {
+    "Item No.": "125880-BKW",
+    "Variant": "8",
+    "Description": "125880-BKW_GOWALK MAXCUSH HYPE",
+    "UOM": "PAIR",
+    "Net Inventory": "1"
+  },
+  {
+    "Item No.": "125880-BKW",
+    "Variant": "8.5",
+    "Description": "125880-BKW_GOWALK MAXCUSH HYPE",
+    "UOM": "PAIR",
+    "Net Inventory": "1"
+  },
+  {
+    "Item No.": "125880-BKW",
     "Variant": "9",
-    "Description": "125850-WHT_GOWALKARCHFIT N-JOY",
+    "Description": "125880-BKW_GOWALK MAXCUSH HYPE",
+    "UOM": "PAIR",
+    "Net Inventory": "1"
+  },
+  {
+    "Item No.": "125880-TPE",
+    "Variant": "6",
+    "Description": "125880-TPE_GOWALK MAXCUSH HYPE",
+    "UOM": "PAIR",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "125880-TPE",
+    "Variant": "7",
+    "Description": "125880-TPE_GOWALK MAXCUSH HYPE",
+    "UOM": "PAIR",
+    "Net Inventory": "1"
+  },
+  {
+    "Item No.": "125880-TPE",
+    "Variant": "7.5",
+    "Description": "125880-TPE_GOWALK MAXCUSH HYPE",
+    "UOM": "PAIR",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "125880-TPE",
+    "Variant": "8",
+    "Description": "125880-TPE_GOWALK MAXCUSH HYPE",
+    "UOM": "PAIR",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "125880-TPE",
+    "Variant": "9",
+    "Description": "125880-TPE_GOWALK MAXCUSH HYPE",
+    "UOM": "PAIR",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "125880-TPE",
+    "Variant": "9.5",
+    "Description": "125880-TPE_GOWALK MAXCUSH HYPE",
+    "UOM": "PAIR",
+    "Net Inventory": "1"
+  },
+  {
+    "Item No.": "125884-WMLT",
+    "Variant": "6",
+    "Description": "125884-WMLT_GOWALK MAXCUSH HYP",
+    "UOM": "PAIR",
+    "Net Inventory": "3"
+  },
+  {
+    "Item No.": "125884-WMLT",
+    "Variant": "7",
+    "Description": "125884-WMLT_GOWALK MAXCUSH HYP",
+    "UOM": "PAIR",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "125884-WMLT",
+    "Variant": "8",
+    "Description": "125884-WMLT_GOWALK MAXCUSH HYP",
+    "UOM": "PAIR",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "125884-WMLT",
+    "Variant": "9",
+    "Description": "125884-WMLT_GOWALK MAXCUSH HYP",
+    "UOM": "PAIR",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "125920-BKW",
+    "Variant": "6.5",
+    "Description": "125920-BKW_GO WALK 8",
+    "UOM": "PAIR",
+    "Net Inventory": "1"
+  },
+  {
+    "Item No.": "125920-BKW",
+    "Variant": "7",
+    "Description": "125920-BKW_GO WALK 8",
+    "UOM": "PAIR",
+    "Net Inventory": "3"
+  },
+  {
+    "Item No.": "125920-BKW",
+    "Variant": "7.5",
+    "Description": "125920-BKW_GO WALK 8",
+    "UOM": "PAIR",
+    "Net Inventory": "1"
+  },
+  {
+    "Item No.": "125920-BKW",
+    "Variant": "8",
+    "Description": "125920-BKW_GO WALK 8",
+    "UOM": "PAIR",
+    "Net Inventory": "1"
+  },
+  {
+    "Item No.": "125920-BLPK",
+    "Variant": "6",
+    "Description": "125920-BLPK_GO WALK 8",
+    "UOM": "PAIR",
+    "Net Inventory": "1"
+  },
+  {
+    "Item No.": "125920-BLPK",
+    "Variant": "7",
+    "Description": "125920-BLPK_GO WALK 8",
+    "UOM": "PAIR",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "125920-BLPK",
+    "Variant": "7.5",
+    "Description": "125920-BLPK_GO WALK 8",
+    "UOM": "PAIR",
+    "Net Inventory": "1"
+  },
+  {
+    "Item No.": "125920-BLPK",
+    "Variant": "8",
+    "Description": "125920-BLPK_GO WALK 8",
+    "UOM": "PAIR",
+    "Net Inventory": "1"
+  },
+  {
+    "Item No.": "125920-BLPK",
+    "Variant": "9",
+    "Description": "125920-BLPK_GO WALK 8",
+    "UOM": "PAIR",
+    "Net Inventory": "1"
+  },
+  {
+    "Item No.": "125920-TPBL",
+    "Variant": "6.5",
+    "Description": "125920-TPBL_GO WALK 8",
+    "UOM": "PAIR",
+    "Net Inventory": "1"
+  },
+  {
+    "Item No.": "125920-TPBL",
+    "Variant": "7",
+    "Description": "125920-TPBL_GO WALK 8",
+    "UOM": "PAIR",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "125920-TPBL",
+    "Variant": "7.5",
+    "Description": "125920-TPBL_GO WALK 8",
+    "UOM": "PAIR",
+    "Net Inventory": "1"
+  },
+  {
+    "Item No.": "125920-TPBL",
+    "Variant": "8",
+    "Description": "125920-TPBL_GO WALK 8",
+    "UOM": "PAIR",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "125920-TPBL",
+    "Variant": "9",
+    "Description": "125920-TPBL_GO WALK 8",
+    "UOM": "PAIR",
+    "Net Inventory": "1"
+  },
+  {
+    "Item No.": "125925-TPE",
+    "Variant": "7",
+    "Description": "125925-TPE_GO WALK 8",
+    "UOM": "PAIR",
+    "Net Inventory": "1"
+  },
+  {
+    "Item No.": "125925-TPE",
+    "Variant": "8",
+    "Description": "125925-TPE_GO WALK 8",
     "UOM": "PAIR",
     "Net Inventory": "1"
   },
@@ -9650,7 +9314,7 @@
     "Variant": "6",
     "Description": "128606-BKW_GO RUN CONSISTE 2.0",
     "UOM": "PAIR",
-    "Net Inventory": "2"
+    "Net Inventory": "1"
   },
   {
     "Item No.": "128606-BKW",
@@ -9664,19 +9328,12 @@
     "Variant": "9",
     "Description": "128606-BKW_GO RUN CONSISTE 2.0",
     "UOM": "PAIR",
-    "Net Inventory": "2"
+    "Net Inventory": "1"
   },
   {
     "Item No.": "128606-BKW",
     "Variant": "9.5",
     "Description": "128606-BKW_GO RUN CONSISTE 2.0",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
-  },
-  {
-    "Item No.": "128606-GYLV",
-    "Variant": "10",
-    "Description": "128606-GYLV_GO RUN CONSISTE 2.",
     "UOM": "PAIR",
     "Net Inventory": "1"
   },
@@ -9721,20 +9378,6 @@
     "Description": "128606-GYLV_GO RUN CONSISTE 2.",
     "UOM": "PAIR",
     "Net Inventory": "2"
-  },
-  {
-    "Item No.": "128606-MVNT",
-    "Variant": "10",
-    "Description": "128606-MVNT_GO RUN CONSISTE 2.",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
-  },
-  {
-    "Item No.": "128606-MVNT",
-    "Variant": "6",
-    "Description": "128606-MVNT_GO RUN CONSISTE 2.",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
   },
   {
     "Item No.": "128606-MVNT",
@@ -9788,13 +9431,6 @@
   {
     "Item No.": "128606-WSL",
     "Variant": "7.5",
-    "Description": "128606-WSL_GO RUN CONSISTE 2.0",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
-  },
-  {
-    "Item No.": "128606-WSL",
-    "Variant": "8",
     "Description": "128606-WSL_GO RUN CONSISTE 2.0",
     "UOM": "PAIR",
     "Net Inventory": "1"
@@ -9812,13 +9448,6 @@
     "Description": "128613W-BBK_GO RUN CONSISTE 2.",
     "UOM": "PAIR",
     "Net Inventory": "3"
-  },
-  {
-    "Item No.": "128613W-BBK",
-    "Variant": "7",
-    "Description": "128613W-BBK_GO RUN CONSISTE 2.",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
   },
   {
     "Item No.": "128613W-BBK",
@@ -9930,7 +9559,7 @@
     "Variant": "7",
     "Description": "128615W-WSL_GO RUN CONSISTE 2.",
     "UOM": "PAIR",
-    "Net Inventory": "4"
+    "Net Inventory": "3"
   },
   {
     "Item No.": "128615W-WSL",
@@ -10028,7 +9657,7 @@
     "Variant": "7",
     "Description": "128619-GYLB_GO RUN CONSISTE 2.",
     "UOM": "PAIR",
-    "Net Inventory": "3"
+    "Net Inventory": "2"
   },
   {
     "Item No.": "128619-GYLB",
@@ -10042,7 +9671,7 @@
     "Variant": "9",
     "Description": "128619-GYLB_GO RUN CONSISTE 2.",
     "UOM": "PAIR",
-    "Net Inventory": "3"
+    "Net Inventory": "2"
   },
   {
     "Item No.": "128619-WLB",
@@ -10067,13 +9696,6 @@
   },
   {
     "Item No.": "128619-WLB",
-    "Variant": "6.5",
-    "Description": "128619-WLB_GO RUN CONSISTE 2.0",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
-  },
-  {
-    "Item No.": "128619-WLB",
     "Variant": "7",
     "Description": "128619-WLB_GO RUN CONSISTE 2.0",
     "UOM": "PAIR",
@@ -10119,7 +9741,7 @@
     "Variant": "10",
     "Description": "128633-WSBK_GO RUN CONSISTE 2.",
     "UOM": "PAIR",
-    "Net Inventory": "4"
+    "Net Inventory": "3"
   },
   {
     "Item No.": "128633-WSBK",
@@ -10153,13 +9775,6 @@
     "Item No.": "128633-WSBK",
     "Variant": "9.5",
     "Description": "128633-WSBK_GO RUN CONSISTE 2.",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
-  },
-  {
-    "Item No.": "128633-WSL",
-    "Variant": "10",
-    "Description": "128633-WSL_GO RUN CONSISTE 2.0",
     "UOM": "PAIR",
     "Net Inventory": "1"
   },
@@ -10175,7 +9790,7 @@
     "Variant": "6",
     "Description": "128633-WSL_GO RUN CONSISTE 2.0",
     "UOM": "PAIR",
-    "Net Inventory": "3"
+    "Net Inventory": "2"
   },
   {
     "Item No.": "128633-WSL",
@@ -10333,17 +9948,10 @@
   },
   {
     "Item No.": "128650-NAT",
-    "Variant": "6",
-    "Description": "128650-NAT_GO RUN CONSISTE 2.0",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
-  },
-  {
-    "Item No.": "128650-NAT",
     "Variant": "7",
     "Description": "128650-NAT_GO RUN CONSISTE 2.0",
     "UOM": "PAIR",
-    "Net Inventory": "2"
+    "Net Inventory": "1"
   },
   {
     "Item No.": "128650-NAT",
@@ -10406,14 +10014,7 @@
     "Variant": "8",
     "Description": "128650-WLV_GO RUN CONSISTE 2.0",
     "UOM": "PAIR",
-    "Net Inventory": "3"
-  },
-  {
-    "Item No.": "128650-WLV",
-    "Variant": "8.5",
-    "Description": "128650-WLV_GO RUN CONSISTE 2.0",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
+    "Net Inventory": "2"
   },
   {
     "Item No.": "128651-BKW",
@@ -10456,27 +10057,6 @@
     "Description": "128651-BKW_GO RUN CONSISTE 2.0",
     "UOM": "PAIR",
     "Net Inventory": "2"
-  },
-  {
-    "Item No.": "128651-NAT",
-    "Variant": "10",
-    "Description": "128651-NAT_GO RUN CONSISTE 2.0",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
-  },
-  {
-    "Item No.": "128651-NAT",
-    "Variant": "7",
-    "Description": "128651-NAT_GO RUN CONSISTE 2.0",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
-  },
-  {
-    "Item No.": "128651-NAT",
-    "Variant": "8",
-    "Description": "128651-NAT_GO RUN CONSISTE 2.0",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
   },
   {
     "Item No.": "128651-NAT",
@@ -10651,7 +10231,7 @@
     "Variant": "8",
     "Description": "129000-WHT_GO RUN ELEVATE 2.0",
     "UOM": "PAIR",
-    "Net Inventory": "2"
+    "Net Inventory": "1"
   },
   {
     "Item No.": "129000-WHT",
@@ -10682,13 +10262,6 @@
     "Net Inventory": "1"
   },
   {
-    "Item No.": "129005-WMNT",
-    "Variant": "8",
-    "Description": "129005-WMNT_GO RUN ELEVATE 2.0",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
-  },
-  {
     "Item No.": "129008-GYPK",
     "Variant": "10",
     "Description": "129008-GYPK_GO RUN ELEVATE 2.0",
@@ -10714,7 +10287,7 @@
     "Variant": "7",
     "Description": "129008-GYPK_GO RUN ELEVATE 2.0",
     "UOM": "PAIR",
-    "Net Inventory": "3"
+    "Net Inventory": "2"
   },
   {
     "Item No.": "129008-GYPK",
@@ -10777,7 +10350,7 @@
     "Variant": "9",
     "Description": "129012-BKGD_GO RUN ELEVATE 2.0",
     "UOM": "PAIR",
-    "Net Inventory": "3"
+    "Net Inventory": "2"
   },
   {
     "Item No.": "129012-BKGD",
@@ -10796,20 +10369,6 @@
   {
     "Item No.": "129336-WHT",
     "Variant": "7",
-    "Description": "129336-WHT_GO RUN 7.0",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
-  },
-  {
-    "Item No.": "129336-WHT",
-    "Variant": "7.5",
-    "Description": "129336-WHT_GO RUN 7.0",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
-  },
-  {
-    "Item No.": "129336-WHT",
-    "Variant": "9",
     "Description": "129336-WHT_GO RUN 7.0",
     "UOM": "PAIR",
     "Net Inventory": "1"
@@ -10861,14 +10420,7 @@
     "Variant": "7",
     "Description": "129365-BKW_GO RUN NOW",
     "UOM": "PAIR",
-    "Net Inventory": "5"
-  },
-  {
-    "Item No.": "129365-BKW",
-    "Variant": "7.5",
-    "Description": "129365-BKW_GO RUN NOW",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
+    "Net Inventory": "4"
   },
   {
     "Item No.": "129365-BKW",
@@ -10990,20 +10542,6 @@
     "Net Inventory": "1"
   },
   {
-    "Item No.": "129366-BKW",
-    "Variant": "6",
-    "Description": "129366-BKW_GO RUN NOW",
-    "UOM": "PAIR",
-    "Net Inventory": "2"
-  },
-  {
-    "Item No.": "129366-BKW",
-    "Variant": "7",
-    "Description": "129366-BKW_GO RUN NOW",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
-  },
-  {
     "Item No.": "129368-BKW",
     "Variant": "10",
     "Description": "129368-BKW_GO RUN NOW",
@@ -11106,7 +10644,7 @@
     "Variant": "7",
     "Description": "129368-NAT_GO RUN NOW",
     "UOM": "PAIR",
-    "Net Inventory": "2"
+    "Net Inventory": "1"
   },
   {
     "Item No.": "129368-NAT",
@@ -11295,7 +10833,7 @@
     "Variant": "7",
     "Description": "129470-BKW_MAX CUSH ENDEAVOUR",
     "UOM": "PAIR",
-    "Net Inventory": "3"
+    "Net Inventory": "2"
   },
   {
     "Item No.": "129470-BKW",
@@ -11320,13 +10858,6 @@
   },
   {
     "Item No.": "129470W-BBK",
-    "Variant": "6",
-    "Description": "129470W-BBK_MAX CUSH ENDEAVOUR",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
-  },
-  {
-    "Item No.": "129470W-BBK",
     "Variant": "7",
     "Description": "129470W-BBK_MAX CUSH ENDEAVOUR",
     "UOM": "PAIR",
@@ -11337,7 +10868,7 @@
     "Variant": "8",
     "Description": "129470W-BBK_MAX CUSH ENDEAVOUR",
     "UOM": "PAIR",
-    "Net Inventory": "2"
+    "Net Inventory": "1"
   },
   {
     "Item No.": "129470W-BBK",
@@ -11351,7 +10882,7 @@
     "Variant": "8",
     "Description": "129470-WBK_MAX CUSH ENDEAVOUR",
     "UOM": "PAIR",
-    "Net Inventory": "3"
+    "Net Inventory": "2"
   },
   {
     "Item No.": "129470-WBK",
@@ -11359,27 +10890,6 @@
     "Description": "129470-WBK_MAX CUSH ENDEAVOUR",
     "UOM": "PAIR",
     "Net Inventory": "3"
-  },
-  {
-    "Item No.": "129470W-LTBL",
-    "Variant": "10",
-    "Description": "129470W-LTBL_MAX CUSH ENDEAVOU",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
-  },
-  {
-    "Item No.": "129470W-LTBL",
-    "Variant": "6",
-    "Description": "129470W-LTBL_MAX CUSH ENDEAVOU",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
-  },
-  {
-    "Item No.": "129470W-LTBL",
-    "Variant": "7",
-    "Description": "129470W-LTBL_MAX CUSH ENDEAVOU",
-    "UOM": "PAIR",
-    "Net Inventory": "2"
   },
   {
     "Item No.": "129470W-LTBL",
@@ -11393,7 +10903,7 @@
     "Variant": "9",
     "Description": "129470W-LTBL_MAX CUSH ENDEAVOU",
     "UOM": "PAIR",
-    "Net Inventory": "2"
+    "Net Inventory": "1"
   },
   {
     "Item No.": "129473-BBK",
@@ -11456,7 +10966,7 @@
     "Variant": "8",
     "Description": "129481-BBK_MAX CUSH ENDEAVOUR",
     "UOM": "PAIR",
-    "Net Inventory": "2"
+    "Net Inventory": "1"
   },
   {
     "Item No.": "129481-BBK",
@@ -11505,7 +11015,7 @@
     "Variant": "7",
     "Description": "129481-BKW_MAX CUSH ENDEAVOUR",
     "UOM": "PAIR",
-    "Net Inventory": "4"
+    "Net Inventory": "3"
   },
   {
     "Item No.": "129481-BKW",
@@ -11526,7 +11036,7 @@
     "Variant": "9",
     "Description": "129481-BKW_MAX CUSH ENDEAVOUR",
     "UOM": "PAIR",
-    "Net Inventory": "4"
+    "Net Inventory": "3"
   },
   {
     "Item No.": "129481-GRY",
@@ -11594,13 +11104,6 @@
   {
     "Item No.": "129481-NVY",
     "Variant": "6",
-    "Description": "129481-NVY_MAX CUSH ENDEAVOUR",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
-  },
-  {
-    "Item No.": "129481-NVY",
-    "Variant": "6.5",
     "Description": "129481-NVY_MAX CUSH ENDEAVOUR",
     "UOM": "PAIR",
     "Net Inventory": "1"
@@ -11757,14 +11260,7 @@
     "Variant": "6",
     "Description": "129648-GYLV_MAX CUSH ELITE 2.0",
     "UOM": "PAIR",
-    "Net Inventory": "3"
-  },
-  {
-    "Item No.": "129648-WSL",
-    "Variant": "10",
-    "Description": "129648-WSL_MAX CUSH ELITE 2.0",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
+    "Net Inventory": "2"
   },
   {
     "Item No.": "129648-WSL",
@@ -11778,7 +11274,7 @@
     "Variant": "6",
     "Description": "129648-WSL_MAX CUSH ELITE 2.0",
     "UOM": "PAIR",
-    "Net Inventory": "3"
+    "Net Inventory": "2"
   },
   {
     "Item No.": "129648-WSL",
@@ -11886,69 +11382,6 @@
     "Net Inventory": "2"
   },
   {
-    "Item No.": "136453-GRY",
-    "Variant": "10",
-    "Description": "136453-GRY_ON-THE-GO FLEX",
-    "UOM": "PAIR",
-    "Net Inventory": "2"
-  },
-  {
-    "Item No.": "136453-GRY",
-    "Variant": "5",
-    "Description": "136453-GRY_ON-THE-GO FLEX",
-    "UOM": "PAIR",
-    "Net Inventory": "2"
-  },
-  {
-    "Item No.": "136453-GRY",
-    "Variant": "6",
-    "Description": "136453-GRY_ON-THE-GO FLEX",
-    "UOM": "PAIR",
-    "Net Inventory": "3"
-  },
-  {
-    "Item No.": "136453-GRY",
-    "Variant": "7",
-    "Description": "136453-GRY_ON-THE-GO FLEX",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
-  },
-  {
-    "Item No.": "136453-GRY",
-    "Variant": "9",
-    "Description": "136453-GRY_ON-THE-GO FLEX",
-    "UOM": "PAIR",
-    "Net Inventory": "4"
-  },
-  {
-    "Item No.": "136453-NVY",
-    "Variant": "10",
-    "Description": "136453-NVY_ON-THE-GO FLEX",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
-  },
-  {
-    "Item No.": "136453-NVY",
-    "Variant": "5",
-    "Description": "136453-NVY_ON-THE-GO FLEX",
-    "UOM": "PAIR",
-    "Net Inventory": "2"
-  },
-  {
-    "Item No.": "136453-NVY",
-    "Variant": "6",
-    "Description": "136453-NVY_ON-THE-GO FLEX",
-    "UOM": "PAIR",
-    "Net Inventory": "5"
-  },
-  {
-    "Item No.": "136453-NVY",
-    "Variant": "7",
-    "Description": "136453-NVY_ON-THE-GO FLEX",
-    "UOM": "PAIR",
-    "Net Inventory": "2"
-  },
-  {
     "Item No.": "138181-BBK",
     "Variant": "10",
     "Description": "138181-BBK_ON-THE-GO FLEX",
@@ -12027,17 +11460,10 @@
   },
   {
     "Item No.": "138190-TPE",
-    "Variant": "6",
-    "Description": "138190-TPE_ON-THE-GO FLEX RADI",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
-  },
-  {
-    "Item No.": "138190-TPE",
     "Variant": "7",
     "Description": "138190-TPE_ON-THE-GO FLEX RADI",
     "UOM": "PAIR",
-    "Net Inventory": "4"
+    "Net Inventory": "3"
   },
   {
     "Item No.": "138190-TPE",
@@ -12285,13 +11711,6 @@
     "Net Inventory": "2"
   },
   {
-    "Item No.": "140886-BBK",
-    "Variant": "10",
-    "Description": "140886-BBK_GOWALKARCHFIT2.0 SA",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
-  },
-  {
     "Item No.": "140886-BLSH",
     "Variant": "10",
     "Description": "140886-BLSH_GOWALKARCHFIT2.0 S",
@@ -12310,7 +11729,7 @@
     "Variant": "8",
     "Description": "140886-BLSH_GOWALKARCHFIT2.0 S",
     "UOM": "PAIR",
-    "Net Inventory": "3"
+    "Net Inventory": "2"
   },
   {
     "Item No.": "140886-BLSH",
@@ -12436,7 +11855,7 @@
     "Variant": "8",
     "Description": "141299-AQMT_ARCH FIT RADIANCE",
     "UOM": "PAIR",
-    "Net Inventory": "2"
+    "Net Inventory": "1"
   },
   {
     "Item No.": "141299-AQMT",
@@ -12450,7 +11869,7 @@
     "Variant": "7",
     "Description": "141299-CRL_ARCH FIT RADIANCE",
     "UOM": "PAIR",
-    "Net Inventory": "3"
+    "Net Inventory": "2"
   },
   {
     "Item No.": "141299-CRL",
@@ -12667,14 +12086,7 @@
     "Variant": "7",
     "Description": "141445-MVE_GO WALK FLEX SANDAL",
     "UOM": "PAIR",
-    "Net Inventory": "4"
-  },
-  {
-    "Item No.": "141445-MVE",
-    "Variant": "8",
-    "Description": "141445-MVE_GO WALK FLEX SANDAL",
-    "UOM": "PAIR",
-    "Net Inventory": "2"
+    "Net Inventory": "3"
   },
   {
     "Item No.": "141445-MVE",
@@ -12736,13 +12148,6 @@
     "Item No.": "141447-NVMT",
     "Variant": "9",
     "Description": "141447-NVMT_GO WALK FLEX SANDA",
-    "UOM": "PAIR",
-    "Net Inventory": "2"
-  },
-  {
-    "Item No.": "141449-GRY",
-    "Variant": "7",
-    "Description": "141449-GRY_GO WALK FLEX SANDAL",
     "UOM": "PAIR",
     "Net Inventory": "1"
   },
@@ -12786,7 +12191,7 @@
     "Variant": "7",
     "Description": "141451-MVE_GO WALK FLEX SANDAL",
     "UOM": "PAIR",
-    "Net Inventory": "3"
+    "Net Inventory": "2"
   },
   {
     "Item No.": "141451-MVE",
@@ -12794,13 +12199,6 @@
     "Description": "141451-MVE_GO WALK FLEX SANDAL",
     "UOM": "PAIR",
     "Net Inventory": "2"
-  },
-  {
-    "Item No.": "141451-NVY",
-    "Variant": "10",
-    "Description": "141451-NVY_GO WALK FLEX SANDAL",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
   },
   {
     "Item No.": "141459-BBK",
@@ -12874,13 +12272,6 @@
   },
   {
     "Item No.": "141459-NVY",
-    "Variant": "6",
-    "Description": "141459-NVY_GO WALK FLEX SANDAL",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
-  },
-  {
-    "Item No.": "141459-NVY",
     "Variant": "7",
     "Description": "141459-NVY_GO WALK FLEX SANDAL",
     "UOM": "PAIR",
@@ -13094,7 +12485,7 @@
     "Variant": "7",
     "Description": "141502-BBK_GO WALK FLEX SANDAL",
     "UOM": "PAIR",
-    "Net Inventory": "3"
+    "Net Inventory": "1"
   },
   {
     "Item No.": "141502-BBK",
@@ -13112,36 +12503,8 @@
   },
   {
     "Item No.": "141502-TPE",
-    "Variant": "6",
-    "Description": "141502-TPE_GO WALK FLEX SANDAL",
-    "UOM": "PAIR",
-    "Net Inventory": "2"
-  },
-  {
-    "Item No.": "141502-TPE",
     "Variant": "7",
     "Description": "141502-TPE_GO WALK FLEX SANDAL",
-    "UOM": "PAIR",
-    "Net Inventory": "2"
-  },
-  {
-    "Item No.": "141502-TPE",
-    "Variant": "8",
-    "Description": "141502-TPE_GO WALK FLEX SANDAL",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
-  },
-  {
-    "Item No.": "141502-TPE",
-    "Variant": "9",
-    "Description": "141502-TPE_GO WALK FLEX SANDAL",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
-  },
-  {
-    "Item No.": "141609-BLK",
-    "Variant": "10",
-    "Description": "141609-BLK_MAXCUSHELITE2.0 SAN",
     "UOM": "PAIR",
     "Net Inventory": "1"
   },
@@ -13192,19 +12555,12 @@
     "Variant": "8",
     "Description": "141609-TPE_MAXCUSHELITE2.0 SAN",
     "UOM": "PAIR",
-    "Net Inventory": "2"
+    "Net Inventory": "1"
   },
   {
     "Item No.": "141609-TPE",
     "Variant": "9",
     "Description": "141609-TPE_MAXCUSHELITE2.0 SAN",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
-  },
-  {
-    "Item No.": "141617-MVE",
-    "Variant": "10",
-    "Description": "141617-MVE_MAXCUSHELITE2.0 SAN",
     "UOM": "PAIR",
     "Net Inventory": "1"
   },
@@ -13248,7 +12604,7 @@
     "Variant": "8",
     "Description": "141617-NVY_MAXCUSHELITE2.0 SAN",
     "UOM": "PAIR",
-    "Net Inventory": "2"
+    "Net Inventory": "1"
   },
   {
     "Item No.": "141617-NVY",
@@ -13375,146 +12731,6 @@
     "Description": "150041-OFWT_SKECH-LITE PRO",
     "UOM": "PAIR",
     "Net Inventory": "2"
-  },
-  {
-    "Item No.": "150066-BLK",
-    "Variant": "5",
-    "Description": "150066-BLK_ARCH FIT 2.0",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
-  },
-  {
-    "Item No.": "150066-BLK",
-    "Variant": "6",
-    "Description": "150066-BLK_ARCH FIT 2.0",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
-  },
-  {
-    "Item No.": "150066-BLK",
-    "Variant": "6.5",
-    "Description": "150066-BLK_ARCH FIT 2.0",
-    "UOM": "PAIR",
-    "Net Inventory": "2"
-  },
-  {
-    "Item No.": "150066-BLK",
-    "Variant": "7",
-    "Description": "150066-BLK_ARCH FIT 2.0",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
-  },
-  {
-    "Item No.": "150066W-BBK",
-    "Variant": "5",
-    "Description": "150066W-BBK_ARCH FIT 2.0",
-    "UOM": "PAIR",
-    "Net Inventory": "2"
-  },
-  {
-    "Item No.": "150066-WHT",
-    "Variant": "10",
-    "Description": "150066-WHT_ARCH FIT 2.0",
-    "UOM": "PAIR",
-    "Net Inventory": "4"
-  },
-  {
-    "Item No.": "150066-WHT",
-    "Variant": "11",
-    "Description": "150066-WHT_ARCH FIT 2.0",
-    "UOM": "PAIR",
-    "Net Inventory": "2"
-  },
-  {
-    "Item No.": "150066-WHT",
-    "Variant": "5",
-    "Description": "150066-WHT_ARCH FIT 2.0",
-    "UOM": "PAIR",
-    "Net Inventory": "3"
-  },
-  {
-    "Item No.": "150066-WHT",
-    "Variant": "6",
-    "Description": "150066-WHT_ARCH FIT 2.0",
-    "UOM": "PAIR",
-    "Net Inventory": "2"
-  },
-  {
-    "Item No.": "150066-WHT",
-    "Variant": "6.5",
-    "Description": "150066-WHT_ARCH FIT 2.0",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
-  },
-  {
-    "Item No.": "150066-WHT",
-    "Variant": "7",
-    "Description": "150066-WHT_ARCH FIT 2.0",
-    "UOM": "PAIR",
-    "Net Inventory": "6"
-  },
-  {
-    "Item No.": "150066-WHT",
-    "Variant": "7.5",
-    "Description": "150066-WHT_ARCH FIT 2.0",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
-  },
-  {
-    "Item No.": "150066-WHT",
-    "Variant": "8",
-    "Description": "150066-WHT_ARCH FIT 2.0",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
-  },
-  {
-    "Item No.": "150066-WHT",
-    "Variant": "9",
-    "Description": "150066-WHT_ARCH FIT 2.0",
-    "UOM": "PAIR",
-    "Net Inventory": "11"
-  },
-  {
-    "Item No.": "150103-BKRG",
-    "Variant": "5",
-    "Description": "150103-BKRG_D'LUX WALKER 2.0",
-    "UOM": "PAIR",
-    "Net Inventory": "3"
-  },
-  {
-    "Item No.": "150103-BKRG",
-    "Variant": "6",
-    "Description": "150103-BKRG_D'LUX WALKER 2.0",
-    "UOM": "PAIR",
-    "Net Inventory": "2"
-  },
-  {
-    "Item No.": "150103-WSL",
-    "Variant": "11",
-    "Description": "150103-WSL_D'LUX WALKER 2.0",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
-  },
-  {
-    "Item No.": "150103-WSL",
-    "Variant": "5",
-    "Description": "150103-WSL_D'LUX WALKER 2.0",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
-  },
-  {
-    "Item No.": "150103-WSL",
-    "Variant": "6",
-    "Description": "150103-WSL_D'LUX WALKER 2.0",
-    "UOM": "PAIR",
-    "Net Inventory": "6"
-  },
-  {
-    "Item No.": "150103-WSL",
-    "Variant": "7",
-    "Description": "150103-WSL_D'LUX WALKER 2.0",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
   },
   {
     "Item No.": "150142-BBK",
@@ -14245,83 +13461,6 @@
     "Net Inventory": "3"
   },
   {
-    "Item No.": "150374-BKMT",
-    "Variant": "6",
-    "Description": "150374-BKMT_SKECH-AIR DYNAMI 2",
-    "UOM": "PAIR",
-    "Net Inventory": "3"
-  },
-  {
-    "Item No.": "150374-BKMT",
-    "Variant": "7",
-    "Description": "150374-BKMT_SKECH-AIR DYNAMI 2",
-    "UOM": "PAIR",
-    "Net Inventory": "3"
-  },
-  {
-    "Item No.": "150374-BKMT",
-    "Variant": "8",
-    "Description": "150374-BKMT_SKECH-AIR DYNAMI 2",
-    "UOM": "PAIR",
-    "Net Inventory": "3"
-  },
-  {
-    "Item No.": "150374-GYMT",
-    "Variant": "6",
-    "Description": "150374-GYMT_SKECH-AIR DYNAMI 2",
-    "UOM": "PAIR",
-    "Net Inventory": "5"
-  },
-  {
-    "Item No.": "150374-GYMT",
-    "Variant": "7",
-    "Description": "150374-GYMT_SKECH-AIR DYNAMI 2",
-    "UOM": "PAIR",
-    "Net Inventory": "3"
-  },
-  {
-    "Item No.": "150374-GYMT",
-    "Variant": "8",
-    "Description": "150374-GYMT_SKECH-AIR DYNAMI 2",
-    "UOM": "PAIR",
-    "Net Inventory": "2"
-  },
-  {
-    "Item No.": "150374-GYMT",
-    "Variant": "9",
-    "Description": "150374-GYMT_SKECH-AIR DYNAMI 2",
-    "UOM": "PAIR",
-    "Net Inventory": "4"
-  },
-  {
-    "Item No.": "150374-SLT",
-    "Variant": "6",
-    "Description": "150374-SLT_SKECH-AIR DYNAMI 2.",
-    "UOM": "PAIR",
-    "Net Inventory": "5"
-  },
-  {
-    "Item No.": "150374-SLT",
-    "Variant": "7",
-    "Description": "150374-SLT_SKECH-AIR DYNAMI 2.",
-    "UOM": "PAIR",
-    "Net Inventory": "4"
-  },
-  {
-    "Item No.": "150374-SLT",
-    "Variant": "8",
-    "Description": "150374-SLT_SKECH-AIR DYNAMI 2.",
-    "UOM": "PAIR",
-    "Net Inventory": "3"
-  },
-  {
-    "Item No.": "150374-SLT",
-    "Variant": "9",
-    "Description": "150374-SLT_SKECH-AIR DYNAMI 2.",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
-  },
-  {
     "Item No.": "150377-BKNV",
     "Variant": "10",
     "Description": "150377-BKNV_SKECH-AIR DYNAMI 2",
@@ -14565,41 +13704,6 @@
     "Description": "150465-ROS_ULTRA FLEX 3.0",
     "UOM": "PAIR",
     "Net Inventory": "2"
-  },
-  {
-    "Item No.": "150563-BBK",
-    "Variant": "11",
-    "Description": "150563-BBK_SKECH CLOUD",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
-  },
-  {
-    "Item No.": "150563-BBK",
-    "Variant": "5",
-    "Description": "150563-BBK_SKECH CLOUD",
-    "UOM": "PAIR",
-    "Net Inventory": "2"
-  },
-  {
-    "Item No.": "150563-BBK",
-    "Variant": "6",
-    "Description": "150563-BBK_SKECH CLOUD",
-    "UOM": "PAIR",
-    "Net Inventory": "6"
-  },
-  {
-    "Item No.": "150563-BBK",
-    "Variant": "7",
-    "Description": "150563-BBK_SKECH CLOUD",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
-  },
-  {
-    "Item No.": "150563-BBK",
-    "Variant": "9",
-    "Description": "150563-BBK_SKECH CLOUD",
-    "UOM": "PAIR",
-    "Net Inventory": "5"
   },
   {
     "Item No.": "150563-WLV",
@@ -14676,7 +13780,7 @@
     "Variant": "7",
     "Description": "150620-BKW_SKECH-LITE PRO 2.0",
     "UOM": "PAIR",
-    "Net Inventory": "5"
+    "Net Inventory": "4"
   },
   {
     "Item No.": "150620-BKW",
@@ -14966,6 +14070,132 @@
     "Net Inventory": "2"
   },
   {
+    "Item No.": "150623-BBK",
+    "Variant": "10",
+    "Description": "150623-BBK_SKECH-LITE PRO 2.0",
+    "UOM": "PAIR",
+    "Net Inventory": "1"
+  },
+  {
+    "Item No.": "150623-BBK",
+    "Variant": "5",
+    "Description": "150623-BBK_SKECH-LITE PRO 2.0",
+    "UOM": "PAIR",
+    "Net Inventory": "1"
+  },
+  {
+    "Item No.": "150623-BBK",
+    "Variant": "6",
+    "Description": "150623-BBK_SKECH-LITE PRO 2.0",
+    "UOM": "PAIR",
+    "Net Inventory": "1"
+  },
+  {
+    "Item No.": "150623-BBK",
+    "Variant": "7",
+    "Description": "150623-BBK_SKECH-LITE PRO 2.0",
+    "UOM": "PAIR",
+    "Net Inventory": "3"
+  },
+  {
+    "Item No.": "150623-BBK",
+    "Variant": "8",
+    "Description": "150623-BBK_SKECH-LITE PRO 2.0",
+    "UOM": "PAIR",
+    "Net Inventory": "3"
+  },
+  {
+    "Item No.": "150623-BBK",
+    "Variant": "9",
+    "Description": "150623-BBK_SKECH-LITE PRO 2.0",
+    "UOM": "PAIR",
+    "Net Inventory": "3"
+  },
+  {
+    "Item No.": "150623-NAT",
+    "Variant": "10",
+    "Description": "150623-NAT_SKECH-LITE PRO 2.0",
+    "UOM": "PAIR",
+    "Net Inventory": "1"
+  },
+  {
+    "Item No.": "150623-NAT",
+    "Variant": "5",
+    "Description": "150623-NAT_SKECH-LITE PRO 2.0",
+    "UOM": "PAIR",
+    "Net Inventory": "1"
+  },
+  {
+    "Item No.": "150623-NAT",
+    "Variant": "6",
+    "Description": "150623-NAT_SKECH-LITE PRO 2.0",
+    "UOM": "PAIR",
+    "Net Inventory": "1"
+  },
+  {
+    "Item No.": "150623-NAT",
+    "Variant": "7",
+    "Description": "150623-NAT_SKECH-LITE PRO 2.0",
+    "UOM": "PAIR",
+    "Net Inventory": "3"
+  },
+  {
+    "Item No.": "150623-NAT",
+    "Variant": "8",
+    "Description": "150623-NAT_SKECH-LITE PRO 2.0",
+    "UOM": "PAIR",
+    "Net Inventory": "3"
+  },
+  {
+    "Item No.": "150623-NAT",
+    "Variant": "9",
+    "Description": "150623-NAT_SKECH-LITE PRO 2.0",
+    "UOM": "PAIR",
+    "Net Inventory": "3"
+  },
+  {
+    "Item No.": "150623-NVY",
+    "Variant": "10",
+    "Description": "150623-NVY_SKECH-LITE PRO 2.0",
+    "UOM": "PAIR",
+    "Net Inventory": "1"
+  },
+  {
+    "Item No.": "150623-NVY",
+    "Variant": "5",
+    "Description": "150623-NVY_SKECH-LITE PRO 2.0",
+    "UOM": "PAIR",
+    "Net Inventory": "1"
+  },
+  {
+    "Item No.": "150623-NVY",
+    "Variant": "6",
+    "Description": "150623-NVY_SKECH-LITE PRO 2.0",
+    "UOM": "PAIR",
+    "Net Inventory": "1"
+  },
+  {
+    "Item No.": "150623-NVY",
+    "Variant": "7",
+    "Description": "150623-NVY_SKECH-LITE PRO 2.0",
+    "UOM": "PAIR",
+    "Net Inventory": "3"
+  },
+  {
+    "Item No.": "150623-NVY",
+    "Variant": "8",
+    "Description": "150623-NVY_SKECH-LITE PRO 2.0",
+    "UOM": "PAIR",
+    "Net Inventory": "3"
+  },
+  {
+    "Item No.": "150623-NVY",
+    "Variant": "9",
+    "Description": "150623-NVY_SKECH-LITE PRO 2.0",
+    "UOM": "PAIR",
+    "Net Inventory": "3"
+  },
+  {
     "Item No.": "150662-TEAL",
     "Variant": "10",
     "Description": "150662-TEAL_SUMMITS PLUS",
@@ -14984,7 +14214,7 @@
     "Variant": "7",
     "Description": "150662-TEAL_SUMMITS PLUS",
     "UOM": "PAIR",
-    "Net Inventory": "4"
+    "Net Inventory": "3"
   },
   {
     "Item No.": "150662-TEAL",
@@ -15019,7 +14249,7 @@
     "Variant": "7",
     "Description": "150662-WHT_SUMMITS PLUS",
     "UOM": "PAIR",
-    "Net Inventory": "4"
+    "Net Inventory": "3"
   },
   {
     "Item No.": "150662-WHT",
@@ -15054,7 +14284,7 @@
     "Variant": "7",
     "Description": "150666-BKMN_SUMMITS PLUS",
     "UOM": "PAIR",
-    "Net Inventory": "4"
+    "Net Inventory": "3"
   },
   {
     "Item No.": "150666-BKMN",
@@ -15201,7 +14431,7 @@
     "Variant": "8",
     "Description": "150668-LTMV_SUMMITS PLUS",
     "UOM": "PAIR",
-    "Net Inventory": "4"
+    "Net Inventory": "3"
   },
   {
     "Item No.": "150668-LTMV",
@@ -15293,83 +14523,6 @@
     "Description": "150754-WLV_ARCH FIT SUMMITS",
     "UOM": "PAIR",
     "Net Inventory": "3"
-  },
-  {
-    "Item No.": "159087-GRY",
-    "Variant": "10",
-    "Description": "159087-GRY_ARCH FIT LAGUNA",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
-  },
-  {
-    "Item No.": "159087-GRY",
-    "Variant": "5",
-    "Description": "159087-GRY_ARCH FIT LAGUNA",
-    "UOM": "PAIR",
-    "Net Inventory": "3"
-  },
-  {
-    "Item No.": "159087-GRY",
-    "Variant": "6",
-    "Description": "159087-GRY_ARCH FIT LAGUNA",
-    "UOM": "PAIR",
-    "Net Inventory": "3"
-  },
-  {
-    "Item No.": "159087-GRY",
-    "Variant": "7",
-    "Description": "159087-GRY_ARCH FIT LAGUNA",
-    "UOM": "PAIR",
-    "Net Inventory": "3"
-  },
-  {
-    "Item No.": "159087-GRY",
-    "Variant": "9",
-    "Description": "159087-GRY_ARCH FIT LAGUNA",
-    "UOM": "PAIR",
-    "Net Inventory": "3"
-  },
-  {
-    "Item No.": "159087-NVY",
-    "Variant": "10",
-    "Description": "159087-NVY_ARCH FIT LAGUNA",
-    "UOM": "PAIR",
-    "Net Inventory": "2"
-  },
-  {
-    "Item No.": "159087-NVY",
-    "Variant": "5",
-    "Description": "159087-NVY_ARCH FIT LAGUNA",
-    "UOM": "PAIR",
-    "Net Inventory": "2"
-  },
-  {
-    "Item No.": "159087-NVY",
-    "Variant": "6",
-    "Description": "159087-NVY_ARCH FIT LAGUNA",
-    "UOM": "PAIR",
-    "Net Inventory": "4"
-  },
-  {
-    "Item No.": "159087-NVY",
-    "Variant": "7",
-    "Description": "159087-NVY_ARCH FIT LAGUNA",
-    "UOM": "PAIR",
-    "Net Inventory": "2"
-  },
-  {
-    "Item No.": "159087-NVY",
-    "Variant": "8",
-    "Description": "159087-NVY_ARCH FIT LAGUNA",
-    "UOM": "PAIR",
-    "Net Inventory": "4"
-  },
-  {
-    "Item No.": "159087-NVY",
-    "Variant": "9",
-    "Description": "159087-NVY_ARCH FIT LAGUNA",
-    "UOM": "PAIR",
-    "Net Inventory": "2"
   },
   {
     "Item No.": "180291-BKSL",
@@ -15439,14 +14592,14 @@
     "Variant": "8",
     "Description": "180291-NAT_STAMINA AT",
     "UOM": "PAIR",
-    "Net Inventory": "5"
+    "Net Inventory": "4"
   },
   {
     "Item No.": "180291-NAT",
     "Variant": "9",
     "Description": "180291-NAT_STAMINA AT",
     "UOM": "PAIR",
-    "Net Inventory": "3"
+    "Net Inventory": "2"
   },
   {
     "Item No.": "180296-GYPK",
@@ -15474,7 +14627,7 @@
     "Variant": "9",
     "Description": "180296-GYPK_HILLCREST 2.0",
     "UOM": "PAIR",
-    "Net Inventory": "2"
+    "Net Inventory": "1"
   },
   {
     "Item No.": "180296-TPMT",
@@ -15593,7 +14746,7 @@
     "Variant": "11",
     "Description": "200158-BKLM_ARCH FIT SR",
     "UOM": "PAIR",
-    "Net Inventory": "2"
+    "Net Inventory": "1"
   },
   {
     "Item No.": "200158-BKLM",
@@ -15614,7 +14767,7 @@
     "Variant": "9",
     "Description": "200158-BKLM_ARCH FIT SR",
     "UOM": "PAIR",
-    "Net Inventory": "3"
+    "Net Inventory": "2"
   },
   {
     "Item No.": "200200-BLK",
@@ -15666,34 +14819,6 @@
     "Net Inventory": "4"
   },
   {
-    "Item No.": "200205W-BBK",
-    "Variant": "11",
-    "Description": "200205W-BBK_SUMMITS SR",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
-  },
-  {
-    "Item No.": "200205W-BBK",
-    "Variant": "12",
-    "Description": "200205W-BBK_SUMMITS SR",
-    "UOM": "PAIR",
-    "Net Inventory": "2"
-  },
-  {
-    "Item No.": "200205W-BBK",
-    "Variant": "9",
-    "Description": "200205W-BBK_SUMMITS SR",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
-  },
-  {
-    "Item No.": "200273-BLK",
-    "Variant": "11",
-    "Description": "200273-BLK_SQUAD CHAOS SR",
-    "UOM": "PAIR",
-    "Net Inventory": "2"
-  },
-  {
     "Item No.": "200273-BLK",
     "Variant": "7.5",
     "Description": "200273-BLK_SQUAD CHAOS SR",
@@ -15719,14 +14844,14 @@
     "Variant": "11",
     "Description": "200274-BLK_SQUAD CHAOS SR",
     "UOM": "PAIR",
-    "Net Inventory": "2"
+    "Net Inventory": "1"
   },
   {
     "Item No.": "200274-BLK",
     "Variant": "12",
     "Description": "200274-BLK_SQUAD CHAOS SR",
     "UOM": "PAIR",
-    "Net Inventory": "3"
+    "Net Inventory": "2"
   },
   {
     "Item No.": "200274-BLK",
@@ -15768,7 +14893,7 @@
     "Variant": "12",
     "Description": "200343-BLK_CORART",
     "UOM": "PAIR",
-    "Net Inventory": "4"
+    "Net Inventory": "1"
   },
   {
     "Item No.": "200343-BLK",
@@ -16011,20 +15136,6 @@
   {
     "Item No.": "216323-NVGY",
     "Variant": "11",
-    "Description": "216323-NVGY_GO WALK FLEX",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
-  },
-  {
-    "Item No.": "216323-NVGY",
-    "Variant": "8",
-    "Description": "216323-NVGY_GO WALK FLEX",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
-  },
-  {
-    "Item No.": "216323-NVGY",
-    "Variant": "9",
     "Description": "216323-NVGY_GO WALK FLEX",
     "UOM": "PAIR",
     "Net Inventory": "1"
@@ -16566,7 +15677,7 @@
     "Variant": "9",
     "Description": "216332-BBK_GO WALK FLEX",
     "UOM": "PAIR",
-    "Net Inventory": "4"
+    "Net Inventory": "3"
   },
   {
     "Item No.": "216332-WNV",
@@ -16612,13 +15723,6 @@
   },
   {
     "Item No.": "216332-WNV",
-    "Variant": "8.5",
-    "Description": "216332-WNV_GO WALK FLEX",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
-  },
-  {
-    "Item No.": "216332-WNV",
     "Variant": "9",
     "Description": "216332-WNV_GO WALK FLEX",
     "UOM": "PAIR",
@@ -16661,13 +15765,6 @@
   },
   {
     "Item No.": "216333-BBK",
-    "Variant": "8.5",
-    "Description": "216333-BBK_GO WALK FLEX",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
-  },
-  {
-    "Item No.": "216333-BBK",
     "Variant": "9",
     "Description": "216333-BBK_GO WALK FLEX",
     "UOM": "PAIR",
@@ -16699,7 +15796,7 @@
     "Variant": "11",
     "Description": "216333-CHAR_GO WALK FLEX",
     "UOM": "PAIR",
-    "Net Inventory": "3"
+    "Net Inventory": "2"
   },
   {
     "Item No.": "216333-CHAR",
@@ -16797,13 +15894,6 @@
     "Variant": "10",
     "Description": "216334-BBK_GO WALK FLEX",
     "UOM": "PAIR",
-    "Net Inventory": "2"
-  },
-  {
-    "Item No.": "216334-BBK",
-    "Variant": "7.5",
-    "Description": "216334-BBK_GO WALK FLEX",
-    "UOM": "PAIR",
     "Net Inventory": "1"
   },
   {
@@ -16839,7 +15929,7 @@
     "Variant": "8",
     "Description": "216334-BRN_GO WALK FLEX",
     "UOM": "PAIR",
-    "Net Inventory": "2"
+    "Net Inventory": "1"
   },
   {
     "Item No.": "216334-BRN",
@@ -17336,7 +16426,7 @@
     "Variant": "9.5",
     "Description": "216372WW-BBK_GO WALK NOW",
     "UOM": "PAIR",
-    "Net Inventory": "4"
+    "Net Inventory": "3"
   },
   {
     "Item No.": "216372WW-WHT",
@@ -18001,7 +17091,7 @@
     "Variant": "11",
     "Description": "216375WW-NVY_GO WALK NOW",
     "UOM": "PAIR",
-    "Net Inventory": "4"
+    "Net Inventory": "3"
   },
   {
     "Item No.": "216375WW-NVY",
@@ -18058,13 +17148,6 @@
     "Description": "216480-BBK_GO WALK FLEX",
     "UOM": "PAIR",
     "Net Inventory": "4"
-  },
-  {
-    "Item No.": "216480-BBK",
-    "Variant": "12",
-    "Description": "216480-BBK_GO WALK FLEX",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
   },
   {
     "Item No.": "216480-BBK",
@@ -18274,7 +17357,7 @@
     "Variant": "8.5",
     "Description": "216486-BBK_GO WALK FLEX",
     "UOM": "PAIR",
-    "Net Inventory": "2"
+    "Net Inventory": "1"
   },
   {
     "Item No.": "216486-BBK",
@@ -18365,7 +17448,7 @@
     "Variant": "11",
     "Description": "216486-WNV_GO WALK FLEX",
     "UOM": "PAIR",
-    "Net Inventory": "4"
+    "Net Inventory": "3"
   },
   {
     "Item No.": "216486-WNV",
@@ -18393,7 +17476,7 @@
     "Variant": "9",
     "Description": "216486-WNV_GO WALK FLEX",
     "UOM": "PAIR",
-    "Net Inventory": "6"
+    "Net Inventory": "5"
   },
   {
     "Item No.": "216486-WNV",
@@ -18456,7 +17539,7 @@
     "Variant": "9",
     "Description": "216491-BBK_GO WALK FLEX",
     "UOM": "PAIR",
-    "Net Inventory": "3"
+    "Net Inventory": "2"
   },
   {
     "Item No.": "216491-BBK",
@@ -18533,7 +17616,7 @@
     "Variant": "11",
     "Description": "216491-NVY_GO WALK FLEX",
     "UOM": "PAIR",
-    "Net Inventory": "4"
+    "Net Inventory": "3"
   },
   {
     "Item No.": "216491-NVY",
@@ -18691,13 +17774,6 @@
   },
   {
     "Item No.": "216504-BKGY",
-    "Variant": "7.5",
-    "Description": "216504-BKGY_GO WALK FLEX",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
-  },
-  {
-    "Item No.": "216504-BKGY",
     "Variant": "8",
     "Description": "216504-BKGY_GO WALK FLEX",
     "UOM": "PAIR",
@@ -18806,7 +17882,7 @@
     "Variant": "10",
     "Description": "216506-BBK_GO WALK FLEX",
     "UOM": "PAIR",
-    "Net Inventory": "2"
+    "Net Inventory": "1"
   },
   {
     "Item No.": "216506-BBK",
@@ -18820,7 +17896,7 @@
     "Variant": "8",
     "Description": "216506-BBK_GO WALK FLEX",
     "UOM": "PAIR",
-    "Net Inventory": "2"
+    "Net Inventory": "1"
   },
   {
     "Item No.": "216506-BBK",
@@ -18855,14 +17931,7 @@
     "Variant": "7",
     "Description": "216506-CCBK_GO WALK FLEX",
     "UOM": "PAIR",
-    "Net Inventory": "4"
-  },
-  {
-    "Item No.": "216506-CCBK",
-    "Variant": "7.5",
-    "Description": "216506-CCBK_GO WALK FLEX",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
+    "Net Inventory": "3"
   },
   {
     "Item No.": "216506-CCBK",
@@ -18995,7 +18064,7 @@
     "Variant": "9",
     "Description": "216508-BBK_GO WALK FLEX",
     "UOM": "PAIR",
-    "Net Inventory": "6"
+    "Net Inventory": "5"
   },
   {
     "Item No.": "216508-BBK",
@@ -19062,13 +18131,6 @@
   },
   {
     "Item No.": "216518-BBK",
-    "Variant": "10",
-    "Description": "216518-BBK_GO WALK ARCH FIT 2.",
-    "UOM": "PAIR",
-    "Net Inventory": "2"
-  },
-  {
-    "Item No.": "216518-BBK",
     "Variant": "11",
     "Description": "216518-BBK_GO WALK ARCH FIT 2.",
     "UOM": "PAIR",
@@ -19117,205 +18179,100 @@
     "Net Inventory": "3"
   },
   {
-    "Item No.": "216522-BKGY",
+    "Item No.": "216525-CCBK",
     "Variant": "10",
-    "Description": "216522-BKGY_GO WALK ARCH FIT 2",
+    "Description": "216525-CCBK_GO WALK ARCH FIT 2",
     "UOM": "PAIR",
-    "Net Inventory": "2"
+    "Net Inventory": "3"
   },
   {
-    "Item No.": "216522-BKGY",
-    "Variant": "11",
-    "Description": "216522-BKGY_GO WALK ARCH FIT 2",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
-  },
-  {
-    "Item No.": "216522-BKGY",
-    "Variant": "8",
-    "Description": "216522-BKGY_GO WALK ARCH FIT 2",
-    "UOM": "PAIR",
-    "Net Inventory": "2"
-  },
-  {
-    "Item No.": "216522-BKGY",
-    "Variant": "9",
-    "Description": "216522-BKGY_GO WALK ARCH FIT 2",
-    "UOM": "PAIR",
-    "Net Inventory": "2"
-  },
-  {
-    "Item No.": "216551-BLK",
-    "Variant": "10",
-    "Description": "216551-BLK_GO WALK 7",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
-  },
-  {
-    "Item No.": "216551-BLK",
+    "Item No.": "216525-CCBK",
     "Variant": "10.5",
-    "Description": "216551-BLK_GO WALK 7",
+    "Description": "216525-CCBK_GO WALK ARCH FIT 2",
     "UOM": "PAIR",
     "Net Inventory": "1"
   },
   {
-    "Item No.": "216551-BLK",
+    "Item No.": "216525-CCBK",
     "Variant": "11",
-    "Description": "216551-BLK_GO WALK 7",
+    "Description": "216525-CCBK_GO WALK ARCH FIT 2",
     "UOM": "PAIR",
     "Net Inventory": "2"
   },
   {
-    "Item No.": "216551-BLK",
-    "Variant": "12",
-    "Description": "216551-BLK_GO WALK 7",
-    "UOM": "PAIR",
-    "Net Inventory": "2"
-  },
-  {
-    "Item No.": "216551-BLK",
+    "Item No.": "216525-CCBK",
     "Variant": "8",
-    "Description": "216551-BLK_GO WALK 7",
+    "Description": "216525-CCBK_GO WALK ARCH FIT 2",
     "UOM": "PAIR",
     "Net Inventory": "3"
   },
   {
-    "Item No.": "216551-BLK",
+    "Item No.": "216525-CCBK",
     "Variant": "8.5",
-    "Description": "216551-BLK_GO WALK 7",
+    "Description": "216525-CCBK_GO WALK ARCH FIT 2",
     "UOM": "PAIR",
-    "Net Inventory": "2"
+    "Net Inventory": "1"
   },
   {
-    "Item No.": "216551-BLK",
+    "Item No.": "216525-CCBK",
     "Variant": "9",
-    "Description": "216551-BLK_GO WALK 7",
+    "Description": "216525-CCBK_GO WALK ARCH FIT 2",
     "UOM": "PAIR",
-    "Net Inventory": "3"
+    "Net Inventory": "2"
   },
   {
-    "Item No.": "216551-BLK",
+    "Item No.": "216525-CCBK",
     "Variant": "9.5",
-    "Description": "216551-BLK_GO WALK 7",
+    "Description": "216525-CCBK_GO WALK ARCH FIT 2",
     "UOM": "PAIR",
     "Net Inventory": "1"
   },
   {
-    "Item No.": "216551-NVY",
+    "Item No.": "216525-CHAR",
     "Variant": "10",
-    "Description": "216551-NVY_GO WALK 7",
+    "Description": "216525-CHAR_GO WALK ARCH FIT 2",
     "UOM": "PAIR",
-    "Net Inventory": "3"
+    "Net Inventory": "1"
   },
   {
-    "Item No.": "216551-NVY",
+    "Item No.": "216525-CHAR",
     "Variant": "10.5",
-    "Description": "216551-NVY_GO WALK 7",
+    "Description": "216525-CHAR_GO WALK ARCH FIT 2",
     "UOM": "PAIR",
     "Net Inventory": "2"
   },
   {
-    "Item No.": "216551-NVY",
+    "Item No.": "216525-CHAR",
     "Variant": "11",
-    "Description": "216551-NVY_GO WALK 7",
+    "Description": "216525-CHAR_GO WALK ARCH FIT 2",
     "UOM": "PAIR",
     "Net Inventory": "1"
   },
   {
-    "Item No.": "216551-NVY",
-    "Variant": "7",
-    "Description": "216551-NVY_GO WALK 7",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
-  },
-  {
-    "Item No.": "216551-NVY",
-    "Variant": "7.5",
-    "Description": "216551-NVY_GO WALK 7",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
-  },
-  {
-    "Item No.": "216551-NVY",
-    "Variant": "9",
-    "Description": "216551-NVY_GO WALK 7",
-    "UOM": "PAIR",
-    "Net Inventory": "2"
-  },
-  {
-    "Item No.": "216551-NVY",
-    "Variant": "9.5",
-    "Description": "216551-NVY_GO WALK 7",
-    "UOM": "PAIR",
-    "Net Inventory": "2"
-  },
-  {
-    "Item No.": "216551-TPE",
-    "Variant": "10",
-    "Description": "216551-TPE_GO WALK 7",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
-  },
-  {
-    "Item No.": "216551-TPE",
-    "Variant": "10.5",
-    "Description": "216551-TPE_GO WALK 7",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
-  },
-  {
-    "Item No.": "216551-TPE",
-    "Variant": "11",
-    "Description": "216551-TPE_GO WALK 7",
-    "UOM": "PAIR",
-    "Net Inventory": "3"
-  },
-  {
-    "Item No.": "216551-TPE",
-    "Variant": "12",
-    "Description": "216551-TPE_GO WALK 7",
-    "UOM": "PAIR",
-    "Net Inventory": "2"
-  },
-  {
-    "Item No.": "216551-TPE",
-    "Variant": "7",
-    "Description": "216551-TPE_GO WALK 7",
-    "UOM": "PAIR",
-    "Net Inventory": "2"
-  },
-  {
-    "Item No.": "216551-TPE",
-    "Variant": "7.5",
-    "Description": "216551-TPE_GO WALK 7",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
-  },
-  {
-    "Item No.": "216551-TPE",
+    "Item No.": "216525-CHAR",
     "Variant": "8",
-    "Description": "216551-TPE_GO WALK 7",
+    "Description": "216525-CHAR_GO WALK ARCH FIT 2",
     "UOM": "PAIR",
-    "Net Inventory": "1"
+    "Net Inventory": "2"
   },
   {
-    "Item No.": "216551-TPE",
+    "Item No.": "216525-CHAR",
     "Variant": "8.5",
-    "Description": "216551-TPE_GO WALK 7",
+    "Description": "216525-CHAR_GO WALK ARCH FIT 2",
     "UOM": "PAIR",
     "Net Inventory": "1"
   },
   {
-    "Item No.": "216551-TPE",
+    "Item No.": "216525-CHAR",
     "Variant": "9",
-    "Description": "216551-TPE_GO WALK 7",
+    "Description": "216525-CHAR_GO WALK ARCH FIT 2",
     "UOM": "PAIR",
     "Net Inventory": "2"
   },
   {
-    "Item No.": "216551-TPE",
+    "Item No.": "216525-CHAR",
     "Variant": "9.5",
-    "Description": "216551-TPE_GO WALK 7",
+    "Description": "216525-CHAR_GO WALK ARCH FIT 2",
     "UOM": "PAIR",
     "Net Inventory": "1"
   },
@@ -19337,20 +18294,6 @@
     "Item No.": "216556-BKRD",
     "Variant": "8",
     "Description": "216556-BKRD_GO WALK 7",
-    "UOM": "PAIR",
-    "Net Inventory": "2"
-  },
-  {
-    "Item No.": "216556-NVLM",
-    "Variant": "11",
-    "Description": "216556-NVLM_GO WALK 7",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
-  },
-  {
-    "Item No.": "216556-NVLM",
-    "Variant": "9",
-    "Description": "216556-NVLM_GO WALK 7",
     "UOM": "PAIR",
     "Net Inventory": "1"
   },
@@ -19558,118 +18501,6 @@
     "Net Inventory": "3"
   },
   {
-    "Item No.": "216639-GYRD",
-    "Variant": "10",
-    "Description": "216639-GYRD_GO WALK 7",
-    "UOM": "PAIR",
-    "Net Inventory": "2"
-  },
-  {
-    "Item No.": "216639-GYRD",
-    "Variant": "8",
-    "Description": "216639-GYRD_GO WALK 7",
-    "UOM": "PAIR",
-    "Net Inventory": "2"
-  },
-  {
-    "Item No.": "216639-GYRD",
-    "Variant": "9",
-    "Description": "216639-GYRD_GO WALK 7",
-    "UOM": "PAIR",
-    "Net Inventory": "2"
-  },
-  {
-    "Item No.": "216639-NVBK",
-    "Variant": "10",
-    "Description": "216639-NVBK_GO WALK 7",
-    "UOM": "PAIR",
-    "Net Inventory": "2"
-  },
-  {
-    "Item No.": "216639-NVBK",
-    "Variant": "11",
-    "Description": "216639-NVBK_GO WALK 7",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
-  },
-  {
-    "Item No.": "216639-NVBK",
-    "Variant": "9",
-    "Description": "216639-NVBK_GO WALK 7",
-    "UOM": "PAIR",
-    "Net Inventory": "2"
-  },
-  {
-    "Item No.": "216639-WHT",
-    "Variant": "10",
-    "Description": "216639-WHT_GO WALK 7",
-    "UOM": "PAIR",
-    "Net Inventory": "2"
-  },
-  {
-    "Item No.": "216639-WHT",
-    "Variant": "8",
-    "Description": "216639-WHT_GO WALK 7",
-    "UOM": "PAIR",
-    "Net Inventory": "2"
-  },
-  {
-    "Item No.": "216639-WHT",
-    "Variant": "9",
-    "Description": "216639-WHT_GO WALK 7",
-    "UOM": "PAIR",
-    "Net Inventory": "3"
-  },
-  {
-    "Item No.": "216641-WHT",
-    "Variant": "10",
-    "Description": "216641-WHT_GO WALK 7",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
-  },
-  {
-    "Item No.": "216641-WHT",
-    "Variant": "11",
-    "Description": "216641-WHT_GO WALK 7",
-    "UOM": "PAIR",
-    "Net Inventory": "2"
-  },
-  {
-    "Item No.": "216641-WHT",
-    "Variant": "12",
-    "Description": "216641-WHT_GO WALK 7",
-    "UOM": "PAIR",
-    "Net Inventory": "2"
-  },
-  {
-    "Item No.": "216641-WHT",
-    "Variant": "7",
-    "Description": "216641-WHT_GO WALK 7",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
-  },
-  {
-    "Item No.": "216641-WHT",
-    "Variant": "8",
-    "Description": "216641-WHT_GO WALK 7",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
-  },
-  {
-    "Item No.": "216641-WHT",
-    "Variant": "9",
-    "Description": "216641-WHT_GO WALK 7",
-    "UOM": "PAIR",
-    "Net Inventory": "3"
-  },
-  {
-    "Item No.": "216641-WHT",
-    "Variant": "9.5",
-    "Description": "216641-WHT_GO WALK 7",
-    "UOM": "PAIR",
-    "Net Inventory": "2"
-  },
-  {
     "Item No.": "216646-GRY",
     "Variant": "10",
     "Description": "216646-GRY_GO WALK 7",
@@ -19712,20 +18543,6 @@
     "Net Inventory": "2"
   },
   {
-    "Item No.": "216646-NVY",
-    "Variant": "8",
-    "Description": "216646-NVY_GO WALK 7",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
-  },
-  {
-    "Item No.": "216646-NVY",
-    "Variant": "9",
-    "Description": "216646-NVY_GO WALK 7",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
-  },
-  {
     "Item No.": "216684-BBK",
     "Variant": "10",
     "Description": "216684-BBK_GO WALK MAX",
@@ -19807,7 +18624,7 @@
     "Variant": "8",
     "Description": "216684-DKTP_GO WALK MAX",
     "UOM": "PAIR",
-    "Net Inventory": "4"
+    "Net Inventory": "3"
   },
   {
     "Item No.": "216684-DKTP",
@@ -19871,19 +18688,68 @@
     "Description": "216684-LTGY_GO WALK MAX",
     "UOM": "PAIR",
     "Net Inventory": "1"
+  },
+  {
+    "Item No.": "216775-BBK",
+    "Variant": "10",
+    "Description": "216775-BBK_GO WALK 8",
+    "UOM": "PAIR",
+    "Net Inventory": "1"
+  },
+  {
+    "Item No.": "216775-BBK",
+    "Variant": "10.5",
+    "Description": "216775-BBK_GO WALK 8",
+    "UOM": "PAIR",
+    "Net Inventory": "1"
+  },
+  {
+    "Item No.": "216775-BBK",
+    "Variant": "8",
+    "Description": "216775-BBK_GO WALK 8",
+    "UOM": "PAIR",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "216775-BBK",
+    "Variant": "9",
+    "Description": "216775-BBK_GO WALK 8",
+    "UOM": "PAIR",
+    "Net Inventory": "1"
+  },
+  {
+    "Item No.": "216775-BBK",
+    "Variant": "9.5",
+    "Description": "216775-BBK_GO WALK 8",
+    "UOM": "PAIR",
+    "Net Inventory": "1"
+  },
+  {
+    "Item No.": "216775-CCBK",
+    "Variant": "10",
+    "Description": "216775-CCBK_GO WALK 8",
+    "UOM": "PAIR",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "216775-CCBK",
+    "Variant": "8",
+    "Description": "216775-CCBK_GO WALK 8",
+    "UOM": "PAIR",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "216775-CCBK",
+    "Variant": "9",
+    "Description": "216775-CCBK_GO WALK 8",
+    "UOM": "PAIR",
+    "Net Inventory": "2"
   },
   {
     "Item No.": "216800-NVY",
     "Variant": "10",
     "Description": "216800-NVY_GO WALK 7",
     "UOM": "PAIR",
-    "Net Inventory": "2"
-  },
-  {
-    "Item No.": "216800-NVY",
-    "Variant": "11",
-    "Description": "216800-NVY_GO WALK 7",
-    "UOM": "PAIR",
     "Net Inventory": "1"
   },
   {
@@ -19898,7 +18764,7 @@
     "Variant": "8",
     "Description": "216800-NVY_GO WALK 7",
     "UOM": "PAIR",
-    "Net Inventory": "2"
+    "Net Inventory": "1"
   },
   {
     "Item No.": "216870-LTGY",
@@ -20052,7 +18918,7 @@
     "Variant": "10",
     "Description": "216909-NVGY_GO WALK FLEX",
     "UOM": "PAIR",
-    "Net Inventory": "4"
+    "Net Inventory": "3"
   },
   {
     "Item No.": "216909-NVGY",
@@ -20402,19 +19268,12 @@
     "Variant": "9",
     "Description": "217075-WHT_GOWALKARCHFIT N-JOY",
     "UOM": "PAIR",
-    "Net Inventory": "2"
+    "Net Inventory": "1"
   },
   {
     "Item No.": "217075-WHT",
     "Variant": "9.5",
     "Description": "217075-WHT_GOWALKARCHFIT N-JOY",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
-  },
-  {
-    "Item No.": "217076-BBK",
-    "Variant": "10",
-    "Description": "217076-BBK_GOWALKARCHFIT N-JOY",
     "UOM": "PAIR",
     "Net Inventory": "1"
   },
@@ -20430,7 +19289,7 @@
     "Variant": "8",
     "Description": "217076-BBK_GOWALKARCHFIT N-JOY",
     "UOM": "PAIR",
-    "Net Inventory": "3"
+    "Net Inventory": "2"
   },
   {
     "Item No.": "217076-BBK",
@@ -20504,13 +19363,6 @@
   },
   {
     "Item No.": "217076-GRY",
-    "Variant": "13",
-    "Description": "217076-GRY_GOWALKARCHFIT N-JOY",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
-  },
-  {
-    "Item No.": "217076-GRY",
     "Variant": "7.5",
     "Description": "217076-GRY_GOWALKARCHFIT N-JOY",
     "UOM": "PAIR",
@@ -20521,7 +19373,7 @@
     "Variant": "8",
     "Description": "217076-GRY_GOWALKARCHFIT N-JOY",
     "UOM": "PAIR",
-    "Net Inventory": "4"
+    "Net Inventory": "3"
   },
   {
     "Item No.": "217076-GRY",
@@ -21000,18 +19852,102 @@
     "Net Inventory": "2"
   },
   {
+    "Item No.": "217086-TPE",
+    "Variant": "10",
+    "Description": "217086-TPE_GOWALKARCHFIT N-JOY",
+    "UOM": "PAIR",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "217086-TPE",
+    "Variant": "10.5",
+    "Description": "217086-TPE_GOWALKARCHFIT N-JOY",
+    "UOM": "PAIR",
+    "Net Inventory": "1"
+  },
+  {
+    "Item No.": "217086-TPE",
+    "Variant": "11",
+    "Description": "217086-TPE_GOWALKARCHFIT N-JOY",
+    "UOM": "PAIR",
+    "Net Inventory": "1"
+  },
+  {
+    "Item No.": "217086-TPE",
+    "Variant": "8",
+    "Description": "217086-TPE_GOWALKARCHFIT N-JOY",
+    "UOM": "PAIR",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "217086-TPE",
+    "Variant": "9",
+    "Description": "217086-TPE_GOWALKARCHFIT N-JOY",
+    "UOM": "PAIR",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "217129-GYBL",
+    "Variant": "10",
+    "Description": "217129-GYBL_GOWALK MAXCUSH HYP",
+    "UOM": "PAIR",
+    "Net Inventory": "3"
+  },
+  {
+    "Item No.": "217129-GYBL",
+    "Variant": "11",
+    "Description": "217129-GYBL_GOWALK MAXCUSH HYP",
+    "UOM": "PAIR",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "217129-GYBL",
+    "Variant": "7.5",
+    "Description": "217129-GYBL_GOWALK MAXCUSH HYP",
+    "UOM": "PAIR",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "217129-GYBL",
+    "Variant": "8",
+    "Description": "217129-GYBL_GOWALK MAXCUSH HYP",
+    "UOM": "PAIR",
+    "Net Inventory": "3"
+  },
+  {
+    "Item No.": "217129-GYBL",
+    "Variant": "9",
+    "Description": "217129-GYBL_GOWALK MAXCUSH HYP",
+    "UOM": "PAIR",
+    "Net Inventory": "3"
+  },
+  {
+    "Item No.": "217129-WHT",
+    "Variant": "10.5",
+    "Description": "217129-WHT_GOWALK MAXCUSH HYPE",
+    "UOM": "PAIR",
+    "Net Inventory": "1"
+  },
+  {
+    "Item No.": "217129-WHT",
+    "Variant": "7.5",
+    "Description": "217129-WHT_GOWALK MAXCUSH HYPE",
+    "UOM": "PAIR",
+    "Net Inventory": "1"
+  },
+  {
+    "Item No.": "217129-WHT",
+    "Variant": "9",
+    "Description": "217129-WHT_GOWALK MAXCUSH HYPE",
+    "UOM": "PAIR",
+    "Net Inventory": "1"
+  },
+  {
     "Item No.": "220381-BBK",
     "Variant": "10",
     "Description": "220381-BBK_GO RUN NOW",
     "UOM": "PAIR",
     "Net Inventory": "2"
-  },
-  {
-    "Item No.": "220381-BBK",
-    "Variant": "11",
-    "Description": "220381-BBK_GO RUN NOW",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
   },
   {
     "Item No.": "220381-BBK",
@@ -21032,14 +19968,7 @@
     "Variant": "8.5",
     "Description": "220381-BBK_GO RUN NOW",
     "UOM": "PAIR",
-    "Net Inventory": "2"
-  },
-  {
-    "Item No.": "220381-BBK",
-    "Variant": "9",
-    "Description": "220381-BBK_GO RUN NOW",
-    "UOM": "PAIR",
-    "Net Inventory": "2"
+    "Net Inventory": "1"
   },
   {
     "Item No.": "220381-NVY",
@@ -21061,13 +19990,6 @@
     "Description": "220381-NVY_GO RUN NOW",
     "UOM": "PAIR",
     "Net Inventory": "4"
-  },
-  {
-    "Item No.": "220381-NVY",
-    "Variant": "7.5",
-    "Description": "220381-NVY_GO RUN NOW",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
   },
   {
     "Item No.": "220381-NVY",
@@ -21295,17 +20217,10 @@
   },
   {
     "Item No.": "220383-BLK",
-    "Variant": "8.5",
-    "Description": "220383-BLK_GO RUN NOW",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
-  },
-  {
-    "Item No.": "220383-BLK",
     "Variant": "9",
     "Description": "220383-BLK_GO RUN NOW",
     "UOM": "PAIR",
-    "Net Inventory": "4"
+    "Net Inventory": "3"
   },
   {
     "Item No.": "220383-BLK",
@@ -21403,7 +20318,7 @@
     "Variant": "9",
     "Description": "220383-WNV_GO RUN NOW",
     "UOM": "PAIR",
-    "Net Inventory": "5"
+    "Net Inventory": "4"
   },
   {
     "Item No.": "220383-WNV",
@@ -21648,7 +20563,7 @@
     "Variant": "9",
     "Description": "220610-GYLM_MAX CUSH ENDEAVOUR",
     "UOM": "PAIR",
-    "Net Inventory": "2"
+    "Net Inventory": "1"
   },
   {
     "Item No.": "220610-TPBK",
@@ -21691,13 +20606,6 @@
     "Description": "220613-BKW_MAX CUSH ENDEAVOUR",
     "UOM": "PAIR",
     "Net Inventory": "2"
-  },
-  {
-    "Item No.": "220613-BKW",
-    "Variant": "10.5",
-    "Description": "220613-BKW_MAX CUSH ENDEAVOUR",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
   },
   {
     "Item No.": "220613-BKW",
@@ -21830,7 +20738,7 @@
     "Variant": "10",
     "Description": "220615-BKLM_MAX CUSH ENDEAVOUR",
     "UOM": "PAIR",
-    "Net Inventory": "3"
+    "Net Inventory": "2"
   },
   {
     "Item No.": "220615-BKLM",
@@ -21859,20 +20767,6 @@
     "Description": "220615-BKLM_MAX CUSH ENDEAVOUR",
     "UOM": "PAIR",
     "Net Inventory": "3"
-  },
-  {
-    "Item No.": "220623-BBK",
-    "Variant": "10.5",
-    "Description": "220623-BBK_MAX CUSH ENDEAVOUR",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
-  },
-  {
-    "Item No.": "220623-BBK",
-    "Variant": "11",
-    "Description": "220623-BBK_MAX CUSH ENDEAVOUR",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
   },
   {
     "Item No.": "220623-BBK",
@@ -21961,13 +20855,6 @@
   {
     "Item No.": "220624-BBK",
     "Variant": "10.5",
-    "Description": "220624-BBK_MAX CUSH ENDEAVOUR",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
-  },
-  {
-    "Item No.": "220624-BBK",
-    "Variant": "11",
     "Description": "220624-BBK_MAX CUSH ENDEAVOUR",
     "UOM": "PAIR",
     "Net Inventory": "1"
@@ -22166,7 +21053,7 @@
     "Variant": "10",
     "Description": "220847-WHT_GO RUN ELEVATE 2.0",
     "UOM": "PAIR",
-    "Net Inventory": "3"
+    "Net Inventory": "2"
   },
   {
     "Item No.": "220847-WHT",
@@ -22243,14 +21130,7 @@
     "Variant": "10",
     "Description": "220849-BRN_GO RUN ELEVATE 2.0",
     "UOM": "PAIR",
-    "Net Inventory": "5"
-  },
-  {
-    "Item No.": "220849-BRN",
-    "Variant": "10.5",
-    "Description": "220849-BRN_GO RUN ELEVATE 2.0",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
+    "Net Inventory": "4"
   },
   {
     "Item No.": "220849-BRN",
@@ -22264,7 +21144,7 @@
     "Variant": "8",
     "Description": "220849-BRN_GO RUN ELEVATE 2.0",
     "UOM": "PAIR",
-    "Net Inventory": "6"
+    "Net Inventory": "3"
   },
   {
     "Item No.": "220849-BRN",
@@ -22286,13 +21166,6 @@
     "Description": "220849-NAT_GO RUN ELEVATE 2.0",
     "UOM": "PAIR",
     "Net Inventory": "3"
-  },
-  {
-    "Item No.": "220849-NAT",
-    "Variant": "8",
-    "Description": "220849-NAT_GO RUN ELEVATE 2.0",
-    "UOM": "PAIR",
-    "Net Inventory": "2"
   },
   {
     "Item No.": "220849-NAT",
@@ -22888,6 +21761,76 @@
     "Description": "220861-NVY_GO RUN CONSISTE 2.0",
     "UOM": "PAIR",
     "Net Inventory": "1"
+  },
+  {
+    "Item No.": "220862-GRY",
+    "Variant": "10",
+    "Description": "220862-GRY_GO RUN CONSISTE 2.0",
+    "UOM": "PAIR",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "220862-GRY",
+    "Variant": "10.5",
+    "Description": "220862-GRY_GO RUN CONSISTE 2.0",
+    "UOM": "PAIR",
+    "Net Inventory": "1"
+  },
+  {
+    "Item No.": "220862-GRY",
+    "Variant": "11",
+    "Description": "220862-GRY_GO RUN CONSISTE 2.0",
+    "UOM": "PAIR",
+    "Net Inventory": "1"
+  },
+  {
+    "Item No.": "220862-GRY",
+    "Variant": "8",
+    "Description": "220862-GRY_GO RUN CONSISTE 2.0",
+    "UOM": "PAIR",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "220862-GRY",
+    "Variant": "9",
+    "Description": "220862-GRY_GO RUN CONSISTE 2.0",
+    "UOM": "PAIR",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "220862-WNV",
+    "Variant": "10",
+    "Description": "220862-WNV_GO RUN CONSISTE 2.0",
+    "UOM": "PAIR",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "220862-WNV",
+    "Variant": "10.5",
+    "Description": "220862-WNV_GO RUN CONSISTE 2.0",
+    "UOM": "PAIR",
+    "Net Inventory": "1"
+  },
+  {
+    "Item No.": "220862-WNV",
+    "Variant": "11",
+    "Description": "220862-WNV_GO RUN CONSISTE 2.0",
+    "UOM": "PAIR",
+    "Net Inventory": "1"
+  },
+  {
+    "Item No.": "220862-WNV",
+    "Variant": "8",
+    "Description": "220862-WNV_GO RUN CONSISTE 2.0",
+    "UOM": "PAIR",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "220862-WNV",
+    "Variant": "9",
+    "Description": "220862-WNV_GO RUN CONSISTE 2.0",
+    "UOM": "PAIR",
+    "Net Inventory": "2"
   },
   {
     "Item No.": "220863-BKW",
@@ -22971,7 +21914,7 @@
     "Variant": "11",
     "Description": "220863-NVBK_GO RUN CONSISTE 2.",
     "UOM": "PAIR",
-    "Net Inventory": "2"
+    "Net Inventory": "1"
   },
   {
     "Item No.": "220863-NVBK",
@@ -23321,7 +22264,7 @@
     "Variant": "8",
     "Description": "220872-TPE_GO RUN CONSISTE 2.0",
     "UOM": "PAIR",
-    "Net Inventory": "4"
+    "Net Inventory": "3"
   },
   {
     "Item No.": "220872-TPE",
@@ -23550,13 +22493,6 @@
   {
     "Item No.": "220880-NVY",
     "Variant": "8",
-    "Description": "220880-NVY_GO RUN CONSISTE 2.0",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
-  },
-  {
-    "Item No.": "220880-NVY",
-    "Variant": "8.5",
     "Description": "220880-NVY_GO RUN CONSISTE 2.0",
     "UOM": "PAIR",
     "Net Inventory": "1"
@@ -23682,13 +22618,6 @@
   },
   {
     "Item No.": "220883-OFWT",
-    "Variant": "11",
-    "Description": "220883-OFWT_GO RUN CONSISTE 2.",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
-  },
-  {
-    "Item No.": "220883-OFWT",
     "Variant": "12",
     "Description": "220883-OFWT_GO RUN CONSISTE 2.",
     "UOM": "PAIR",
@@ -23706,7 +22635,7 @@
     "Variant": "9",
     "Description": "220883-OFWT_GO RUN CONSISTE 2.",
     "UOM": "PAIR",
-    "Net Inventory": "5"
+    "Net Inventory": "4"
   },
   {
     "Item No.": "220887-BLK",
@@ -23895,7 +22824,7 @@
     "Variant": "9",
     "Description": "229033-NVY_GO CONSISTENT SAN",
     "UOM": "PAIR",
-    "Net Inventory": "3"
+    "Net Inventory": "2"
   },
   {
     "Item No.": "229036-GRY",
@@ -24053,17 +22982,10 @@
   },
   {
     "Item No.": "229202-TPMT",
-    "Variant": "7",
-    "Description": "229202-TPMT_GO WALK FLEX SANDA",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
-  },
-  {
-    "Item No.": "229202-TPMT",
     "Variant": "8",
     "Description": "229202-TPMT_GO WALK FLEX SANDA",
     "UOM": "PAIR",
-    "Net Inventory": "2"
+    "Net Inventory": "1"
   },
   {
     "Item No.": "229202-TPMT",
@@ -24189,7 +23111,7 @@
     "Variant": "9",
     "Description": "229203-NVY_GO WALK FLEX SANDAL",
     "UOM": "PAIR",
-    "Net Inventory": "3"
+    "Net Inventory": "2"
   },
   {
     "Item No.": "229203-TPE",
@@ -24197,13 +23119,6 @@
     "Description": "229203-TPE_GO WALK FLEX SANDAL",
     "UOM": "PAIR",
     "Net Inventory": "3"
-  },
-  {
-    "Item No.": "229203-TPE",
-    "Variant": "11",
-    "Description": "229203-TPE_GO WALK FLEX SANDAL",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
   },
   {
     "Item No.": "229203-TPE",
@@ -24266,7 +23181,7 @@
     "Variant": "10",
     "Description": "229204-CHAR_GO WALK FLEX SANDA",
     "UOM": "PAIR",
-    "Net Inventory": "2"
+    "Net Inventory": "1"
   },
   {
     "Item No.": "229204-CHAR",
@@ -24280,7 +23195,7 @@
     "Variant": "7",
     "Description": "229204-CHAR_GO WALK FLEX SANDA",
     "UOM": "PAIR",
-    "Net Inventory": "3"
+    "Net Inventory": "2"
   },
   {
     "Item No.": "229204-TPE",
@@ -24420,7 +23335,7 @@
     "Variant": "8",
     "Description": "229214-NVY_GO WALK FLEX SANDAL",
     "UOM": "PAIR",
-    "Net Inventory": "4"
+    "Net Inventory": "3"
   },
   {
     "Item No.": "229214-NVY",
@@ -24493,13 +23408,6 @@
     "Net Inventory": "2"
   },
   {
-    "Item No.": "229269-BLK",
-    "Variant": "9",
-    "Description": "229269-BLK_GO CONSIS SAN 2.0",
-    "UOM": "PAIR",
-    "Net Inventory": "2"
-  },
-  {
     "Item No.": "229269-NVRD",
     "Variant": "10",
     "Description": "229269-NVRD_GO CONSIS SAN 2.0",
@@ -24567,14 +23475,14 @@
     "Variant": "9",
     "Description": "229269-TPE_GO CONSIS SAN 2.0",
     "UOM": "PAIR",
-    "Net Inventory": "2"
+    "Net Inventory": "1"
   },
   {
     "Item No.": "229401-BKCC",
     "Variant": "10",
     "Description": "229401-BKCC_GO WALK FLEX SANDA",
     "UOM": "PAIR",
-    "Net Inventory": "2"
+    "Net Inventory": "1"
   },
   {
     "Item No.": "229401-BKCC",
@@ -24602,7 +23510,7 @@
     "Variant": "9",
     "Description": "229401-BKCC_GO WALK FLEX SANDA",
     "UOM": "PAIR",
-    "Net Inventory": "2"
+    "Net Inventory": "1"
   },
   {
     "Item No.": "229401-NVGY",
@@ -24822,13 +23730,6 @@
     "Net Inventory": "2"
   },
   {
-    "Item No.": "229403-OLBK",
-    "Variant": "9",
-    "Description": "229403-OLBK_GO WALK FLEX SANDA",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
-  },
-  {
     "Item No.": "229404-BBK",
     "Variant": "10",
     "Description": "229404-BBK_GO WALK FLEX SANDAL",
@@ -24924,7 +23825,7 @@
     "Variant": "8",
     "Description": "229404-NVOR_GO WALK FLEX SANDA",
     "UOM": "PAIR",
-    "Net Inventory": "2"
+    "Net Inventory": "1"
   },
   {
     "Item No.": "229404-NVOR",
@@ -24945,7 +23846,7 @@
     "Variant": "11",
     "Description": "229413-BLK_GO CONSIS SAN 2.0",
     "UOM": "PAIR",
-    "Net Inventory": "2"
+    "Net Inventory": "1"
   },
   {
     "Item No.": "229413-BLK",
@@ -24959,7 +23860,7 @@
     "Variant": "9",
     "Description": "229413-BLK_GO CONSIS SAN 2.0",
     "UOM": "PAIR",
-    "Net Inventory": "3"
+    "Net Inventory": "2"
   },
   {
     "Item No.": "229413-GRY",
@@ -24987,7 +23888,7 @@
     "Variant": "9",
     "Description": "229413-GRY_GO CONSIS SAN 2.0",
     "UOM": "PAIR",
-    "Net Inventory": "3"
+    "Net Inventory": "2"
   },
   {
     "Item No.": "232395-BBK",
@@ -24998,13 +23899,6 @@
   },
   {
     "Item No.": "232395-GYBK",
-    "Variant": "10",
-    "Description": "232395-GYBK_SUMMITS",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
-  },
-  {
-    "Item No.": "232395-GYBK",
     "Variant": "10.5",
     "Description": "232395-GYBK_SUMMITS",
     "UOM": "PAIR",
@@ -25032,39 +23926,11 @@
     "Net Inventory": "1"
   },
   {
-    "Item No.": "232706WW-BBK",
-    "Variant": "10",
-    "Description": "232706WW-BBK_ARCH FIT 2.0",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
-  },
-  {
-    "Item No.": "232706WW-NVY",
-    "Variant": "10",
-    "Description": "232706WW-NVY_ARCH FIT 2.0",
-    "UOM": "PAIR",
-    "Net Inventory": "5"
-  },
-  {
-    "Item No.": "232706WW-NVY",
-    "Variant": "10.5",
-    "Description": "232706WW-NVY_ARCH FIT 2.0",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
-  },
-  {
-    "Item No.": "232706WW-NVY",
-    "Variant": "7.5",
-    "Description": "232706WW-NVY_ARCH FIT 2.0",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
-  },
-  {
     "Item No.": "232723-BKW",
     "Variant": "10",
     "Description": "232723-BKW_D'LUX WALKER 2.0",
     "UOM": "PAIR",
-    "Net Inventory": "3"
+    "Net Inventory": "2"
   },
   {
     "Item No.": "232723-BKW",
@@ -25211,7 +24077,7 @@
     "Variant": "9",
     "Description": "232793-GYCC_VAPOR FOAM SANDAL",
     "UOM": "PAIR",
-    "Net Inventory": "2"
+    "Net Inventory": "1"
   },
   {
     "Item No.": "232826-WGY",
@@ -25232,7 +24098,7 @@
     "Variant": "11",
     "Description": "232826-WGY_FLEX ADVANTAGE 5.0",
     "UOM": "PAIR",
-    "Net Inventory": "2"
+    "Net Inventory": "1"
   },
   {
     "Item No.": "232826-WGY",
@@ -25247,62 +24113,6 @@
     "Description": "232826-WGY_FLEX ADVANTAGE 5.0",
     "UOM": "PAIR",
     "Net Inventory": "1"
-  },
-  {
-    "Item No.": "232832-CHAR",
-    "Variant": "11",
-    "Description": "232832-CHAR_SUMMITS",
-    "UOM": "PAIR",
-    "Net Inventory": "2"
-  },
-  {
-    "Item No.": "232832-CHAR",
-    "Variant": "8",
-    "Description": "232832-CHAR_SUMMITS",
-    "UOM": "PAIR",
-    "Net Inventory": "3"
-  },
-  {
-    "Item No.": "232832-NVY",
-    "Variant": "10",
-    "Description": "232832-NVY_SUMMITS",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
-  },
-  {
-    "Item No.": "232832-NVY",
-    "Variant": "11",
-    "Description": "232832-NVY_SUMMITS",
-    "UOM": "PAIR",
-    "Net Inventory": "5"
-  },
-  {
-    "Item No.": "232832-NVY",
-    "Variant": "12",
-    "Description": "232832-NVY_SUMMITS",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
-  },
-  {
-    "Item No.": "232832-NVY",
-    "Variant": "8",
-    "Description": "232832-NVY_SUMMITS",
-    "UOM": "PAIR",
-    "Net Inventory": "3"
-  },
-  {
-    "Item No.": "232839-TPE",
-    "Variant": "10",
-    "Description": "232839-TPE_EDGERIDE",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
-  },
-  {
-    "Item No.": "232839-TPE",
-    "Variant": "13",
-    "Description": "232839-TPE_EDGERIDE",
-    "UOM": "PAIR",
-    "Net Inventory": "2"
   },
   {
     "Item No.": "232899-BLK",
@@ -25354,13 +24164,6 @@
     "Net Inventory": "2"
   },
   {
-    "Item No.": "232899-NAT",
-    "Variant": "9",
-    "Description": "232899-NAT_VAPOR FOAM SANDAL",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
-  },
-  {
     "Item No.": "232899-NVY",
     "Variant": "10",
     "Description": "232899-NVY_VAPOR FOAM SANDAL",
@@ -25377,13 +24180,6 @@
   {
     "Item No.": "232899-NVY",
     "Variant": "12",
-    "Description": "232899-NVY_VAPOR FOAM SANDAL",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
-  },
-  {
-    "Item No.": "232899-NVY",
-    "Variant": "7",
     "Description": "232899-NVY_VAPOR FOAM SANDAL",
     "UOM": "PAIR",
     "Net Inventory": "1"
@@ -25491,7 +24287,7 @@
     "Variant": "8",
     "Description": "232966-BLU_TRACK",
     "UOM": "PAIR",
-    "Net Inventory": "3"
+    "Net Inventory": "2"
   },
   {
     "Item No.": "232966-BLU",
@@ -25554,7 +24350,7 @@
     "Variant": "10",
     "Description": "232973-BKTN_SKECH-AIR DYNAMI 2",
     "UOM": "PAIR",
-    "Net Inventory": "4"
+    "Net Inventory": "3"
   },
   {
     "Item No.": "232973-BKTN",
@@ -25639,6 +24435,104 @@
     "Description": "232973-GYOR_SKECH-AIR DYNAMI 2",
     "UOM": "PAIR",
     "Net Inventory": "4"
+  },
+  {
+    "Item No.": "232973-NVBL",
+    "Variant": "10",
+    "Description": "232973-NVBL_SKECH-AIR DYNAMI 2",
+    "UOM": "PAIR",
+    "Net Inventory": "3"
+  },
+  {
+    "Item No.": "232973-NVBL",
+    "Variant": "10.5",
+    "Description": "232973-NVBL_SKECH-AIR DYNAMI 2",
+    "UOM": "PAIR",
+    "Net Inventory": "1"
+  },
+  {
+    "Item No.": "232973-NVBL",
+    "Variant": "11",
+    "Description": "232973-NVBL_SKECH-AIR DYNAMI 2",
+    "UOM": "PAIR",
+    "Net Inventory": "1"
+  },
+  {
+    "Item No.": "232973-NVBL",
+    "Variant": "12",
+    "Description": "232973-NVBL_SKECH-AIR DYNAMI 2",
+    "UOM": "PAIR",
+    "Net Inventory": "1"
+  },
+  {
+    "Item No.": "232973-NVBL",
+    "Variant": "7.5",
+    "Description": "232973-NVBL_SKECH-AIR DYNAMI 2",
+    "UOM": "PAIR",
+    "Net Inventory": "1"
+  },
+  {
+    "Item No.": "232973-NVBL",
+    "Variant": "8",
+    "Description": "232973-NVBL_SKECH-AIR DYNAMI 2",
+    "UOM": "PAIR",
+    "Net Inventory": "3"
+  },
+  {
+    "Item No.": "232973-NVBL",
+    "Variant": "9",
+    "Description": "232973-NVBL_SKECH-AIR DYNAMI 2",
+    "UOM": "PAIR",
+    "Net Inventory": "3"
+  },
+  {
+    "Item No.": "232973-WBK",
+    "Variant": "10",
+    "Description": "232973-WBK_SKECH-AIR DYNAMI 2.",
+    "UOM": "PAIR",
+    "Net Inventory": "3"
+  },
+  {
+    "Item No.": "232973-WBK",
+    "Variant": "10.5",
+    "Description": "232973-WBK_SKECH-AIR DYNAMI 2.",
+    "UOM": "PAIR",
+    "Net Inventory": "1"
+  },
+  {
+    "Item No.": "232973-WBK",
+    "Variant": "11",
+    "Description": "232973-WBK_SKECH-AIR DYNAMI 2.",
+    "UOM": "PAIR",
+    "Net Inventory": "1"
+  },
+  {
+    "Item No.": "232973-WBK",
+    "Variant": "12",
+    "Description": "232973-WBK_SKECH-AIR DYNAMI 2.",
+    "UOM": "PAIR",
+    "Net Inventory": "1"
+  },
+  {
+    "Item No.": "232973-WBK",
+    "Variant": "7.5",
+    "Description": "232973-WBK_SKECH-AIR DYNAMI 2.",
+    "UOM": "PAIR",
+    "Net Inventory": "1"
+  },
+  {
+    "Item No.": "232973-WBK",
+    "Variant": "8",
+    "Description": "232973-WBK_SKECH-AIR DYNAMI 2.",
+    "UOM": "PAIR",
+    "Net Inventory": "3"
+  },
+  {
+    "Item No.": "232973-WBK",
+    "Variant": "9",
+    "Description": "232973-WBK_SKECH-AIR DYNAMI 2.",
+    "UOM": "PAIR",
+    "Net Inventory": "3"
   },
   {
     "Item No.": "233037-BKCC",
@@ -25744,13 +24638,6 @@
     "Description": "233039-BBK_TRACK",
     "UOM": "PAIR",
     "Net Inventory": "3"
-  },
-  {
-    "Item No.": "233039-BBK",
-    "Variant": "10.5",
-    "Description": "233039-BBK_TRACK",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
   },
   {
     "Item No.": "233039-BBK",
@@ -25785,7 +24672,7 @@
     "Variant": "9",
     "Description": "233039-BBK_TRACK",
     "UOM": "PAIR",
-    "Net Inventory": "4"
+    "Net Inventory": "3"
   },
   {
     "Item No.": "233039-CHAR",
@@ -26254,7 +25141,7 @@
     "Variant": "8",
     "Description": "233183-BBK_SKECH-LITE PRO 2.0",
     "UOM": "PAIR",
-    "Net Inventory": "2"
+    "Net Inventory": "1"
   },
   {
     "Item No.": "233183-BBK",
@@ -26268,49 +25155,49 @@
     "Variant": "10",
     "Description": "233183-NVY_SKECH-LITE PRO 2.0",
     "UOM": "PAIR",
-    "Net Inventory": "3"
+    "Net Inventory": "6"
   },
   {
     "Item No.": "233183-NVY",
     "Variant": "10.5",
     "Description": "233183-NVY_SKECH-LITE PRO 2.0",
     "UOM": "PAIR",
-    "Net Inventory": "1"
+    "Net Inventory": "2"
   },
   {
     "Item No.": "233183-NVY",
     "Variant": "11",
     "Description": "233183-NVY_SKECH-LITE PRO 2.0",
     "UOM": "PAIR",
-    "Net Inventory": "2"
+    "Net Inventory": "3"
   },
   {
     "Item No.": "233183-NVY",
     "Variant": "12",
     "Description": "233183-NVY_SKECH-LITE PRO 2.0",
     "UOM": "PAIR",
-    "Net Inventory": "1"
+    "Net Inventory": "2"
   },
   {
     "Item No.": "233183-NVY",
     "Variant": "7.5",
     "Description": "233183-NVY_SKECH-LITE PRO 2.0",
     "UOM": "PAIR",
-    "Net Inventory": "1"
+    "Net Inventory": "2"
   },
   {
     "Item No.": "233183-NVY",
     "Variant": "8",
     "Description": "233183-NVY_SKECH-LITE PRO 2.0",
     "UOM": "PAIR",
-    "Net Inventory": "5"
+    "Net Inventory": "8"
   },
   {
     "Item No.": "233183-NVY",
     "Variant": "9",
     "Description": "233183-NVY_SKECH-LITE PRO 2.0",
     "UOM": "PAIR",
-    "Net Inventory": "5"
+    "Net Inventory": "8"
   },
   {
     "Item No.": "233183-WBK",
@@ -26667,14 +25554,14 @@
     "Variant": "8",
     "Description": "237754-BKCC_HILLCREST",
     "UOM": "PAIR",
-    "Net Inventory": "2"
+    "Net Inventory": "1"
   },
   {
     "Item No.": "237754-BKCC",
     "Variant": "9",
     "Description": "237754-BKCC_HILLCREST",
     "UOM": "PAIR",
-    "Net Inventory": "2"
+    "Net Inventory": "1"
   },
   {
     "Item No.": "237806-CCYL",
@@ -27105,13 +25992,6 @@
   },
   {
     "Item No.": "243277-NVY",
-    "Variant": "7",
-    "Description": "243277-NVY_MAX CUSHIONING FOAM",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
-  },
-  {
-    "Item No.": "243277-NVY",
     "Variant": "8",
     "Description": "243277-NVY_MAX CUSHIONING FOAM",
     "UOM": "PAIR",
@@ -27164,13 +26044,6 @@
     "Variant": "9",
     "Description": "243283-BKW_GO WALK 7 FOAMIES",
     "UOM": "PAIR",
-    "Net Inventory": "3"
-  },
-  {
-    "Item No.": "243283-WNV",
-    "Variant": "10",
-    "Description": "243283-WNV_GO WALK 7 FOAMIES",
-    "UOM": "PAIR",
     "Net Inventory": "1"
   },
   {
@@ -27220,7 +26093,7 @@
     "Variant": "9",
     "Description": "243310-BBK_FOAMIES SURGE",
     "UOM": "PAIR",
-    "Net Inventory": "2"
+    "Net Inventory": "1"
   },
   {
     "Item No.": "243310-GRN",
@@ -27245,13 +26118,6 @@
   },
   {
     "Item No.": "243310-GRN",
-    "Variant": "7",
-    "Description": "243310-GRN_FOAMIES SURGE",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
-  },
-  {
-    "Item No.": "243310-GRN",
     "Variant": "8",
     "Description": "243310-GRN_FOAMIES SURGE",
     "UOM": "PAIR",
@@ -27263,13 +26129,6 @@
     "Description": "243310-GRN_FOAMIES SURGE",
     "UOM": "PAIR",
     "Net Inventory": "2"
-  },
-  {
-    "Item No.": "243310-GRY",
-    "Variant": "10",
-    "Description": "243310-GRY_FOAMIES SURGE",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
   },
   {
     "Item No.": "243310-GRY",
@@ -27325,18 +26184,11 @@
     "Variant": "9",
     "Description": "243310-KHK_FOAMIES SURGE",
     "UOM": "PAIR",
-    "Net Inventory": "3"
+    "Net Inventory": "2"
   },
   {
     "Item No.": "243311-CHAR",
     "Variant": "10",
-    "Description": "243311-CHAR_FOAMIES SURGE",
-    "UOM": "PAIR",
-    "Net Inventory": "3"
-  },
-  {
-    "Item No.": "243311-CHAR",
-    "Variant": "7",
     "Description": "243311-CHAR_FOAMIES SURGE",
     "UOM": "PAIR",
     "Net Inventory": "1"
@@ -27665,13 +26517,6 @@
   },
   {
     "Item No.": "243342-BKGY",
-    "Variant": "10",
-    "Description": "243342-BKGY_ARCH FIT FOAMIES O",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
-  },
-  {
-    "Item No.": "243342-BKGY",
     "Variant": "11",
     "Description": "243342-BKGY_ARCH FIT FOAMIES O",
     "UOM": "PAIR",
@@ -27696,7 +26541,7 @@
     "Variant": "9",
     "Description": "243342-BKGY_ARCH FIT FOAMIES O",
     "UOM": "PAIR",
-    "Net Inventory": "2"
+    "Net Inventory": "1"
   },
   {
     "Item No.": "243342-WBK",
@@ -27715,13 +26560,6 @@
   {
     "Item No.": "243342-WBK",
     "Variant": "12",
-    "Description": "243342-WBK_ARCH FIT FOAMIES OU",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
-  },
-  {
-    "Item No.": "243342-WBK",
-    "Variant": "8",
     "Description": "243342-WBK_ARCH FIT FOAMIES OU",
     "UOM": "PAIR",
     "Net Inventory": "1"
@@ -27980,21 +26818,7 @@
   },
   {
     "Item No.": "246086-LTGY",
-    "Variant": "10",
-    "Description": "246086-LTGY_GO RUN SUPERSONIC",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
-  },
-  {
-    "Item No.": "246086-LTGY",
     "Variant": "7",
-    "Description": "246086-LTGY_GO RUN SUPERSONIC",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
-  },
-  {
-    "Item No.": "246086-LTGY",
-    "Variant": "9",
     "Description": "246086-LTGY_GO RUN SUPERSONIC",
     "UOM": "PAIR",
     "Net Inventory": "1"
@@ -28023,13 +26847,6 @@
   {
     "Item No.": "246086-RDBK",
     "Variant": "7",
-    "Description": "246086-RDBK_GO RUN SUPERSONIC",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
-  },
-  {
-    "Item No.": "246086-RDBK",
-    "Variant": "8",
     "Description": "246086-RDBK_GO RUN SUPERSONIC",
     "UOM": "PAIR",
     "Net Inventory": "1"
@@ -28109,7 +26926,7 @@
     "Variant": "10",
     "Description": "77157-BLK_NAMPA",
     "UOM": "PAIR",
-    "Net Inventory": "3"
+    "Net Inventory": "2"
   },
   {
     "Item No.": "77157-BLK",
@@ -28312,20 +27129,6 @@
     "Variant": "10",
     "Description": "8790307-BBK_GENO",
     "UOM": "PAIR",
-    "Net Inventory": "2"
-  },
-  {
-    "Item No.": "8790307-BBK",
-    "Variant": "11",
-    "Description": "8790307-BBK_GENO",
-    "UOM": "PAIR",
-    "Net Inventory": "2"
-  },
-  {
-    "Item No.": "8790307-BBK",
-    "Variant": "12",
-    "Description": "8790307-BBK_GENO",
-    "UOM": "PAIR",
     "Net Inventory": "1"
   },
   {
@@ -28333,21 +27136,21 @@
     "Variant": "8",
     "Description": "8790307-BBK_GENO",
     "UOM": "PAIR",
-    "Net Inventory": "3"
+    "Net Inventory": "1"
   },
   {
     "Item No.": "8790307-BBK",
     "Variant": "9",
     "Description": "8790307-BBK_GENO",
     "UOM": "PAIR",
-    "Net Inventory": "2"
+    "Net Inventory": "1"
   },
   {
     "Item No.": "8790307-GRY",
     "Variant": "10",
     "Description": "8790307-GRY_GENO",
     "UOM": "PAIR",
-    "Net Inventory": "3"
+    "Net Inventory": "1"
   },
   {
     "Item No.": "8790307-GRY",
@@ -28358,24 +27161,17 @@
   },
   {
     "Item No.": "8790307-GRY",
-    "Variant": "12",
-    "Description": "8790307-GRY_GENO",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
-  },
-  {
-    "Item No.": "8790307-GRY",
     "Variant": "8",
     "Description": "8790307-GRY_GENO",
     "UOM": "PAIR",
-    "Net Inventory": "3"
+    "Net Inventory": "2"
   },
   {
     "Item No.": "8790307-GRY",
     "Variant": "9",
     "Description": "8790307-GRY_GENO",
     "UOM": "PAIR",
-    "Net Inventory": "3"
+    "Net Inventory": "2"
   },
   {
     "Item No.": "8790307-NVY",
@@ -28392,23 +27188,44 @@
     "Net Inventory": "2"
   },
   {
-    "Item No.": "8790307-NVY",
+    "Item No.": "8790310-TPE",
+    "Variant": "10",
+    "Description": "8790310-TPE_BURNS 2.0",
+    "UOM": "PAIR",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "8790310-TPE",
+    "Variant": "11",
+    "Description": "8790310-TPE_BURNS 2.0",
+    "UOM": "PAIR",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "8790310-TPE",
     "Variant": "12",
-    "Description": "8790307-NVY_GENO",
+    "Description": "8790310-TPE_BURNS 2.0",
     "UOM": "PAIR",
     "Net Inventory": "1"
   },
   {
-    "Item No.": "8790307-NVY",
-    "Variant": "8",
-    "Description": "8790307-NVY_GENO",
+    "Item No.": "8790310-TPE",
+    "Variant": "7",
+    "Description": "8790310-TPE_BURNS 2.0",
     "UOM": "PAIR",
-    "Net Inventory": "3"
+    "Net Inventory": "2"
   },
   {
-    "Item No.": "8790307-NVY",
+    "Item No.": "8790310-TPE",
+    "Variant": "8",
+    "Description": "8790310-TPE_BURNS 2.0",
+    "UOM": "PAIR",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "8790310-TPE",
     "Variant": "9",
-    "Description": "8790307-NVY_GENO",
+    "Description": "8790310-TPE_BURNS 2.0",
     "UOM": "PAIR",
     "Net Inventory": "3"
   },
@@ -28417,7 +27234,7 @@
     "Variant": "10",
     "Description": "8790313-BBK_SIDE LINES 2.0",
     "UOM": "PAIR",
-    "Net Inventory": "2"
+    "Net Inventory": "1"
   },
   {
     "Item No.": "8790313-BBK",
@@ -28438,7 +27255,7 @@
     "Variant": "9",
     "Description": "8790313-BBK_SIDE LINES 2.0",
     "UOM": "PAIR",
-    "Net Inventory": "2"
+    "Net Inventory": "1"
   },
   {
     "Item No.": "8790313-TPNV",
@@ -28466,7 +27283,7 @@
     "Variant": "9",
     "Description": "8790313-TPNV_SIDE LINES 2.0",
     "UOM": "PAIR",
-    "Net Inventory": "2"
+    "Net Inventory": "1"
   },
   {
     "Item No.": "8790314-BBK",
@@ -28477,24 +27294,17 @@
   },
   {
     "Item No.": "8790314-BBK",
-    "Variant": "11",
-    "Description": "8790314-BBK_SIDE LINES 2.0",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
-  },
-  {
-    "Item No.": "8790314-BBK",
     "Variant": "8",
     "Description": "8790314-BBK_SIDE LINES 2.0",
     "UOM": "PAIR",
-    "Net Inventory": "2"
+    "Net Inventory": "1"
   },
   {
     "Item No.": "8790314-OFWT",
     "Variant": "10",
     "Description": "8790314-OFWT_SIDE LINES 2.0",
     "UOM": "PAIR",
-    "Net Inventory": "2"
+    "Net Inventory": "1"
   },
   {
     "Item No.": "8790314-OFWT",
@@ -28551,13 +27361,6 @@
     "Description": "8790314-TPE_SIDE LINES 2.0",
     "UOM": "PAIR",
     "Net Inventory": "1"
-  },
-  {
-    "Item No.": "8790314-TPE",
-    "Variant": "8",
-    "Description": "8790314-TPE_SIDE LINES 2.0",
-    "UOM": "PAIR",
-    "Net Inventory": "2"
   },
   {
     "Item No.": "8790314-TPE",
@@ -28809,7 +27612,7 @@
     "Variant": "7",
     "Description": "898017-BLK_SIDE LINES 2",
     "UOM": "PAIR",
-    "Net Inventory": "3"
+    "Net Inventory": "2"
   },
   {
     "Item No.": "898017-BLK",
@@ -28921,7 +27724,7 @@
     "Variant": "6",
     "Description": "898091-LAV_SIDE LINES 2",
     "UOM": "PAIR",
-    "Net Inventory": "2"
+    "Net Inventory": "1"
   },
   {
     "Item No.": "898091-LAV",
@@ -28970,7 +27773,7 @@
     "Variant": "7",
     "Description": "898091-OFWT_SIDE LINES 2",
     "UOM": "PAIR",
-    "Net Inventory": "3"
+    "Net Inventory": "2"
   },
   {
     "Item No.": "898091-OFWT",
@@ -29096,7 +27899,7 @@
     "Variant": "7",
     "Description": "898092-WTGD_SIDE LINES 2",
     "UOM": "PAIR",
-    "Net Inventory": "2"
+    "Net Inventory": "1"
   },
   {
     "Item No.": "898092-WTGD",
@@ -29110,13 +27913,6 @@
     "Variant": "9",
     "Description": "898092-WTGD_SIDE LINES 2",
     "UOM": "PAIR",
-    "Net Inventory": "2"
-  },
-  {
-    "Item No.": "L121K097-00C7",
-    "Variant": "0",
-    "Description": "L121K097-00C7_BASEBALL CAP",
-    "UOM": "PCS",
     "Net Inventory": "2"
   },
   {
@@ -29125,13 +27921,6 @@
     "Description": "L124K015-0183_BACKPACK",
     "UOM": "PCS",
     "Net Inventory": "7"
-  },
-  {
-    "Item No.": "L124K017-03E3",
-    "Variant": "0",
-    "Description": "L124K017-03E3_BASEBALL CAP",
-    "UOM": "PCS",
-    "Net Inventory": "3"
   },
   {
     "Item No.": "L125K048-058G",
@@ -29190,18 +27979,11 @@
     "Net Inventory": "8"
   },
   {
-    "Item No.": "L320U196-004L",
-    "Variant": "0",
-    "Description": "L320U196-004L_BACKPACK",
-    "UOM": "PCS",
-    "Net Inventory": "1"
-  },
-  {
     "Item No.": "L323K045-01JR",
     "Variant": "0",
     "Description": "L323K045-01JR_BASEBALL CAP",
     "UOM": "PCS",
-    "Net Inventory": "5"
+    "Net Inventory": "4"
   },
   {
     "Item No.": "L323U043-005J",
@@ -29299,21 +28081,21 @@
     "Variant": "S",
     "Description": "L325W045-05YC_NO SHOW SOCKS",
     "UOM": "PACK",
-    "Net Inventory": "6"
+    "Net Inventory": "12"
   },
   {
     "Item No.": "L325W070-05YC",
     "Variant": "S",
     "Description": "L325W070-05YC_NO SHOW SOCKS",
     "UOM": "PACK",
-    "Net Inventory": "6"
+    "Net Inventory": "12"
   },
   {
     "Item No.": "L325W072-05YE",
     "Variant": "S",
     "Description": "L325W072-05YE_LOW CUT SOCKS",
     "UOM": "PACK",
-    "Net Inventory": "6"
+    "Net Inventory": "11"
   },
   {
     "Item No.": "L325W073-05YC",
@@ -29327,7 +28109,7 @@
     "Variant": "S",
     "Description": "L325W074-05YE_QUARTER SOCKS",
     "UOM": "PACK",
-    "Net Inventory": "6"
+    "Net Inventory": "12"
   },
   {
     "Item No.": "L325W075-05YC",
@@ -29362,7 +28144,7 @@
     "Variant": "M",
     "Description": "L425U056-0018_BASEBALL CAP",
     "UOM": "PCS",
-    "Net Inventory": "7"
+    "Net Inventory": "6"
   },
   {
     "Item No.": "L425U056-004L",
@@ -29376,7 +28158,7 @@
     "Variant": "M",
     "Description": "L425U056-03EK_BASEBALL CAP",
     "UOM": "PCS",
-    "Net Inventory": "6"
+    "Net Inventory": "3"
   },
   {
     "Item No.": "P125M040-0088",
@@ -29390,7 +28172,7 @@
     "Variant": "0",
     "Description": "P224U004-01ZG_BASEBALL CAP",
     "UOM": "PCS",
-    "Net Inventory": "5"
+    "Net Inventory": "4"
   },
   {
     "Item No.": "P224U005-0019",
@@ -29418,28 +28200,28 @@
     "Variant": "0",
     "Description": "P224U020-0018_BASEBALL CAP",
     "UOM": "PCS",
-    "Net Inventory": "5"
+    "Net Inventory": "2"
   },
   {
     "Item No.": "P224U020-01LU",
     "Variant": "0",
     "Description": "P224U020-01LU_BASEBALL CAP",
     "UOM": "PCS",
-    "Net Inventory": "4"
+    "Net Inventory": "3"
   },
   {
     "Item No.": "P224U020-022G",
     "Variant": "0",
     "Description": "P224U020-022G_BASEBALL CAP",
     "UOM": "PCS",
-    "Net Inventory": "6"
+    "Net Inventory": "5"
   },
   {
     "Item No.": "P224U020-042Z",
     "Variant": "0",
     "Description": "P224U020-042Z_BASEBALL CAP",
     "UOM": "PCS",
-    "Net Inventory": "7"
+    "Net Inventory": "5"
   },
   {
     "Item No.": "P324U021-00MM",
@@ -29460,28 +28242,21 @@
     "Variant": "M",
     "Description": "P325M107-0629_LOW CUT SOCKS",
     "UOM": "PACK",
-    "Net Inventory": "6"
-  },
-  {
-    "Item No.": "P325U008-0018",
-    "Variant": "0",
-    "Description": "P325U008-0018_SHOULDER BAG",
-    "UOM": "PCS",
-    "Net Inventory": "3"
+    "Net Inventory": "12"
   },
   {
     "Item No.": "P325U008-01MZ",
     "Variant": "0",
     "Description": "P325U008-01MZ_SHOULDER BAG",
     "UOM": "PCS",
-    "Net Inventory": "5"
+    "Net Inventory": "4"
   },
   {
     "Item No.": "P325U011-02BV",
     "Variant": "0",
     "Description": "P325U011-02BV_SHOULDER BAG",
     "UOM": "PCS",
-    "Net Inventory": "6"
+    "Net Inventory": "5"
   },
   {
     "Item No.": "P325U011-05YB",
@@ -29495,7 +28270,7 @@
     "Variant": "S",
     "Description": "P325W119-05YC_LOW CUT SOCKS",
     "UOM": "PACK",
-    "Net Inventory": "6"
+    "Net Inventory": "5"
   },
   {
     "Item No.": "S106144-678",
@@ -29544,21 +28319,21 @@
     "Variant": "5-6.5",
     "Description": "S601875-039_QUARTER SOCKS",
     "UOM": "PACK",
-    "Net Inventory": "8"
+    "Net Inventory": "12"
   },
   {
     "Item No.": "SC82045",
     "Variant": "0",
     "Description": "SC82045_SHOE CARE KIT",
     "UOM": "PCS",
-    "Net Inventory": "14"
+    "Net Inventory": "13"
   },
   {
     "Item No.": "SC82052",
     "Variant": "0",
     "Description": "SC82052_WATERPROOFER 8OZ",
     "UOM": "PCS",
-    "Net Inventory": "16"
+    "Net Inventory": "15"
   },
   {
     "Item No.": "SC82053",
@@ -29600,14 +28375,14 @@
     "Variant": "0",
     "Description": "SKTT8512-SMLT_BACKPACK",
     "UOM": "PCS",
-    "Net Inventory": "6"
+    "Net Inventory": "4"
   },
   {
     "Item No.": "SKTT8514-PNK",
     "Variant": "0",
     "Description": "SKTT8514-PNK_CROSS BODY BAG",
     "UOM": "PCS",
-    "Net Inventory": "2"
+    "Net Inventory": "1"
   },
   {
     "Item No.": "SKTT8523-MLT",
@@ -29642,7 +28417,7 @@
     "Variant": "0",
     "Description": "SL125U196-02L2_BACKPACK",
     "UOM": "PCS",
-    "Net Inventory": "5"
+    "Net Inventory": "4"
   },
   {
     "Item No.": "SL125U196-NV01",
@@ -29761,7 +28536,7 @@
     "Variant": "0",
     "Description": "SL424U701-NVRE_SOCK SET",
     "UOM": "PACK",
-    "Net Inventory": "8"
+    "Net Inventory": "7"
   },
   {
     "Item No.": "SL424U701-OLBG",
@@ -29782,7 +28557,7 @@
     "Variant": "0",
     "Description": "SP125U261-MLGR_CREW SOCKS",
     "UOM": "PACK",
-    "Net Inventory": "5"
+    "Net Inventory": "4"
   },
   {
     "Item No.": "SP125U262-00GK",
@@ -29796,14 +28571,14 @@
     "Variant": "0",
     "Description": "SP125U263-00GK_QUARTER SOCKS",
     "UOM": "PACK",
-    "Net Inventory": "9"
+    "Net Inventory": "12"
   },
   {
     "Item No.": "SP125U263-02L2",
     "Variant": "0",
     "Description": "SP125U263-02L2_QUARTER SOCKS",
     "UOM": "PACK",
-    "Net Inventory": "9"
+    "Net Inventory": "11"
   },
   {
     "Item No.": "SP125U263-MLGR",
@@ -29831,7 +28606,7 @@
     "Variant": "0",
     "Description": "SP125U264-02L2_LOW CUT SOCKS",
     "UOM": "PACK",
-    "Net Inventory": "8"
+    "Net Inventory": "6"
   },
   {
     "Item No.": "SP125U264-MLGR",
@@ -29887,7 +28662,7 @@
     "Variant": "0",
     "Description": "SP125U271-02L2_DUFFLE BAG",
     "UOM": "PCS",
-    "Net Inventory": "7"
+    "Net Inventory": "6"
   },
   {
     "Item No.": "SP125U272-02L2",
@@ -29922,7 +28697,7 @@
     "Variant": "0",
     "Description": "SP126U574-02L2_NO SHOW SOCKS",
     "UOM": "PACK",
-    "Net Inventory": "19"
+    "Net Inventory": "18"
   },
   {
     "Item No.": "SP126U574-MLGR",
@@ -29936,14 +28711,14 @@
     "Variant": "0",
     "Description": "SP126U574-WGRB_NO SHOW SOCKS",
     "UOM": "PACK",
-    "Net Inventory": "18"
+    "Net Inventory": "16"
   },
   {
     "Item No.": "SP126U577-0018",
     "Variant": "0",
     "Description": "SP126U577-0018_BACKPACK",
     "UOM": "PCS",
-    "Net Inventory": "6"
+    "Net Inventory": "4"
   },
   {
     "Item No.": "SP126U577-01ND",
@@ -29978,7 +28753,7 @@
     "Variant": "0",
     "Description": "SP424U717-RBY1_BACKPACK",
     "UOM": "PCS",
-    "Net Inventory": "6"
+    "Net Inventory": "3"
   },
   {
     "Item No.": "SP424U718-RBY1",
@@ -29988,13 +28763,6 @@
     "Net Inventory": "3"
   },
   {
-    "Item No.": "SP424U719-GRN1",
-    "Variant": "0",
-    "Description": "SP424U719-GRN1_WAIST POUCH",
-    "UOM": "PCS",
-    "Net Inventory": "2"
-  },
-  {
     "Item No.": "SP424U720-RBY1",
     "Variant": "0",
     "Description": "SP424U720-RBY1_CROSS BODY BAG",
@@ -30002,25 +28770,11 @@
     "Net Inventory": "4"
   },
   {
-    "Item No.": "SP424U721-02L2",
-    "Variant": "0",
-    "Description": "SP424U721-02L2_CROSS BODY BAG",
-    "UOM": "PCS",
-    "Net Inventory": "1"
-  },
-  {
-    "Item No.": "SP424U722-GRN1",
-    "Variant": "0",
-    "Description": "SP424U722-GRN1_CROSS BODY BAG",
-    "UOM": "PCS",
-    "Net Inventory": "3"
-  },
-  {
     "Item No.": "SP424U726-02L2",
     "Variant": "0",
     "Description": "SP424U726-02L2_BACKPACK",
     "UOM": "PCS",
-    "Net Inventory": "7"
+    "Net Inventory": "4"
   },
   {
     "Item No.": "SP424U727-02L2",
@@ -30034,489 +28788,510 @@
     "Variant": "0",
     "Description": "Z000036-ZZZ-1-WHT_SNEAKER BALL",
     "UOM": "PCS",
-    "Net Inventory": "14"
+    "Net Inventory": "13"
   },
   {
-    "Item No.": "125880-BKW",
+    "Item No.": "104736-BBK",
+    "Variant": "10",
+    "Description": "104736-BBK_VIRTUE",
+    "UOM": "PAIR",
+    "Net Inventory": "-"
+  },
+  {
+    "Item No.": "104736-BBK",
+    "Variant": "5",
+    "Description": "104736-BBK_VIRTUE",
+    "UOM": "PAIR",
+    "Net Inventory": "-"
+  },
+  {
+    "Item No.": "104736-BBK",
     "Variant": "6",
-    "Description": "125880-BKW_GOWALK MAXCUSH HYPE",
+    "Description": "104736-BBK_VIRTUE",
     "UOM": "PAIR",
     "Net Inventory": "-"
   },
   {
-    "Item No.": "125880-BKW",
+    "Item No.": "104736-BBK",
     "Variant": "7",
-    "Description": "125880-BKW_GOWALK MAXCUSH HYPE",
+    "Description": "104736-BBK_VIRTUE",
     "UOM": "PAIR",
     "Net Inventory": "-"
   },
   {
-    "Item No.": "125880-BKW",
+    "Item No.": "104736-BBK",
     "Variant": "8",
-    "Description": "125880-BKW_GOWALK MAXCUSH HYPE",
+    "Description": "104736-BBK_VIRTUE",
     "UOM": "PAIR",
     "Net Inventory": "-"
   },
   {
-    "Item No.": "125880-BKW",
-    "Variant": "8.5",
-    "Description": "125880-BKW_GOWALK MAXCUSH HYPE",
-    "UOM": "PAIR",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "125880-BKW",
+    "Item No.": "104736-BBK",
     "Variant": "9",
-    "Description": "125880-BKW_GOWALK MAXCUSH HYPE",
+    "Description": "104736-BBK_VIRTUE",
     "UOM": "PAIR",
     "Net Inventory": "-"
   },
   {
-    "Item No.": "125880-TPE",
+    "Item No.": "104736-DKTP",
+    "Variant": "10",
+    "Description": "104736-DKTP_VIRTUE",
+    "UOM": "PAIR",
+    "Net Inventory": "-"
+  },
+  {
+    "Item No.": "104736-DKTP",
+    "Variant": "5",
+    "Description": "104736-DKTP_VIRTUE",
+    "UOM": "PAIR",
+    "Net Inventory": "-"
+  },
+  {
+    "Item No.": "104736-DKTP",
     "Variant": "6",
-    "Description": "125880-TPE_GOWALK MAXCUSH HYPE",
+    "Description": "104736-DKTP_VIRTUE",
     "UOM": "PAIR",
     "Net Inventory": "-"
   },
   {
-    "Item No.": "125880-TPE",
+    "Item No.": "104736-DKTP",
     "Variant": "7",
-    "Description": "125880-TPE_GOWALK MAXCUSH HYPE",
+    "Description": "104736-DKTP_VIRTUE",
     "UOM": "PAIR",
     "Net Inventory": "-"
   },
   {
-    "Item No.": "125880-TPE",
+    "Item No.": "104736-DKTP",
+    "Variant": "8",
+    "Description": "104736-DKTP_VIRTUE",
+    "UOM": "PAIR",
+    "Net Inventory": "-"
+  },
+  {
+    "Item No.": "104736-DKTP",
+    "Variant": "9",
+    "Description": "104736-DKTP_VIRTUE",
+    "UOM": "PAIR",
+    "Net Inventory": "-"
+  },
+  {
+    "Item No.": "117497-BBK",
+    "Variant": "10",
+    "Description": "117497-BBK_BOBS SQUAD CHAOS",
+    "UOM": "PAIR",
+    "Net Inventory": "-"
+  },
+  {
+    "Item No.": "117497-BBK",
+    "Variant": "5",
+    "Description": "117497-BBK_BOBS SQUAD CHAOS",
+    "UOM": "PAIR",
+    "Net Inventory": "-"
+  },
+  {
+    "Item No.": "117497-BBK",
+    "Variant": "6",
+    "Description": "117497-BBK_BOBS SQUAD CHAOS",
+    "UOM": "PAIR",
+    "Net Inventory": "-"
+  },
+  {
+    "Item No.": "117497-BBK",
+    "Variant": "7",
+    "Description": "117497-BBK_BOBS SQUAD CHAOS",
+    "UOM": "PAIR",
+    "Net Inventory": "-"
+  },
+  {
+    "Item No.": "117497-BBK",
+    "Variant": "8",
+    "Description": "117497-BBK_BOBS SQUAD CHAOS",
+    "UOM": "PAIR",
+    "Net Inventory": "-"
+  },
+  {
+    "Item No.": "117497-BBK",
+    "Variant": "9",
+    "Description": "117497-BBK_BOBS SQUAD CHAOS",
+    "UOM": "PAIR",
+    "Net Inventory": "-"
+  },
+  {
+    "Item No.": "117497-NAT",
+    "Variant": "10",
+    "Description": "117497-NAT_BOBS SQUAD CHAOS",
+    "UOM": "PAIR",
+    "Net Inventory": "-"
+  },
+  {
+    "Item No.": "117497-NAT",
+    "Variant": "5",
+    "Description": "117497-NAT_BOBS SQUAD CHAOS",
+    "UOM": "PAIR",
+    "Net Inventory": "-"
+  },
+  {
+    "Item No.": "117497-NAT",
+    "Variant": "6",
+    "Description": "117497-NAT_BOBS SQUAD CHAOS",
+    "UOM": "PAIR",
+    "Net Inventory": "-"
+  },
+  {
+    "Item No.": "117497-NAT",
+    "Variant": "7",
+    "Description": "117497-NAT_BOBS SQUAD CHAOS",
+    "UOM": "PAIR",
+    "Net Inventory": "-"
+  },
+  {
+    "Item No.": "117497-NAT",
+    "Variant": "8",
+    "Description": "117497-NAT_BOBS SQUAD CHAOS",
+    "UOM": "PAIR",
+    "Net Inventory": "-"
+  },
+  {
+    "Item No.": "117497-NAT",
+    "Variant": "9",
+    "Description": "117497-NAT_BOBS SQUAD CHAOS",
+    "UOM": "PAIR",
+    "Net Inventory": "-"
+  },
+  {
+    "Item No.": "118415-BLK",
+    "Variant": "10",
+    "Description": "118415-BLK_BOBS SQUAD 4",
+    "UOM": "PAIR",
+    "Net Inventory": "-"
+  },
+  {
+    "Item No.": "118415-BLK",
+    "Variant": "10.5",
+    "Description": "118415-BLK_BOBS SQUAD 4",
+    "UOM": "PAIR",
+    "Net Inventory": "-"
+  },
+  {
+    "Item No.": "118415-BLK",
+    "Variant": "11",
+    "Description": "118415-BLK_BOBS SQUAD 4",
+    "UOM": "PAIR",
+    "Net Inventory": "-"
+  },
+  {
+    "Item No.": "118415-BLK",
+    "Variant": "12",
+    "Description": "118415-BLK_BOBS SQUAD 4",
+    "UOM": "PAIR",
+    "Net Inventory": "-"
+  },
+  {
+    "Item No.": "118415-BLK",
     "Variant": "7.5",
-    "Description": "125880-TPE_GOWALK MAXCUSH HYPE",
+    "Description": "118415-BLK_BOBS SQUAD 4",
     "UOM": "PAIR",
     "Net Inventory": "-"
   },
   {
-    "Item No.": "125880-TPE",
+    "Item No.": "118415-BLK",
     "Variant": "8",
-    "Description": "125880-TPE_GOWALK MAXCUSH HYPE",
+    "Description": "118415-BLK_BOBS SQUAD 4",
     "UOM": "PAIR",
     "Net Inventory": "-"
   },
   {
-    "Item No.": "125880-TPE",
+    "Item No.": "118415-BLK",
     "Variant": "9",
-    "Description": "125880-TPE_GOWALK MAXCUSH HYPE",
+    "Description": "118415-BLK_BOBS SQUAD 4",
     "UOM": "PAIR",
     "Net Inventory": "-"
   },
   {
-    "Item No.": "125880-TPE",
-    "Variant": "9.5",
-    "Description": "125880-TPE_GOWALK MAXCUSH HYPE",
+    "Item No.": "118415-OFWT",
+    "Variant": "10",
+    "Description": "118415-OFWT_BOBS SQUAD 4",
     "UOM": "PAIR",
     "Net Inventory": "-"
   },
   {
-    "Item No.": "125884-WMLT",
+    "Item No.": "118415-OFWT",
+    "Variant": "10.5",
+    "Description": "118415-OFWT_BOBS SQUAD 4",
+    "UOM": "PAIR",
+    "Net Inventory": "-"
+  },
+  {
+    "Item No.": "118415-OFWT",
+    "Variant": "11",
+    "Description": "118415-OFWT_BOBS SQUAD 4",
+    "UOM": "PAIR",
+    "Net Inventory": "-"
+  },
+  {
+    "Item No.": "118415-OFWT",
+    "Variant": "12",
+    "Description": "118415-OFWT_BOBS SQUAD 4",
+    "UOM": "PAIR",
+    "Net Inventory": "-"
+  },
+  {
+    "Item No.": "118415-OFWT",
+    "Variant": "7.5",
+    "Description": "118415-OFWT_BOBS SQUAD 4",
+    "UOM": "PAIR",
+    "Net Inventory": "-"
+  },
+  {
+    "Item No.": "118415-OFWT",
+    "Variant": "8",
+    "Description": "118415-OFWT_BOBS SQUAD 4",
+    "UOM": "PAIR",
+    "Net Inventory": "-"
+  },
+  {
+    "Item No.": "118415-OFWT",
+    "Variant": "9",
+    "Description": "118415-OFWT_BOBS SQUAD 4",
+    "UOM": "PAIR",
+    "Net Inventory": "-"
+  },
+  {
+    "Item No.": "124683-BKRG",
+    "Variant": "5",
+    "Description": "124683-BKRG_GO WALK JOY",
+    "UOM": "PAIR",
+    "Net Inventory": "-"
+  },
+  {
+    "Item No.": "124683-BKRG",
     "Variant": "6",
-    "Description": "125884-WMLT_GOWALK MAXCUSH HYP",
+    "Description": "124683-BKRG_GO WALK JOY",
     "UOM": "PAIR",
     "Net Inventory": "-"
   },
   {
-    "Item No.": "125884-WMLT",
+    "Item No.": "124683-BKRG",
     "Variant": "7",
-    "Description": "125884-WMLT_GOWALK MAXCUSH HYP",
+    "Description": "124683-BKRG_GO WALK JOY",
     "UOM": "PAIR",
     "Net Inventory": "-"
   },
   {
-    "Item No.": "125884-WMLT",
+    "Item No.": "124683-BKRG",
     "Variant": "8",
-    "Description": "125884-WMLT_GOWALK MAXCUSH HYP",
+    "Description": "124683-BKRG_GO WALK JOY",
     "UOM": "PAIR",
     "Net Inventory": "-"
   },
   {
-    "Item No.": "125884-WMLT",
+    "Item No.": "124683-BKRG",
+    "Variant": "8.5",
+    "Description": "124683-BKRG_GO WALK JOY",
+    "UOM": "PAIR",
+    "Net Inventory": "-"
+  },
+  {
+    "Item No.": "124683-BKRG",
     "Variant": "9",
-    "Description": "125884-WMLT_GOWALK MAXCUSH HYP",
+    "Description": "124683-BKRG_GO WALK JOY",
     "UOM": "PAIR",
     "Net Inventory": "-"
   },
   {
-    "Item No.": "125920-BKW",
+    "Item No.": "124683-BKRG",
+    "Variant": "9.5",
+    "Description": "124683-BKRG_GO WALK JOY",
+    "UOM": "PAIR",
+    "Net Inventory": "-"
+  },
+  {
+    "Item No.": "124683-MVE",
+    "Variant": "6",
+    "Description": "124683-MVE_GO WALK JOY",
+    "UOM": "PAIR",
+    "Net Inventory": "-"
+  },
+  {
+    "Item No.": "124683-MVE",
     "Variant": "6.5",
-    "Description": "125920-BKW_GO WALK 8",
+    "Description": "124683-MVE_GO WALK JOY",
     "UOM": "PAIR",
     "Net Inventory": "-"
   },
   {
-    "Item No.": "125920-BKW",
+    "Item No.": "124683-MVE",
     "Variant": "7",
-    "Description": "125920-BKW_GO WALK 8",
+    "Description": "124683-MVE_GO WALK JOY",
     "UOM": "PAIR",
     "Net Inventory": "-"
   },
   {
-    "Item No.": "125920-BKW",
+    "Item No.": "124683-MVE",
     "Variant": "7.5",
-    "Description": "125920-BKW_GO WALK 8",
+    "Description": "124683-MVE_GO WALK JOY",
     "UOM": "PAIR",
     "Net Inventory": "-"
   },
   {
-    "Item No.": "125920-BKW",
+    "Item No.": "124683-MVE",
     "Variant": "8",
-    "Description": "125920-BKW_GO WALK 8",
+    "Description": "124683-MVE_GO WALK JOY",
     "UOM": "PAIR",
     "Net Inventory": "-"
   },
   {
-    "Item No.": "125920-BLPK",
+    "Item No.": "124683-MVE",
+    "Variant": "8.5",
+    "Description": "124683-MVE_GO WALK JOY",
+    "UOM": "PAIR",
+    "Net Inventory": "-"
+  },
+  {
+    "Item No.": "124683-MVE",
+    "Variant": "9",
+    "Description": "124683-MVE_GO WALK JOY",
+    "UOM": "PAIR",
+    "Net Inventory": "-"
+  },
+  {
+    "Item No.": "124837-BBK",
+    "Variant": "10",
+    "Description": "124837-BBK_GO WALK FLEX",
+    "UOM": "PAIR",
+    "Net Inventory": "-"
+  },
+  {
+    "Item No.": "124837-BBK",
     "Variant": "6",
-    "Description": "125920-BLPK_GO WALK 8",
+    "Description": "124837-BBK_GO WALK FLEX",
     "UOM": "PAIR",
     "Net Inventory": "-"
   },
   {
-    "Item No.": "125920-BLPK",
+    "Item No.": "124837-BBK",
     "Variant": "7",
-    "Description": "125920-BLPK_GO WALK 8",
+    "Description": "124837-BBK_GO WALK FLEX",
     "UOM": "PAIR",
     "Net Inventory": "-"
   },
   {
-    "Item No.": "125920-BLPK",
-    "Variant": "7.5",
-    "Description": "125920-BLPK_GO WALK 8",
-    "UOM": "PAIR",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "125920-BLPK",
+    "Item No.": "124837-BBK",
     "Variant": "8",
-    "Description": "125920-BLPK_GO WALK 8",
+    "Description": "124837-BBK_GO WALK FLEX",
     "UOM": "PAIR",
     "Net Inventory": "-"
   },
   {
-    "Item No.": "125920-BLPK",
+    "Item No.": "124837-BBK",
     "Variant": "9",
-    "Description": "125920-BLPK_GO WALK 8",
+    "Description": "124837-BBK_GO WALK FLEX",
     "UOM": "PAIR",
     "Net Inventory": "-"
   },
   {
-    "Item No.": "125920-TPBL",
-    "Variant": "6.5",
-    "Description": "125920-TPBL_GO WALK 8",
+    "Item No.": "124837-BRN",
+    "Variant": "10",
+    "Description": "124837-BRN_GO WALK FLEX",
     "UOM": "PAIR",
     "Net Inventory": "-"
   },
   {
-    "Item No.": "125920-TPBL",
+    "Item No.": "124837-BRN",
+    "Variant": "6",
+    "Description": "124837-BRN_GO WALK FLEX",
+    "UOM": "PAIR",
+    "Net Inventory": "-"
+  },
+  {
+    "Item No.": "124837-BRN",
     "Variant": "7",
-    "Description": "125920-TPBL_GO WALK 8",
+    "Description": "124837-BRN_GO WALK FLEX",
     "UOM": "PAIR",
     "Net Inventory": "-"
   },
   {
-    "Item No.": "125920-TPBL",
-    "Variant": "7.5",
-    "Description": "125920-TPBL_GO WALK 8",
-    "UOM": "PAIR",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "125920-TPBL",
+    "Item No.": "124837-BRN",
     "Variant": "8",
-    "Description": "125920-TPBL_GO WALK 8",
+    "Description": "124837-BRN_GO WALK FLEX",
     "UOM": "PAIR",
     "Net Inventory": "-"
   },
   {
-    "Item No.": "125920-TPBL",
+    "Item No.": "124837-BRN",
     "Variant": "9",
-    "Description": "125920-TPBL_GO WALK 8",
+    "Description": "124837-BRN_GO WALK FLEX",
     "UOM": "PAIR",
     "Net Inventory": "-"
   },
   {
-    "Item No.": "125925-TPE",
-    "Variant": "7",
-    "Description": "125925-TPE_GO WALK 8",
-    "UOM": "PAIR",
+    "Item No.": "L126U001-D-038C",
+    "Variant": "M",
+    "Description": "L126U001-D-038C_LOW CUT SOCK",
+    "UOM": "PACK",
     "Net Inventory": "-"
   },
   {
-    "Item No.": "125925-TPE",
-    "Variant": "8",
-    "Description": "125925-TPE_GO WALK 8",
-    "UOM": "PAIR",
+    "Item No.": "L126U001-D-038Q",
+    "Variant": "M",
+    "Description": "L126U001-D-038Q_LOW CUT SOCK",
+    "UOM": "PACK",
     "Net Inventory": "-"
   },
   {
-    "Item No.": "216525-CCBK",
-    "Variant": "10",
-    "Description": "216525-CCBK_GO WALK ARCH FIT 2",
-    "UOM": "PAIR",
+    "Item No.": "L126U001-D-04SV",
+    "Variant": "M",
+    "Description": "L126U001-D-04SV_LOW CUT SOCK",
+    "UOM": "PACK",
     "Net Inventory": "-"
   },
   {
-    "Item No.": "216525-CCBK",
-    "Variant": "10.5",
-    "Description": "216525-CCBK_GO WALK ARCH FIT 2",
-    "UOM": "PAIR",
+    "Item No.": "L126U002-D-01YB",
+    "Variant": "M",
+    "Description": "L126U002-D-01YB_QUARTER SOCK",
+    "UOM": "PACK",
     "Net Inventory": "-"
   },
   {
-    "Item No.": "216525-CCBK",
-    "Variant": "11",
-    "Description": "216525-CCBK_GO WALK ARCH FIT 2",
-    "UOM": "PAIR",
+    "Item No.": "L126U007-D-05RV",
+    "Variant": "M",
+    "Description": "L126U007-D-05RV_CREW SOCK",
+    "UOM": "PACK",
     "Net Inventory": "-"
   },
   {
-    "Item No.": "216525-CCBK",
-    "Variant": "8",
-    "Description": "216525-CCBK_GO WALK ARCH FIT 2",
-    "UOM": "PAIR",
+    "Item No.": "L126U010-D-038Q",
+    "Variant": "M",
+    "Description": "L126U010-D-038Q_QUARTER SOCK",
+    "UOM": "PACK",
     "Net Inventory": "-"
   },
   {
-    "Item No.": "216525-CCBK",
-    "Variant": "8.5",
-    "Description": "216525-CCBK_GO WALK ARCH FIT 2",
-    "UOM": "PAIR",
+    "Item No.": "L126U010-D-04SV",
+    "Variant": "M",
+    "Description": "L126U010-D-04SV_QUARTER SOCK",
+    "UOM": "PACK",
     "Net Inventory": "-"
   },
   {
-    "Item No.": "216525-CCBK",
-    "Variant": "9",
-    "Description": "216525-CCBK_GO WALK ARCH FIT 2",
-    "UOM": "PAIR",
+    "Item No.": "L126U010-D-05UJ",
+    "Variant": "M",
+    "Description": "L126U010-D-05UJ_QUARTER SOCK",
+    "UOM": "PACK",
     "Net Inventory": "-"
   },
   {
-    "Item No.": "216525-CCBK",
-    "Variant": "9.5",
-    "Description": "216525-CCBK_GO WALK ARCH FIT 2",
-    "UOM": "PAIR",
+    "Item No.": "L126U011-D-038Q",
+    "Variant": "M",
+    "Description": "L126U011-D-038Q_CREW SOCK",
+    "UOM": "PACK",
     "Net Inventory": "-"
   },
   {
-    "Item No.": "216525-CHAR",
-    "Variant": "10",
-    "Description": "216525-CHAR_GO WALK ARCH FIT 2",
-    "UOM": "PAIR",
+    "Item No.": "L126U011-D-04SV",
+    "Variant": "M",
+    "Description": "L126U011-D-04SV_CREW SOCK",
+    "UOM": "PACK",
     "Net Inventory": "-"
-  },
-  {
-    "Item No.": "216525-CHAR",
-    "Variant": "10.5",
-    "Description": "216525-CHAR_GO WALK ARCH FIT 2",
-    "UOM": "PAIR",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "216525-CHAR",
-    "Variant": "11",
-    "Description": "216525-CHAR_GO WALK ARCH FIT 2",
-    "UOM": "PAIR",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "216525-CHAR",
-    "Variant": "8",
-    "Description": "216525-CHAR_GO WALK ARCH FIT 2",
-    "UOM": "PAIR",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "216525-CHAR",
-    "Variant": "8.5",
-    "Description": "216525-CHAR_GO WALK ARCH FIT 2",
-    "UOM": "PAIR",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "216525-CHAR",
-    "Variant": "9",
-    "Description": "216525-CHAR_GO WALK ARCH FIT 2",
-    "UOM": "PAIR",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "216525-CHAR",
-    "Variant": "9.5",
-    "Description": "216525-CHAR_GO WALK ARCH FIT 2",
-    "UOM": "PAIR",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "216775-BBK",
-    "Variant": "10",
-    "Description": "216775-BBK_GO WALK 8",
-    "UOM": "PAIR",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "216775-BBK",
-    "Variant": "10.5",
-    "Description": "216775-BBK_GO WALK 8",
-    "UOM": "PAIR",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "216775-BBK",
-    "Variant": "8",
-    "Description": "216775-BBK_GO WALK 8",
-    "UOM": "PAIR",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "216775-BBK",
-    "Variant": "9",
-    "Description": "216775-BBK_GO WALK 8",
-    "UOM": "PAIR",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "216775-BBK",
-    "Variant": "9.5",
-    "Description": "216775-BBK_GO WALK 8",
-    "UOM": "PAIR",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "216775-CCBK",
-    "Variant": "10",
-    "Description": "216775-CCBK_GO WALK 8",
-    "UOM": "PAIR",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "216775-CCBK",
-    "Variant": "8",
-    "Description": "216775-CCBK_GO WALK 8",
-    "UOM": "PAIR",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "216775-CCBK",
-    "Variant": "9",
-    "Description": "216775-CCBK_GO WALK 8",
-    "UOM": "PAIR",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "217129-GYBL",
-    "Variant": "10",
-    "Description": "217129-GYBL_GOWALK MAXCUSH HYP",
-    "UOM": "PAIR",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "217129-GYBL",
-    "Variant": "11",
-    "Description": "217129-GYBL_GOWALK MAXCUSH HYP",
-    "UOM": "PAIR",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "217129-GYBL",
-    "Variant": "7.5",
-    "Description": "217129-GYBL_GOWALK MAXCUSH HYP",
-    "UOM": "PAIR",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "217129-GYBL",
-    "Variant": "8",
-    "Description": "217129-GYBL_GOWALK MAXCUSH HYP",
-    "UOM": "PAIR",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "217129-GYBL",
-    "Variant": "9",
-    "Description": "217129-GYBL_GOWALK MAXCUSH HYP",
-    "UOM": "PAIR",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "217129-WHT",
-    "Variant": "10.5",
-    "Description": "217129-WHT_GOWALK MAXCUSH HYPE",
-    "UOM": "PAIR",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "217129-WHT",
-    "Variant": "7.5",
-    "Description": "217129-WHT_GOWALK MAXCUSH HYPE",
-    "UOM": "PAIR",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "217129-WHT",
-    "Variant": "9",
-    "Description": "217129-WHT_GOWALK MAXCUSH HYPE",
-    "UOM": "PAIR",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "",
-    "Variant": "",
-    "Description": "",
-    "UOM": "",
-    "Net Inventory": ""
-  },
-  {
-    "Item No.": "",
-    "Variant": "",
-    "Description": "",
-    "UOM": "",
-    "Net Inventory": ""
-  },
-  {
-    "Item No.": "",
-    "Variant": "",
-    "Description": "",
-    "UOM": "",
-    "Net Inventory": ""
-  },
-  {
-    "Item No.": "",
-    "Variant": "",
-    "Description": "",
-    "UOM": "",
-    "Net Inventory": ""
-  },
-  {
-    "Item No.": "",
-    "Variant": "",
-    "Description": "",
-    "UOM": "",
-    "Net Inventory": ""
-  },
-  {
-    "Item No.": "",
-    "Variant": "",
-    "Description": "",
-    "UOM": "",
-    "Net Inventory": ""
-  },
-  {
-    "Item No.": "",
-    "Variant": "",
-    "Description": "",
-    "UOM": "",
-    "Net Inventory": ""
-  },
-  {
-    "Item No.": "",
-    "Variant": "",
-    "Description": "",
-    "UOM": "",
-    "Net Inventory": ""
   }
 ]
