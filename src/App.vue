@@ -181,6 +181,18 @@ export default {
 
       return items;
     },
+    // newArrivalItems() {
+    //   const newArvItems = this.items.map((item) => {
+    //     let count = 0;
+    //     console.log(count);
+    //     for (const size of item.sizes) {
+    //      if (size.split("=")[1] !== '0') {
+    //         count++
+    //      }
+    //     }
+    //   });
+    //   return newArvItems;
+    // },
     randomItems() {
       const set_01 = this.items.slice(0, 50);
       const set_02 = this.items.slice(51, 100);
@@ -216,6 +228,7 @@ export default {
             .includes(this.searchValue.trim().toLowerCase()),
         );
       }
+      // console.log(this.newArrivalItems);
       return this.randomItems;
     },
     current() {
@@ -243,7 +256,6 @@ export default {
     handleSubmit(e) {
       e.preventDefault();
       this.$refs.search.blur();
-      console.log("called");
     },
   },
 };
