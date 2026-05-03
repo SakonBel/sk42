@@ -57,9 +57,9 @@ export default {
               >
                 โปรโมชั่น : {{ row.proName }}
                 <span v-if="row.proCat == 'BOGO'" class="desc">
-                  (19 มี.ค 2569 - 6 เม.ษ 2569)</span
+                  {{ row.proPeriod }}</span
                 >
-                <span v-else class="desc"> (1 เม.ษ 2569 - 3 พ.ค 2569)</span>
+                <span v-else class="desc"> {{ row.proPeriod }}</span>
               </h6>
               <div class="inner-price-table">
                 <h6
@@ -213,12 +213,12 @@ export default {
 
 .Main {
   color: black;
-  background-color: palevioletred;
+  background-color: skyblue;
   padding: 5px;
 }
 
 .Main-price {
-  color: palevioletred;
+  color: steelblue;
   font-weight: bold;
 }
 
@@ -229,7 +229,7 @@ export default {
 
 .Unit-sales-price {
   color: snow;
-  background-color: darkmagenta;
+  background-color: steelblue;
   padding: 5px;
   font-weight: bold;
 }
@@ -280,7 +280,7 @@ export default {
 }
 
 .Special-price-table {
-  border: purple 1px solid;
+  border: rgb(255, 85, 0) 1px solid;
 }
 
 .BOGO-price-table {

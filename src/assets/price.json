@@ -6,288 +6,6 @@
     "Disc.": "60%"
   },
   {
-    "No. Item": "100366-BBK",
-    "Retail Price": "2,490",
-    "Unit Price": "2,490",
-    "Disc.": "0%"
-  },
-  {
-    "No. Item": "100366-LIL",
-    "Retail Price": "2,490",
-    "Unit Price": "590",
-    "Disc.": "76%"
-  },
-  {
-    "No. Item": "100366-NAT",
-    "Retail Price": "2,490",
-    "Unit Price": "2,490",
-    "Disc.": "0%"
-  },
-  {
-    "No. Item": "100398-GRY",
-    "Retail Price": "2,490",
-    "Unit Price": "590",
-    "Disc.": "76%"
-  },
-  {
-    "No. Item": "100398-NAT",
-    "Retail Price": "2,490",
-    "Unit Price": "390",
-    "Disc.": "84%"
-  },
-  {
-    "No. Item": "100398-TPE",
-    "Retail Price": "2,490",
-    "Unit Price": "590",
-    "Disc.": "76%"
-  },
-  {
-    "No. Item": "100434-CCL",
-    "Retail Price": "2,490",
-    "Unit Price": "390",
-    "Disc.": "84%"
-  },
-  {
-    "No. Item": "100434-DKTP",
-    "Retail Price": "2,490",
-    "Unit Price": "390",
-    "Disc.": "84%"
-  },
-  {
-    "No. Item": "100434-LIL",
-    "Retail Price": "2,490",
-    "Unit Price": "190",
-    "Disc.": "92%"
-  },
-  {
-    "No. Item": "100440-BBK",
-    "Retail Price": "2,990",
-    "Unit Price": "1,490",
-    "Disc.": "50%"
-  },
-  {
-    "No. Item": "100440-CCL",
-    "Retail Price": "2,990",
-    "Unit Price": "1,190",
-    "Disc.": "60%"
-  },
-  {
-    "No. Item": "100440-LIL",
-    "Retail Price": "2,990",
-    "Unit Price": "890",
-    "Disc.": "70%"
-  },
-  {
-    "No. Item": "100440-MOC",
-    "Retail Price": "2,990",
-    "Unit Price": "1,190",
-    "Disc.": "60%"
-  },
-  {
-    "No. Item": "100440-NVY",
-    "Retail Price": "2,990",
-    "Unit Price": "890",
-    "Disc.": "70%"
-  },
-  {
-    "No. Item": "100440-OFWT",
-    "Retail Price": "2,990",
-    "Unit Price": "1,490",
-    "Disc.": "50%"
-  },
-  {
-    "No. Item": "100440-TPE",
-    "Retail Price": "2,990",
-    "Unit Price": "1,490",
-    "Disc.": "50%"
-  },
-  {
-    "No. Item": "100442-BBK",
-    "Retail Price": "2,790",
-    "Unit Price": "1,090",
-    "Disc.": "61%"
-  },
-  {
-    "No. Item": "100442-LIL",
-    "Retail Price": "2,790",
-    "Unit Price": "1,090",
-    "Disc.": "61%"
-  },
-  {
-    "No. Item": "100442-TPE",
-    "Retail Price": "2,790",
-    "Unit Price": "1,090",
-    "Disc.": "61%"
-  },
-  {
-    "No. Item": "100463-BBK",
-    "Retail Price": "2,490",
-    "Unit Price": "390",
-    "Disc.": "84%"
-  },
-  {
-    "No. Item": "100463-GRY",
-    "Retail Price": "2,490",
-    "Unit Price": "590",
-    "Disc.": "76%"
-  },
-  {
-    "No. Item": "100463-LIL",
-    "Retail Price": "2,490",
-    "Unit Price": "790",
-    "Disc.": "68%"
-  },
-  {
-    "No. Item": "100463-NVY",
-    "Retail Price": "2,490",
-    "Unit Price": "190",
-    "Disc.": "92%"
-  },
-  {
-    "No. Item": "100463-TPE",
-    "Retail Price": "2,490",
-    "Unit Price": "790",
-    "Disc.": "68%"
-  },
-  {
-    "No. Item": "100467-BBK",
-    "Retail Price": "2,490",
-    "Unit Price": "990",
-    "Disc.": "60%"
-  },
-  {
-    "No. Item": "100467-GRY",
-    "Retail Price": "2,490",
-    "Unit Price": "990",
-    "Disc.": "60%"
-  },
-  {
-    "No. Item": "100467-TPE",
-    "Retail Price": "2,490",
-    "Unit Price": "990",
-    "Disc.": "60%"
-  },
-  {
-    "No. Item": "100468-BBK",
-    "Retail Price": "2,490",
-    "Unit Price": "1,790",
-    "Disc.": "28%"
-  },
-  {
-    "No. Item": "100468-MVE",
-    "Retail Price": "2,490",
-    "Unit Price": "1,290",
-    "Disc.": "48%"
-  },
-  {
-    "No. Item": "100468-NVY",
-    "Retail Price": "2,490",
-    "Unit Price": "1,290",
-    "Disc.": "48%"
-  },
-  {
-    "No. Item": "100469-BBK",
-    "Retail Price": "2,490",
-    "Unit Price": "1,790",
-    "Disc.": "28%"
-  },
-  {
-    "No. Item": "100469-CCL",
-    "Retail Price": "2,490",
-    "Unit Price": "1,790",
-    "Disc.": "28%"
-  },
-  {
-    "No. Item": "100469-MOC",
-    "Retail Price": "2,490",
-    "Unit Price": "1,992",
-    "Disc.": "20%"
-  },
-  {
-    "No. Item": "100518-BBK",
-    "Retail Price": "2,290",
-    "Unit Price": "1,190",
-    "Disc.": "48%"
-  },
-  {
-    "No. Item": "100518-CCL",
-    "Retail Price": "2,290",
-    "Unit Price": "1,190",
-    "Disc.": "48%"
-  },
-  {
-    "No. Item": "100518-DKTP",
-    "Retail Price": "2,290",
-    "Unit Price": "1,190",
-    "Disc.": "48%"
-  },
-  {
-    "No. Item": "100518-MVE",
-    "Retail Price": "2,290",
-    "Unit Price": "1,190",
-    "Disc.": "48%"
-  },
-  {
-    "No. Item": "100518-NVY",
-    "Retail Price": "2,290",
-    "Unit Price": "1,190",
-    "Disc.": "48%"
-  },
-  {
-    "No. Item": "100560-BLK",
-    "Retail Price": "2,790",
-    "Unit Price": "190",
-    "Disc.": "93%"
-  },
-  {
-    "No. Item": "100560-GRY",
-    "Retail Price": "2,790",
-    "Unit Price": "590",
-    "Disc.": "79%"
-  },
-  {
-    "No. Item": "100560-TPE",
-    "Retail Price": "2,790",
-    "Unit Price": "190",
-    "Disc.": "93%"
-  },
-  {
-    "No. Item": "100593-BBK",
-    "Retail Price": "2,990",
-    "Unit Price": "190",
-    "Disc.": "94%"
-  },
-  {
-    "No. Item": "100593-DKTP",
-    "Retail Price": "2,990",
-    "Unit Price": "190",
-    "Disc.": "94%"
-  },
-  {
-    "No. Item": "100593-NVY",
-    "Retail Price": "2,990",
-    "Unit Price": "890",
-    "Disc.": "70%"
-  },
-  {
-    "No. Item": "100593-TPE",
-    "Retail Price": "2,990",
-    "Unit Price": "890",
-    "Disc.": "70%"
-  },
-  {
-    "No. Item": "100623-BBK",
-    "Retail Price": "2,490",
-    "Unit Price": "390",
-    "Disc.": "84%"
-  },
-  {
-    "No. Item": "100247-GRY",
-    "Retail Price": "2,990",
-    "Unit Price": "1,190",
-    "Disc.": "60%"
-  },
-  {
     "No. Item": "100310-BBK",
     "Retail Price": "2,390",
     "Unit Price": "1,690",
@@ -684,7 +402,19 @@
     "Disc.": "31%"
   },
   {
+    "No. Item": "100660-BBK",
+    "Retail Price": "2,490",
+    "Unit Price": "2,490",
+    "Disc.": "0%"
+  },
+  {
     "No. Item": "100660-GRY",
+    "Retail Price": "2,490",
+    "Unit Price": "2,490",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "100660-LIL",
     "Retail Price": "2,490",
     "Unit Price": "2,490",
     "Disc.": "0%"
@@ -936,7 +666,19 @@
     "Disc.": "0%"
   },
   {
+    "No. Item": "100729-DKTP",
+    "Retail Price": "2,490",
+    "Unit Price": "2,490",
+    "Disc.": "0%"
+  },
+  {
     "No. Item": "100729-GRY",
+    "Retail Price": "2,490",
+    "Unit Price": "2,490",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "100729-ROS",
     "Retail Price": "2,490",
     "Unit Price": "2,490",
     "Disc.": "0%"
@@ -1222,6 +964,18 @@
     "Retail Price": "2,290",
     "Unit Price": "1,832",
     "Disc.": "20%"
+  },
+  {
+    "No. Item": "100948-BBK",
+    "Retail Price": "2,490",
+    "Unit Price": "2,490",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "100948-GRY",
+    "Retail Price": "2,490",
+    "Unit Price": "2,490",
+    "Disc.": "0%"
   },
   {
     "No. Item": "100964-BBK",
@@ -2400,6 +2154,12 @@
     "Disc.": "12%"
   },
   {
+    "No. Item": "104747-ROS",
+    "Retail Price": "2,490",
+    "Unit Price": "2,190",
+    "Disc.": "12%"
+  },
+  {
     "No. Item": "104760-BKGY",
     "Retail Price": "2,990",
     "Unit Price": "2,392",
@@ -2428,6 +2188,18 @@
     "Retail Price": "2,990",
     "Unit Price": "2,090",
     "Disc.": "30%"
+  },
+  {
+    "No. Item": "104761-BKW",
+    "Retail Price": "3,290",
+    "Unit Price": "3,290",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "104761-NAT",
+    "Retail Price": "3,290",
+    "Unit Price": "3,290",
+    "Disc.": "0%"
   },
   {
     "No. Item": "104770-BKNT",
@@ -4794,6 +4566,12 @@
     "Disc.": "22%"
   },
   {
+    "No. Item": "117685-W",
+    "Retail Price": "2,490",
+    "Unit Price": "2,490",
+    "Disc.": "0%"
+  },
+  {
     "No. Item": "117685-WHT",
     "Retail Price": "2,790",
     "Unit Price": "2,190",
@@ -4816,6 +4594,36 @@
     "Retail Price": "2,790",
     "Unit Price": "1,990",
     "Disc.": "29%"
+  },
+  {
+    "No. Item": "117687-LTGY",
+    "Retail Price": "2,790",
+    "Unit Price": "2,390",
+    "Disc.": "14%"
+  },
+  {
+    "No. Item": "117687-OFWT",
+    "Retail Price": "2,790",
+    "Unit Price": "2,390",
+    "Disc.": "14%"
+  },
+  {
+    "No. Item": "117700-BBK",
+    "Retail Price": "2,190",
+    "Unit Price": "1,890",
+    "Disc.": "14%"
+  },
+  {
+    "No. Item": "117700-LIL",
+    "Retail Price": "2,190",
+    "Unit Price": "1,890",
+    "Disc.": "14%"
+  },
+  {
+    "No. Item": "117700-WPK",
+    "Retail Price": "2,190",
+    "Unit Price": "1,890",
+    "Disc.": "14%"
   },
   {
     "No. Item": "117715-W",
@@ -5790,6 +5598,18 @@
     "Disc.": "30%"
   },
   {
+    "No. Item": "118344-BBK",
+    "Retail Price": "2,490",
+    "Unit Price": "2,190",
+    "Disc.": "12%"
+  },
+  {
+    "No. Item": "118344-OLV",
+    "Retail Price": "2,490",
+    "Unit Price": "2,190",
+    "Disc.": "12%"
+  },
+  {
     "No. Item": "118360-BBK",
     "Retail Price": "2,490",
     "Unit Price": "1,990",
@@ -5920,6 +5740,24 @@
     "Retail Price": "2,790",
     "Unit Price": "2,390",
     "Disc.": "14%"
+  },
+  {
+    "No. Item": "118430-BLK",
+    "Retail Price": "2,290",
+    "Unit Price": "1,990",
+    "Disc.": "13%"
+  },
+  {
+    "No. Item": "118430-DKGY",
+    "Retail Price": "2,290",
+    "Unit Price": "1,990",
+    "Disc.": "13%"
+  },
+  {
+    "No. Item": "118430-NVY",
+    "Retail Price": "2,290",
+    "Unit Price": "1,990",
+    "Disc.": "13%"
   },
   {
     "No. Item": "118431-BBK",
@@ -6082,6 +5920,24 @@
     "Retail Price": "1,990",
     "Unit Price": "390",
     "Disc.": "80%"
+  },
+  {
+    "No. Item": "119519-BBK",
+    "Retail Price": "1,990",
+    "Unit Price": "1,690",
+    "Disc.": "15%"
+  },
+  {
+    "No. Item": "119519-BLSH",
+    "Retail Price": "1,990",
+    "Unit Price": "1,690",
+    "Disc.": "15%"
+  },
+  {
+    "No. Item": "119519-MOC",
+    "Retail Price": "1,990",
+    "Unit Price": "1,690",
+    "Disc.": "15%"
   },
   {
     "No. Item": "119710-GRY",
@@ -6776,8 +6632,8 @@
   {
     "No. Item": "124683-BKRG",
     "Retail Price": "2,290",
-    "Unit Price": "1,990",
-    "Disc.": "13%"
+    "Unit Price": "2,290",
+    "Disc.": "0%"
   },
   {
     "No. Item": "124683-GYLP",
@@ -6788,8 +6644,8 @@
   {
     "No. Item": "124683-MVE",
     "Retail Price": "2,290",
-    "Unit Price": "1,990",
-    "Disc.": "13%"
+    "Unit Price": "2,290",
+    "Disc.": "0%"
   },
   {
     "No. Item": "124683-WSL",
@@ -7202,14 +7058,14 @@
   {
     "No. Item": "124837-BBK",
     "Retail Price": "2,990",
-    "Unit Price": "2,590",
-    "Disc.": "13%"
+    "Unit Price": "2,990",
+    "Disc.": "0%"
   },
   {
     "No. Item": "124837-BRN",
     "Retail Price": "2,990",
-    "Unit Price": "2,590",
-    "Disc.": "13%"
+    "Unit Price": "2,990",
+    "Disc.": "0%"
   },
   {
     "No. Item": "124840-BBK",
@@ -8678,32 +8534,32 @@
   {
     "No. Item": "125515-BBK",
     "Retail Price": "2,490",
-    "Unit Price": "2,190",
-    "Disc.": "12%"
+    "Unit Price": "2,490",
+    "Disc.": "0%"
   },
   {
     "No. Item": "125515-BKLV",
     "Retail Price": "2,490",
-    "Unit Price": "2,190",
-    "Disc.": "12%"
+    "Unit Price": "2,490",
+    "Disc.": "0%"
   },
   {
     "No. Item": "125515-LAV",
     "Retail Price": "2,490",
-    "Unit Price": "2,190",
-    "Disc.": "12%"
+    "Unit Price": "2,490",
+    "Disc.": "0%"
   },
   {
     "No. Item": "125515-NVCL",
     "Retail Price": "2,490",
-    "Unit Price": "2,190",
-    "Disc.": "12%"
+    "Unit Price": "2,490",
+    "Disc.": "0%"
   },
   {
     "No. Item": "125515-TPLV",
     "Retail Price": "2,490",
-    "Unit Price": "2,190",
-    "Disc.": "12%"
+    "Unit Price": "2,490",
+    "Disc.": "0%"
   },
   {
     "No. Item": "125516-BLGR",
@@ -8893,6 +8749,24 @@
   },
   {
     "No. Item": "125588-NTBL",
+    "Retail Price": "3,990",
+    "Unit Price": "3,990",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "125590-BKW",
+    "Retail Price": "3,990",
+    "Unit Price": "3,990",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "125590-LTBL",
+    "Retail Price": "3,990",
+    "Unit Price": "3,990",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "125590-WSL",
     "Retail Price": "3,990",
     "Unit Price": "3,990",
     "Disc.": "0%"
@@ -9110,8 +8984,8 @@
   {
     "No. Item": "125840-BBK",
     "Retail Price": "2,990",
-    "Unit Price": "2,590",
-    "Disc.": "13%"
+    "Unit Price": "2,990",
+    "Disc.": "0%"
   },
   {
     "No. Item": "125840-BKW",
@@ -9140,8 +9014,8 @@
   {
     "No. Item": "125840-WLV",
     "Retail Price": "2,990",
-    "Unit Price": "2,590",
-    "Disc.": "13%"
+    "Unit Price": "2,990",
+    "Disc.": "0%"
   },
   {
     "No. Item": "125842-BKMV",
@@ -9200,14 +9074,14 @@
   {
     "No. Item": "125844-GYLB",
     "Retail Price": "2,790",
-    "Unit Price": "2,390",
-    "Disc.": "14%"
+    "Unit Price": "2,790",
+    "Disc.": "0%"
   },
   {
     "No. Item": "125844-MVE",
     "Retail Price": "2,790",
-    "Unit Price": "2,390",
-    "Disc.": "14%"
+    "Unit Price": "2,790",
+    "Disc.": "0%"
   },
   {
     "No. Item": "125844-NVLV",
@@ -9648,7 +9522,31 @@
     "Disc.": "0%"
   },
   {
+    "No. Item": "126034-NVPK",
+    "Retail Price": "2,990",
+    "Unit Price": "2,990",
+    "Disc.": "0%"
+  },
+  {
     "No. Item": "126034-WLGY",
+    "Retail Price": "2,990",
+    "Unit Price": "2,990",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "126040-BKW",
+    "Retail Price": "2,990",
+    "Unit Price": "2,990",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "126040-NAT",
+    "Retail Price": "2,990",
+    "Unit Price": "2,990",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "126040-NVPK",
     "Retail Price": "2,990",
     "Unit Price": "2,990",
     "Disc.": "0%"
@@ -10536,6 +10434,18 @@
     "Disc.": "30%"
   },
   {
+    "No. Item": "129222-BLU",
+    "Retail Price": "3,290",
+    "Unit Price": "3,290",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "129222-LTPK",
+    "Retail Price": "3,290",
+    "Unit Price": "3,290",
+    "Disc.": "0%"
+  },
+  {
     "No. Item": "129222-OFWT",
     "Retail Price": "3,290",
     "Unit Price": "2,290",
@@ -10654,6 +10564,12 @@
     "Retail Price": "2,790",
     "Unit Price": "1,690",
     "Disc.": "39%"
+  },
+  {
+    "No. Item": "129365-NVW",
+    "Retail Price": "2,790",
+    "Unit Price": "2,390",
+    "Disc.": "14%"
   },
   {
     "No. Item": "129365-WSL",
@@ -11724,6 +11640,24 @@
     "Disc.": "14%"
   },
   {
+    "No. Item": "129781-BKW",
+    "Retail Price": "2,990",
+    "Unit Price": "2,990",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "129781-NAT",
+    "Retail Price": "2,990",
+    "Unit Price": "2,990",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "129781-WGY",
+    "Retail Price": "2,990",
+    "Unit Price": "2,990",
+    "Disc.": "0%"
+  },
+  {
     "No. Item": "129782-LAV",
     "Retail Price": "3,290",
     "Unit Price": "3,290",
@@ -12498,6 +12432,24 @@
     "Disc.": "12%"
   },
   {
+    "No. Item": "138530-BBK",
+    "Retail Price": "2,490",
+    "Unit Price": "2,190",
+    "Disc.": "12%"
+  },
+  {
+    "No. Item": "138530-NVY",
+    "Retail Price": "2,490",
+    "Unit Price": "2,190",
+    "Disc.": "12%"
+  },
+  {
+    "No. Item": "138530-TPE",
+    "Retail Price": "2,490",
+    "Unit Price": "2,190",
+    "Disc.": "12%"
+  },
+  {
     "No. Item": "138600-BKW",
     "Retail Price": "2,790",
     "Unit Price": "1,390",
@@ -12592,6 +12544,24 @@
     "Retail Price": "2,790",
     "Unit Price": "1,990",
     "Disc.": "29%"
+  },
+  {
+    "No. Item": "138900-BBK",
+    "Retail Price": "2,790",
+    "Unit Price": "2,790",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "138900-BLSH",
+    "Retail Price": "2,790",
+    "Unit Price": "2,790",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "138900-MOC",
+    "Retail Price": "2,790",
+    "Unit Price": "2,790",
+    "Disc.": "0%"
   },
   {
     "No. Item": "140037-BBK",
@@ -12943,6 +12913,24 @@
   },
   {
     "No. Item": "140712-SAGE",
+    "Retail Price": "2,290",
+    "Unit Price": "2,290",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "140713-BKW",
+    "Retail Price": "2,290",
+    "Unit Price": "2,290",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "140713-LAV",
+    "Retail Price": "2,290",
+    "Unit Price": "2,290",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "140713-PNK",
     "Retail Price": "2,290",
     "Unit Price": "2,290",
     "Disc.": "0%"
@@ -16914,10 +16902,28 @@
     "Disc.": "70%"
   },
   {
+    "No. Item": "150510-LTBL",
+    "Retail Price": "3,990",
+    "Unit Price": "3,990",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "150510-LTPK",
+    "Retail Price": "3,990",
+    "Unit Price": "3,990",
+    "Disc.": "0%"
+  },
+  {
     "No. Item": "150510-NTMT",
     "Retail Price": "3,990",
     "Unit Price": "2,790",
     "Disc.": "30%"
+  },
+  {
+    "No. Item": "150510-WHT",
+    "Retail Price": "3,990",
+    "Unit Price": "3,990",
+    "Disc.": "0%"
   },
   {
     "No. Item": "150510-WMLT",
@@ -17184,6 +17190,24 @@
     "Disc.": "50%"
   },
   {
+    "No. Item": "150570-BKRG",
+    "Retail Price": "2,790",
+    "Unit Price": "2,790",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "150570-TPBL",
+    "Retail Price": "2,790",
+    "Unit Price": "2,790",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "150570-WGY",
+    "Retail Price": "2,790",
+    "Unit Price": "2,790",
+    "Disc.": "0%"
+  },
+  {
     "No. Item": "150571-BKW",
     "Retail Price": "2,790",
     "Unit Price": "2,790",
@@ -17413,6 +17437,12 @@
   },
   {
     "No. Item": "150668-LTMV",
+    "Retail Price": "2,290",
+    "Unit Price": "1,990",
+    "Disc.": "13%"
+  },
+  {
+    "No. Item": "150668-NVY",
     "Retail Price": "2,290",
     "Unit Price": "1,990",
     "Disc.": "13%"
@@ -18768,6 +18798,18 @@
     "Disc.": "0%"
   },
   {
+    "No. Item": "159368-BBK",
+    "Retail Price": "2,290",
+    "Unit Price": "2,290",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "159368-MOC",
+    "Retail Price": "2,290",
+    "Unit Price": "2,290",
+    "Disc.": "0%"
+  },
+  {
     "No. Item": "159405-BBK",
     "Retail Price": "2,790",
     "Unit Price": "2,790",
@@ -19399,6 +19441,12 @@
   },
   {
     "No. Item": "172200-GYMT",
+    "Retail Price": "5,290",
+    "Unit Price": "5,290",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "172200-PCH",
     "Retail Price": "5,290",
     "Unit Price": "5,290",
     "Disc.": "0%"
@@ -23214,6 +23262,18 @@
     "Disc.": "0%"
   },
   {
+    "No. Item": "211234-CHOC",
+    "Retail Price": "2,990",
+    "Unit Price": "2,990",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "211234-LUG",
+    "Retail Price": "2,990",
+    "Unit Price": "2,990",
+    "Disc.": "0%"
+  },
+  {
     "No. Item": "214027-WBK",
     "Retail Price": "3,690",
     "Unit Price": "1,090",
@@ -25730,14 +25790,14 @@
   {
     "No. Item": "216924-BKW",
     "Retail Price": "2,790",
-    "Unit Price": "2,390",
-    "Disc.": "14%"
+    "Unit Price": "2,790",
+    "Disc.": "0%"
   },
   {
     "No. Item": "216924-LTGY",
     "Retail Price": "2,790",
-    "Unit Price": "2,390",
-    "Disc.": "14%"
+    "Unit Price": "2,790",
+    "Disc.": "0%"
   },
   {
     "No. Item": "216924-NVY",
@@ -25946,8 +26006,8 @@
   {
     "No. Item": "217083-BKW",
     "Retail Price": "2,790",
-    "Unit Price": "2,390",
-    "Disc.": "14%"
+    "Unit Price": "2,790",
+    "Disc.": "0%"
   },
   {
     "No. Item": "217083-NVY",
@@ -25964,8 +26024,8 @@
   {
     "No. Item": "217083-WNV",
     "Retail Price": "2,790",
-    "Unit Price": "2,390",
-    "Disc.": "14%"
+    "Unit Price": "2,790",
+    "Disc.": "0%"
   },
   {
     "No. Item": "217086-BKGY",
@@ -26011,6 +26071,18 @@
   },
   {
     "No. Item": "217111-BKW",
+    "Retail Price": "2,990",
+    "Unit Price": "2,990",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "217111-GYNV",
+    "Retail Price": "2,990",
+    "Unit Price": "2,990",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "217111-TPE",
     "Retail Price": "2,990",
     "Unit Price": "2,990",
     "Disc.": "0%"
@@ -26124,6 +26196,12 @@
     "Disc.": "0%"
   },
   {
+    "No. Item": "217163-TPE",
+    "Retail Price": "3,690",
+    "Unit Price": "3,690",
+    "Disc.": "0%"
+  },
+  {
     "No. Item": "220034-BKGY",
     "Retail Price": "2,490",
     "Unit Price": "990",
@@ -26221,6 +26299,12 @@
   },
   {
     "No. Item": "220381-BKW",
+    "Retail Price": "2,990",
+    "Unit Price": "2,590",
+    "Disc.": "13%"
+  },
+  {
+    "No. Item": "220381-GRY",
     "Retail Price": "2,990",
     "Unit Price": "2,590",
     "Disc.": "13%"
@@ -28098,6 +28182,18 @@
     "Disc.": "0%"
   },
   {
+    "No. Item": "221140-BKW",
+    "Retail Price": "2,990",
+    "Unit Price": "2,990",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "221140-WNV",
+    "Retail Price": "2,990",
+    "Unit Price": "2,990",
+    "Disc.": "0%"
+  },
+  {
     "No. Item": "221141-BKW",
     "Retail Price": "3,290",
     "Unit Price": "3,290",
@@ -28161,6 +28257,24 @@
     "No. Item": "221222WW-TPE",
     "Retail Price": "3,990",
     "Unit Price": "3,990",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "221224-BKW",
+    "Retail Price": "3,690",
+    "Unit Price": "3,690",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "221224-GRY",
+    "Retail Price": "3,690",
+    "Unit Price": "3,690",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "221224-TPE",
+    "Retail Price": "3,690",
+    "Unit Price": "3,690",
     "Disc.": "0%"
   },
   {
@@ -29140,6 +29254,18 @@
     "Retail Price": "2,290",
     "Unit Price": "1,390",
     "Disc.": "39%"
+  },
+  {
+    "No. Item": "229315-BBK",
+    "Retail Price": "2,290",
+    "Unit Price": "2,290",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "229315-WHT",
+    "Retail Price": "2,290",
+    "Unit Price": "2,290",
+    "Disc.": "0%"
   },
   {
     "No. Item": "229316-BKYL",
@@ -35388,6 +35514,12 @@
     "Disc.": "41%"
   },
   {
+    "No. Item": "303060L-LVMT",
+    "Retail Price": "2,190",
+    "Unit Price": "2,190",
+    "Disc.": "0%"
+  },
+  {
     "No. Item": "303061N-BLMT",
     "Retail Price": "1,990",
     "Unit Price": "1,190",
@@ -35415,6 +35547,18 @@
     "No. Item": "303064N-SMLT",
     "Retail Price": "1,790",
     "Unit Price": "1,790",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "303065L-LPMT",
+    "Retail Price": "2,190",
+    "Unit Price": "2,190",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "303065L-LVMT",
+    "Retail Price": "2,190",
+    "Unit Price": "2,190",
     "Disc.": "0%"
   },
   {
@@ -35458,6 +35602,12 @@
     "Retail Price": "1,790",
     "Unit Price": "1,432",
     "Disc.": "20%"
+  },
+  {
+    "No. Item": "303108L-LVMT",
+    "Retail Price": "1,790",
+    "Unit Price": "1,790",
+    "Disc.": "0%"
   },
   {
     "No. Item": "303109L-BLMT",
@@ -36436,6 +36586,12 @@
     "Retail Price": "1,690",
     "Unit Price": "1,190",
     "Disc.": "30%"
+  },
+  {
+    "No. Item": "303855L-WHT",
+    "Retail Price": "1,690",
+    "Unit Price": "1,690",
+    "Disc.": "0%"
   },
   {
     "No. Item": "303871L-BKMT",
@@ -37824,6 +37980,12 @@
     "Disc.": "50%"
   },
   {
+    "No. Item": "402130L-YLBK",
+    "Retail Price": "1,990",
+    "Unit Price": "1,990",
+    "Disc.": "0%"
+  },
+  {
     "No. Item": "402150L-BBOR",
     "Retail Price": "1,990",
     "Unit Price": "1,990",
@@ -37837,6 +37999,12 @@
   },
   {
     "No. Item": "402150L-SLBK",
+    "Retail Price": "1,990",
+    "Unit Price": "1,990",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "402160L-BLLM",
     "Retail Price": "1,990",
     "Unit Price": "1,990",
     "Disc.": "0%"
@@ -37858,6 +38026,12 @@
     "Retail Price": "1,990",
     "Unit Price": "1,190",
     "Disc.": "40%"
+  },
+  {
+    "No. Item": "402160L-RDBK",
+    "Retail Price": "1,990",
+    "Unit Price": "1,990",
+    "Disc.": "0%"
   },
   {
     "No. Item": "402160L-TQBK",
@@ -38808,6 +38982,18 @@
     "Disc.": "0%"
   },
   {
+    "No. Item": "404030L-NBLM",
+    "Retail Price": "1,990",
+    "Unit Price": "1,990",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "404030L-WBK",
+    "Retail Price": "1,990",
+    "Unit Price": "1,990",
+    "Disc.": "0%"
+  },
+  {
     "No. Item": "404050L-BBK",
     "Retail Price": "1,790",
     "Unit Price": "1,790",
@@ -38871,6 +39057,12 @@
     "No. Item": "404106L-NVCC",
     "Retail Price": "1,690",
     "Unit Price": "1,690",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "404115L-BKSR",
+    "Retail Price": "1,490",
+    "Unit Price": "1,490",
     "Disc.": "0%"
   },
   {
@@ -44958,6 +45150,12 @@
     "Disc.": "0%"
   },
   {
+    "No. Item": "L226B002-068N",
+    "Retail Price": "790",
+    "Unit Price": "790",
+    "Disc.": "0%"
+  },
+  {
     "No. Item": "L226B008-0018",
     "Retail Price": "990",
     "Unit Price": "990",
@@ -44976,15 +45174,51 @@
     "Disc.": "0%"
   },
   {
+    "No. Item": "L226B016-06K5",
+    "Retail Price": "1,790",
+    "Unit Price": "1,790",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "L226B017-069T",
+    "Retail Price": "790",
+    "Unit Price": "790",
+    "Disc.": "0%"
+  },
+  {
     "No. Item": "L226B026-06G9",
     "Retail Price": "290",
     "Unit Price": "290",
     "Disc.": "0%"
   },
   {
+    "No. Item": "L226B038-06K5",
+    "Retail Price": "1,290",
+    "Unit Price": "1,290",
+    "Disc.": "0%"
+  },
+  {
     "No. Item": "L226G002-068N",
     "Retail Price": "990",
     "Unit Price": "990",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "L226G027-069H",
+    "Retail Price": "1,290",
+    "Unit Price": "1,290",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "L226G054-06KB",
+    "Retail Price": "1,690",
+    "Unit Price": "1,690",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "L226G067-03FA",
+    "Retail Price": "790",
+    "Unit Price": "790",
     "Disc.": "0%"
   },
   {
@@ -45009,6 +45243,24 @@
     "No. Item": "L226K024-02PM",
     "Retail Price": "590",
     "Unit Price": "590",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "L226K028-0018",
+    "Retail Price": "790",
+    "Unit Price": "790",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "L226K028-00QF",
+    "Retail Price": "790",
+    "Unit Price": "790",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "L226K029-00QF",
+    "Retail Price": "790",
+    "Unit Price": "790",
     "Disc.": "0%"
   },
   {
@@ -45045,6 +45297,12 @@
     "No. Item": "L226K035-06GC",
     "Retail Price": "290",
     "Unit Price": "290",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "L226K039-034V",
+    "Retail Price": "790",
+    "Unit Price": "790",
     "Disc.": "0%"
   },
   {
@@ -45361,20 +45619,20 @@
   },
   {
     "No. Item": "L324M153-05C0",
-    "Retail Price": "350",
-    "Unit Price": "350",
+    "Retail Price": "390",
+    "Unit Price": "390",
     "Disc.": "0%"
   },
   {
     "No. Item": "L324M153-05MV",
-    "Retail Price": "350",
-    "Unit Price": "350",
+    "Retail Price": "390",
+    "Unit Price": "390",
     "Disc.": "0%"
   },
   {
     "No. Item": "L324M153-05MW",
-    "Retail Price": "350",
-    "Unit Price": "350",
+    "Retail Price": "390",
+    "Unit Price": "390",
     "Disc.": "0%"
   },
   {
@@ -45714,6 +45972,18 @@
     "Disc.": "0%"
   },
   {
+    "No. Item": "L325K043-00Z2",
+    "Retail Price": "1,290",
+    "Unit Price": "1,290",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "L325K043-0146",
+    "Retail Price": "1,290",
+    "Unit Price": "1,290",
+    "Disc.": "0%"
+  },
+  {
     "No. Item": "L325K082-03NP",
     "Retail Price": "1,790",
     "Unit Price": "1,253",
@@ -45724,6 +45994,30 @@
     "Retail Price": "1,790",
     "Unit Price": "1,253",
     "Disc.": "30%"
+  },
+  {
+    "No. Item": "L325K103-0018",
+    "Retail Price": "990",
+    "Unit Price": "990",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "L325K103-001W",
+    "Retail Price": "990",
+    "Unit Price": "990",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "L325K105-00FW",
+    "Retail Price": "990",
+    "Unit Price": "990",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "L325K105-06D2",
+    "Retail Price": "990",
+    "Unit Price": "990",
+    "Disc.": "0%"
   },
   {
     "No. Item": "L325M054-05YF",
@@ -45762,6 +46056,30 @@
     "Disc.": "0%"
   },
   {
+    "No. Item": "L325U054-0018",
+    "Retail Price": "1,890",
+    "Unit Price": "1,890",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "L325U054-02BV",
+    "Retail Price": "1,890",
+    "Unit Price": "1,890",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "L325U056-0018",
+    "Retail Price": "990",
+    "Unit Price": "990",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "L325U056-02BV",
+    "Retail Price": "990",
+    "Unit Price": "990",
+    "Disc.": "0%"
+  },
+  {
     "No. Item": "L325U058-0018",
     "Retail Price": "790",
     "Unit Price": "790",
@@ -45783,6 +46101,42 @@
     "No. Item": "L325U061-02BV",
     "Retail Price": "1,290",
     "Unit Price": "1,290",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "L325U063-013P",
+    "Retail Price": "1,690",
+    "Unit Price": "1,690",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "L325U063-01B4",
+    "Retail Price": "1,690",
+    "Unit Price": "1,690",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "L325U063-02BV",
+    "Retail Price": "1,690",
+    "Unit Price": "1,690",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "L325U065-0018",
+    "Retail Price": "790",
+    "Unit Price": "790",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "L325U065-00V7",
+    "Retail Price": "790",
+    "Unit Price": "790",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "L325U072-0018",
+    "Retail Price": "1,690",
+    "Unit Price": "1,690",
     "Disc.": "0%"
   },
   {
@@ -45877,6 +46231,12 @@
   },
   {
     "No. Item": "L325W045-05YC",
+    "Retail Price": "390",
+    "Unit Price": "390",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "L325W045-05YE",
     "Retail Price": "390",
     "Unit Price": "390",
     "Disc.": "0%"
@@ -46251,6 +46611,30 @@
     "No. Item": "L425U056-03EK",
     "Retail Price": "790",
     "Unit Price": "790",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "L425U062-0018",
+    "Retail Price": "1,290",
+    "Unit Price": "1,290",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "L425U062-0211",
+    "Retail Price": "1,290",
+    "Unit Price": "1,290",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "L425U065-0018",
+    "Retail Price": "990",
+    "Unit Price": "990",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "L425U065-004S",
+    "Retail Price": "990",
+    "Unit Price": "990",
     "Disc.": "0%"
   },
   {
@@ -47772,9 +48156,105 @@
     "Disc.": "0%"
   },
   {
+    "No. Item": "P226B006-0018",
+    "Retail Price": "1,290",
+    "Unit Price": "1,290",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "P226B011-01CB",
+    "Retail Price": "790",
+    "Unit Price": "790",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "P226B011-02GK",
+    "Retail Price": "790",
+    "Unit Price": "790",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "P226B012-0019",
+    "Retail Price": "790",
+    "Unit Price": "790",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "P226B012-02GK",
+    "Retail Price": "790",
+    "Unit Price": "790",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "P226B015-0018",
+    "Retail Price": "1,290",
+    "Unit Price": "1,290",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "P226B015-01MZ",
+    "Retail Price": "1,290",
+    "Unit Price": "1,290",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "P226B016-0018",
+    "Retail Price": "1,090",
+    "Unit Price": "1,090",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "P226B016-002Z",
+    "Retail Price": "1,090",
+    "Unit Price": "1,090",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "P226B016-00AV",
+    "Retail Price": "1,090",
+    "Unit Price": "1,090",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "P226B017-0019",
+    "Retail Price": "1,490",
+    "Unit Price": "1,490",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "P226B017-02GK",
+    "Retail Price": "1,490",
+    "Unit Price": "1,490",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "P226B019-0019",
+    "Retail Price": "790",
+    "Unit Price": "790",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "P226B019-02GK",
+    "Retail Price": "790",
+    "Unit Price": "790",
+    "Disc.": "0%"
+  },
+  {
     "No. Item": "P226B025-0018",
     "Retail Price": "990",
     "Unit Price": "990",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "P226B033-0028",
+    "Retail Price": "790",
+    "Unit Price": "790",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "P226B033-008D",
+    "Retail Price": "790",
+    "Unit Price": "790",
     "Disc.": "0%"
   },
   {
@@ -47787,6 +48267,24 @@
     "No. Item": "P226B047-00AV",
     "Retail Price": "1,290",
     "Unit Price": "1,290",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "P226B047-00RL",
+    "Retail Price": "1,290",
+    "Unit Price": "1,290",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "P226B050-002Z",
+    "Retail Price": "1,790",
+    "Unit Price": "1,790",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "P226B050-01MZ",
+    "Retail Price": "1,790",
+    "Unit Price": "1,790",
     "Disc.": "0%"
   },
   {
@@ -47808,6 +48306,24 @@
     "Disc.": "0%"
   },
   {
+    "No. Item": "P226G011-0019",
+    "Retail Price": "790",
+    "Unit Price": "790",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "P226G018-0019",
+    "Retail Price": "790",
+    "Unit Price": "790",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "P226G018-008K",
+    "Retail Price": "790",
+    "Unit Price": "790",
+    "Disc.": "0%"
+  },
+  {
     "No. Item": "P226G025-0019",
     "Retail Price": "790",
     "Unit Price": "790",
@@ -47817,6 +48333,66 @@
     "No. Item": "P226G025-01YJ",
     "Retail Price": "790",
     "Unit Price": "790",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "P226G053-04BJ",
+    "Retail Price": "1,290",
+    "Unit Price": "1,290",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "P226G061-00EW",
+    "Retail Price": "1,090",
+    "Unit Price": "1,090",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "P226G062-008K",
+    "Retail Price": "990",
+    "Unit Price": "990",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "P226K023-008D",
+    "Retail Price": "790",
+    "Unit Price": "790",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "P226K028-01PL",
+    "Retail Price": "890",
+    "Unit Price": "890",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "P226K028-0666",
+    "Retail Price": "890",
+    "Unit Price": "890",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "P226K033-06ED",
+    "Retail Price": "290",
+    "Unit Price": "290",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "P226K033-06GG",
+    "Retail Price": "290",
+    "Unit Price": "290",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "P226K034-06QN",
+    "Retail Price": "390",
+    "Unit Price": "390",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "P226K034-06QP",
+    "Retail Price": "390",
+    "Unit Price": "390",
     "Disc.": "0%"
   },
   {
@@ -47844,6 +48420,18 @@
     "Disc.": "0%"
   },
   {
+    "No. Item": "P226M085-00FM",
+    "Retail Price": "1,790",
+    "Unit Price": "1,790",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "P226M086-0018",
+    "Retail Price": "2,990",
+    "Unit Price": "2,990",
+    "Disc.": "0%"
+  },
+  {
     "No. Item": "P226M091-0019",
     "Retail Price": "1,290",
     "Unit Price": "1,290",
@@ -47851,6 +48439,18 @@
   },
   {
     "No. Item": "P226M091-01DT",
+    "Retail Price": "1,290",
+    "Unit Price": "1,290",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "P226M093-0018",
+    "Retail Price": "1,290",
+    "Unit Price": "1,290",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "P226M093-00FM",
     "Retail Price": "1,290",
     "Unit Price": "1,290",
     "Disc.": "0%"
@@ -47874,9 +48474,21 @@
     "Disc.": "0%"
   },
   {
+    "No. Item": "P226W082-01FJ",
+    "Retail Price": "2,190",
+    "Unit Price": "2,190",
+    "Disc.": "0%"
+  },
+  {
     "No. Item": "P226W091-0018",
     "Retail Price": "1,490",
     "Unit Price": "1,490",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "P226W093-01DS",
+    "Retail Price": "2,990",
+    "Unit Price": "2,990",
     "Disc.": "0%"
   },
   {
@@ -48121,20 +48733,20 @@
   },
   {
     "No. Item": "P324M053-0018",
-    "Retail Price": "190",
-    "Unit Price": "190",
+    "Retail Price": "220",
+    "Unit Price": "220",
     "Disc.": "0%"
   },
   {
     "No. Item": "P324M053-0038",
-    "Retail Price": "190",
-    "Unit Price": "190",
+    "Retail Price": "220",
+    "Unit Price": "220",
     "Disc.": "0%"
   },
   {
     "No. Item": "P324M053-01SR",
-    "Retail Price": "190",
-    "Unit Price": "190",
+    "Retail Price": "220",
+    "Unit Price": "220",
     "Disc.": "0%"
   },
   {
@@ -48438,7 +49050,19 @@
     "Disc.": "0%"
   },
   {
+    "No. Item": "P325K036-0018",
+    "Retail Price": "990",
+    "Unit Price": "990",
+    "Disc.": "0%"
+  },
+  {
     "No. Item": "P325M107-0629",
+    "Retail Price": "390",
+    "Unit Price": "390",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "P325M108-0629",
     "Retail Price": "390",
     "Unit Price": "390",
     "Disc.": "0%"
@@ -48564,6 +49188,12 @@
     "Disc.": "0%"
   },
   {
+    "No. Item": "P325U016-01NJ",
+    "Retail Price": "790",
+    "Unit Price": "790",
+    "Disc.": "0%"
+  },
+  {
     "No. Item": "P325U023-0018",
     "Retail Price": "1,290",
     "Unit Price": "1,290",
@@ -48589,6 +49219,12 @@
   },
   {
     "No. Item": "P325W119-05YC",
+    "Retail Price": "390",
+    "Unit Price": "390",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "P325W120-062A",
     "Retail Price": "390",
     "Unit Price": "390",
     "Disc.": "0%"
@@ -48705,6 +49341,18 @@
     "No. Item": "P425M151-061F",
     "Retail Price": "390",
     "Unit Price": "390",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "P425U033-0018",
+    "Retail Price": "1,290",
+    "Unit Price": "1,290",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "P425U033-01MZ",
+    "Retail Price": "1,290",
+    "Unit Price": "1,290",
     "Disc.": "0%"
   },
   {
@@ -52866,6 +53514,306 @@
     "Disc.": "0%"
   },
   {
+    "No. Item": "SL226K087-01BW",
+    "Retail Price": "990",
+    "Unit Price": "990",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "SL226K088-01PK",
+    "Retail Price": "1,290",
+    "Unit Price": "1,290",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "SL226K089-01KG",
+    "Retail Price": "1,290",
+    "Unit Price": "1,290",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "SL226K090-01LS",
+    "Retail Price": "1,290",
+    "Unit Price": "1,290",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "SL226K090-01WS",
+    "Retail Price": "1,290",
+    "Unit Price": "1,290",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "SL226M225-0018",
+    "Retail Price": "890",
+    "Unit Price": "890",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "SL226M225-002Z",
+    "Retail Price": "890",
+    "Unit Price": "890",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "SL226M225-00QF",
+    "Retail Price": "890",
+    "Unit Price": "890",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "SL226M226-002Z",
+    "Retail Price": "1,490",
+    "Unit Price": "1,490",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "SL226M226-04J6",
+    "Retail Price": "1,490",
+    "Unit Price": "1,490",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "SL226M230-002Z",
+    "Retail Price": "1,990",
+    "Unit Price": "1,990",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "SL226M230-054U",
+    "Retail Price": "1,990",
+    "Unit Price": "1,990",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "SL226M231-002Z",
+    "Retail Price": "990",
+    "Unit Price": "990",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "SL226M231-02TP",
+    "Retail Price": "990",
+    "Unit Price": "990",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "SL226M232-002Z",
+    "Retail Price": "990",
+    "Unit Price": "990",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "SL226M232-00QF",
+    "Retail Price": "990",
+    "Unit Price": "990",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "SL226M234-002Z",
+    "Retail Price": "1,290",
+    "Unit Price": "1,290",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "SL226M234-00QF",
+    "Retail Price": "1,290",
+    "Unit Price": "1,290",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "SL226M236-054U",
+    "Retail Price": "1,490",
+    "Unit Price": "1,490",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "SL226M237-002Z",
+    "Retail Price": "1,290",
+    "Unit Price": "1,290",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "SL226M237-00QF",
+    "Retail Price": "1,290",
+    "Unit Price": "1,290",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "SL226M238-002Z",
+    "Retail Price": "1,690",
+    "Unit Price": "1,690",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "SL226M238-054U",
+    "Retail Price": "1,690",
+    "Unit Price": "1,690",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "SL226U228-002Z",
+    "Retail Price": "2,290",
+    "Unit Price": "2,290",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "SL226U228-00QF",
+    "Retail Price": "2,290",
+    "Unit Price": "2,290",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "SL226U229-002Z",
+    "Retail Price": "1,690",
+    "Unit Price": "1,690",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "SL226U229-04J6",
+    "Retail Price": "1,690",
+    "Unit Price": "1,690",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "SL226U520-0018",
+    "Retail Price": "790",
+    "Unit Price": "790",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "SL226U520-005U",
+    "Retail Price": "790",
+    "Unit Price": "790",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "SL226U520-00QF",
+    "Retail Price": "790",
+    "Unit Price": "790",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "SL226U521-0018",
+    "Retail Price": "890",
+    "Unit Price": "890",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "SL226U521-005U",
+    "Retail Price": "890",
+    "Unit Price": "890",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "SL226U521-013Y",
+    "Retail Price": "890",
+    "Unit Price": "890",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "SL226U521-02NL",
+    "Retail Price": "890",
+    "Unit Price": "890",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "SL226U522-01T0",
+    "Retail Price": "1,290",
+    "Unit Price": "1,290",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "SL226U522-01UF",
+    "Retail Price": "1,290",
+    "Unit Price": "1,290",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "SL226U522-056R",
+    "Retail Price": "1,290",
+    "Unit Price": "1,290",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "SL226U655-0018",
+    "Retail Price": "1,290",
+    "Unit Price": "1,290",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "SL226U655-00ED",
+    "Retail Price": "1,290",
+    "Unit Price": "1,290",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "SL226U656-0018",
+    "Retail Price": "1,290",
+    "Unit Price": "1,290",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "SL226U656-00ED",
+    "Retail Price": "1,290",
+    "Unit Price": "1,290",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "SL226U657-00ED",
+    "Retail Price": "1,290",
+    "Unit Price": "1,290",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "SL226U657-03LD",
+    "Retail Price": "1,290",
+    "Unit Price": "1,290",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "SL226U657-04U9",
+    "Retail Price": "1,290",
+    "Unit Price": "1,290",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "SL226U658-00ED",
+    "Retail Price": "1,290",
+    "Unit Price": "1,290",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "SL226U658-04U9",
+    "Retail Price": "1,290",
+    "Unit Price": "1,290",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "SL226U659-00ED",
+    "Retail Price": "1,290",
+    "Unit Price": "1,290",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "SL226U659-03LD",
+    "Retail Price": "1,290",
+    "Unit Price": "1,290",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "SL226U660-00ED",
+    "Retail Price": "1,290",
+    "Unit Price": "1,290",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "SL226U660-04U9",
+    "Retail Price": "1,290",
+    "Unit Price": "1,290",
+    "Disc.": "0%"
+  },
+  {
     "No. Item": "SL226U661-0018",
     "Retail Price": "990",
     "Unit Price": "990",
@@ -52875,6 +53823,138 @@
     "No. Item": "SL226U661-02SB",
     "Retail Price": "990",
     "Unit Price": "990",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "SL226W174-03KG",
+    "Retail Price": "990",
+    "Unit Price": "990",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "SL226W174-04VD",
+    "Retail Price": "990",
+    "Unit Price": "990",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "SL226W175-00U6",
+    "Retail Price": "1,290",
+    "Unit Price": "1,290",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "SL226W175-04VD",
+    "Retail Price": "1,290",
+    "Unit Price": "1,290",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "SL226W177-00U6",
+    "Retail Price": "990",
+    "Unit Price": "990",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "SL226W178-00QF",
+    "Retail Price": "990",
+    "Unit Price": "990",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "SL226W178-00U6",
+    "Retail Price": "990",
+    "Unit Price": "990",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "SL226W179-00QF",
+    "Retail Price": "990",
+    "Unit Price": "990",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "SL226W179-034V",
+    "Retail Price": "990",
+    "Unit Price": "990",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "SL226W179-04VF",
+    "Retail Price": "990",
+    "Unit Price": "990",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "SL226W180-00U6",
+    "Retail Price": "990",
+    "Unit Price": "990",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "SL226W180-034V",
+    "Retail Price": "990",
+    "Unit Price": "990",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "SL226W181-00QF",
+    "Retail Price": "1,290",
+    "Unit Price": "1,290",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "SL226W181-03KG",
+    "Retail Price": "1,290",
+    "Unit Price": "1,290",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "SL226W182-00U6",
+    "Retail Price": "1,490",
+    "Unit Price": "1,490",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "SL226W182-02F3",
+    "Retail Price": "1,490",
+    "Unit Price": "1,490",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "SL226W185-00U6",
+    "Retail Price": "1,290",
+    "Unit Price": "1,290",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "SL226W185-04HY",
+    "Retail Price": "1,290",
+    "Unit Price": "1,290",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "SL226W186-00U6",
+    "Retail Price": "1,690",
+    "Unit Price": "1,690",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "SL226W186-04HY",
+    "Retail Price": "1,690",
+    "Unit Price": "1,690",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "SL226W189-00QF",
+    "Retail Price": "1,290",
+    "Unit Price": "1,290",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "SL226W189-00U6",
+    "Retail Price": "1,290",
+    "Unit Price": "1,290",
     "Disc.": "0%"
   },
   {
@@ -52951,18 +54031,6 @@
   },
   {
     "No. Item": "SL22Q4U434-WHTE",
-    "Retail Price": "290",
-    "Unit Price": "90",
-    "Disc.": "69%"
-  },
-  {
-    "No. Item": "SL323B313-NVMG",
-    "Retail Price": "290",
-    "Unit Price": "90",
-    "Disc.": "69%"
-  },
-  {
-    "No. Item": "SL323G314-PKNV",
     "Retail Price": "290",
     "Unit Price": "90",
     "Disc.": "69%"
@@ -55002,6 +56070,12 @@
     "Disc.": "40%"
   },
   {
+    "No. Item": "SL3MHCGM022-BLAK",
+    "Retail Price": "1,490",
+    "Unit Price": "1,490",
+    "Disc.": "0%"
+  },
+  {
     "No. Item": "SL3MJCFM011-LTGY",
     "Retail Price": "3,290",
     "Unit Price": "1,974",
@@ -55018,6 +56092,12 @@
     "Retail Price": "2,790",
     "Unit Price": "1,674",
     "Disc.": "40%"
+  },
+  {
+    "No. Item": "SL3MPCGS022-DKGY",
+    "Retail Price": "1,990",
+    "Unit Price": "1,990",
+    "Disc.": "0%"
   },
   {
     "No. Item": "SL3MTCFM011-LTGY",
@@ -55044,6 +56124,24 @@
     "Disc.": "40%"
   },
   {
+    "No. Item": "SL3MTCGM051-BLAK",
+    "Retail Price": "1,290",
+    "Unit Price": "1,290",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "SL3MTCGM052-GRAY",
+    "Retail Price": "1,290",
+    "Unit Price": "1,290",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "SL3MTCGM061-BLAK",
+    "Retail Price": "1,290",
+    "Unit Price": "1,290",
+    "Disc.": "0%"
+  },
+  {
     "No. Item": "SL3WHCFM031-CRPK",
     "Retail Price": "1,590",
     "Unit Price": "954",
@@ -55056,6 +56154,24 @@
     "Disc.": "40%"
   },
   {
+    "No. Item": "SL3WHCGM011-BLAK",
+    "Retail Price": "1,490",
+    "Unit Price": "1,490",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "SL3WHCGM012-SKBL",
+    "Retail Price": "1,490",
+    "Unit Price": "1,490",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "SL3WJCGS023-SAGN",
+    "Retail Price": "3,490",
+    "Unit Price": "3,490",
+    "Disc.": "0%"
+  },
+  {
     "No. Item": "SL3WPCFM031-STGY",
     "Retail Price": "2,590",
     "Unit Price": "1,554",
@@ -55066,6 +56182,12 @@
     "Retail Price": "2,590",
     "Unit Price": "1,554",
     "Disc.": "40%"
+  },
+  {
+    "No. Item": "SL3WPCGM011-BLAK",
+    "Retail Price": "1,690",
+    "Unit Price": "1,690",
+    "Disc.": "0%"
   },
   {
     "No. Item": "SL3WPCGS021-BLAK",
@@ -55098,7 +56220,43 @@
     "Disc.": "40%"
   },
   {
+    "No. Item": "SL3WTCGM041-BLAK",
+    "Retail Price": "1,290",
+    "Unit Price": "1,290",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "SL3WTCGM043-SKBL",
+    "Retail Price": "1,290",
+    "Unit Price": "1,290",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "SL3WTCGM052-SKBL",
+    "Retail Price": "1,290",
+    "Unit Price": "1,290",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "SL3WTCGM053-LTLV",
+    "Retail Price": "1,290",
+    "Unit Price": "1,290",
+    "Disc.": "0%"
+  },
+  {
     "No. Item": "SL3WTCGS022-PCPK",
+    "Retail Price": "1,290",
+    "Unit Price": "1,290",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "SL3WTCGS031-BLAK",
+    "Retail Price": "1,290",
+    "Unit Price": "1,290",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "SL3WTCGS032-WHTE",
     "Retail Price": "1,290",
     "Unit Price": "1,290",
     "Disc.": "0%"
@@ -58176,6 +59334,18 @@
     "Disc.": "0%"
   },
   {
+    "No. Item": "SP126U668-0012",
+    "Retail Price": "990",
+    "Unit Price": "990",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "SP126U668-0018",
+    "Retail Price": "990",
+    "Unit Price": "990",
+    "Disc.": "0%"
+  },
+  {
     "No. Item": "SP126W001-0019",
     "Retail Price": "990",
     "Unit Price": "693",
@@ -58846,6 +60016,330 @@
     "Retail Price": "1,390",
     "Unit Price": "695",
     "Disc.": "50%"
+  },
+  {
+    "No. Item": "SP226M123-01JF",
+    "Retail Price": "1,290",
+    "Unit Price": "1,290",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "SP226M123-04D8",
+    "Retail Price": "1,290",
+    "Unit Price": "1,290",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "SP226M125-01JF",
+    "Retail Price": "1,290",
+    "Unit Price": "1,290",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "SP226M125-02YM",
+    "Retail Price": "1,290",
+    "Unit Price": "1,290",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "SP226M125-04D8",
+    "Retail Price": "1,290",
+    "Unit Price": "1,290",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "SP226M126-0018",
+    "Retail Price": "990",
+    "Unit Price": "990",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "SP226M126-02YM",
+    "Retail Price": "990",
+    "Unit Price": "990",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "SP226M127-0018",
+    "Retail Price": "990",
+    "Unit Price": "990",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "SP226M127-02YM",
+    "Retail Price": "990",
+    "Unit Price": "990",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "SP226M128-04D8",
+    "Retail Price": "1,690",
+    "Unit Price": "1,690",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "SP226M129-0018",
+    "Retail Price": "1,690",
+    "Unit Price": "1,690",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "SP226M129-01JF",
+    "Retail Price": "1,690",
+    "Unit Price": "1,690",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "SP226M130-006U",
+    "Retail Price": "990",
+    "Unit Price": "990",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "SP226M131-006U",
+    "Retail Price": "890",
+    "Unit Price": "890",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "SP226M132-0019",
+    "Retail Price": "1,290",
+    "Unit Price": "1,290",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "SP226M132-006U",
+    "Retail Price": "1,290",
+    "Unit Price": "1,290",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "SP226M133-0018",
+    "Retail Price": "1,290",
+    "Unit Price": "1,290",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "SP226M133-01JF",
+    "Retail Price": "1,290",
+    "Unit Price": "1,290",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "SP226M134-0018",
+    "Retail Price": "1,290",
+    "Unit Price": "1,290",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "SP226M134-006U",
+    "Retail Price": "1,290",
+    "Unit Price": "1,290",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "SP226M135-04D8",
+    "Retail Price": "1,490",
+    "Unit Price": "1,490",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "SP226M136-0018",
+    "Retail Price": "1,790",
+    "Unit Price": "1,790",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "SP226M137-0018",
+    "Retail Price": "1,790",
+    "Unit Price": "1,790",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "SP226U711-0018",
+    "Retail Price": "890",
+    "Unit Price": "890",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "SP226U711-01A4",
+    "Retail Price": "890",
+    "Unit Price": "890",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "SP226U712-0018",
+    "Retail Price": "890",
+    "Unit Price": "890",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "SP226U712-01A4",
+    "Retail Price": "890",
+    "Unit Price": "890",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "SP226U713-0018",
+    "Retail Price": "890",
+    "Unit Price": "890",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "SP226U713-01A4",
+    "Retail Price": "890",
+    "Unit Price": "890",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "SP226U714-0018",
+    "Retail Price": "890",
+    "Unit Price": "890",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "SP226U714-01A4",
+    "Retail Price": "890",
+    "Unit Price": "890",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "SP226W034-002M",
+    "Retail Price": "1,290",
+    "Unit Price": "1,290",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "SP226W034-00QR",
+    "Retail Price": "1,290",
+    "Unit Price": "1,290",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "SP226W036-0018",
+    "Retail Price": "990",
+    "Unit Price": "990",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "SP226W036-004T",
+    "Retail Price": "990",
+    "Unit Price": "990",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "SP226W038-0018",
+    "Retail Price": "1,290",
+    "Unit Price": "1,290",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "SP226W038-006U",
+    "Retail Price": "1,290",
+    "Unit Price": "1,290",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "SP226W039-002M",
+    "Retail Price": "1,490",
+    "Unit Price": "1,490",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "SP226W039-006U",
+    "Retail Price": "1,490",
+    "Unit Price": "1,490",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "SP226W040-0018",
+    "Retail Price": "1,490",
+    "Unit Price": "1,490",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "SP226W041-00QR",
+    "Retail Price": "2,490",
+    "Unit Price": "2,490",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "SP226W042-0019",
+    "Retail Price": "890",
+    "Unit Price": "890",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "SP226W042-006U",
+    "Retail Price": "890",
+    "Unit Price": "890",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "SP226W044-0019",
+    "Retail Price": "990",
+    "Unit Price": "990",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "SP226W044-006U",
+    "Retail Price": "990",
+    "Unit Price": "990",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "SP226W045-00QR",
+    "Retail Price": "1,290",
+    "Unit Price": "1,290",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "SP226W045-046C",
+    "Retail Price": "1,290",
+    "Unit Price": "1,290",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "SP226W047-0018",
+    "Retail Price": "1,290",
+    "Unit Price": "1,290",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "SP226W047-004T",
+    "Retail Price": "1,290",
+    "Unit Price": "1,290",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "SP226W049-0018",
+    "Retail Price": "1,290",
+    "Unit Price": "1,290",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "SP226W049-006U",
+    "Retail Price": "1,290",
+    "Unit Price": "1,290",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "SP226W050-0018",
+    "Retail Price": "1,290",
+    "Unit Price": "1,290",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "SP226W050-006U",
+    "Retail Price": "1,290",
+    "Unit Price": "1,290",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "SP323W176-02EP",
+    "Retail Price": "890",
+    "Unit Price": "190",
+    "Disc.": "79%"
   },
   {
     "No. Item": "SP324M500-095A",
@@ -60930,6 +62424,54 @@
     "Disc.": "30%"
   },
   {
+    "No. Item": "SP3MHCGM011-BLAK",
+    "Retail Price": "1,490",
+    "Unit Price": "1,490",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "SP3MHCGM012-DKGY",
+    "Retail Price": "1,490",
+    "Unit Price": "1,490",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "SP3MHCGM021-BLAK",
+    "Retail Price": "1,490",
+    "Unit Price": "1,490",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "SP3MHCGM041-BLAK",
+    "Retail Price": "1,690",
+    "Unit Price": "1,690",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "SP3MHCGM042-DKGY",
+    "Retail Price": "1,690",
+    "Unit Price": "1,690",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "SP3MJCGS011-BLAK",
+    "Retail Price": "2,990",
+    "Unit Price": "2,990",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "SP3MJCGS012-GRAY",
+    "Retail Price": "2,990",
+    "Unit Price": "2,990",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "SP3MMCGM011-BLAK",
+    "Retail Price": "1,990",
+    "Unit Price": "1,990",
+    "Disc.": "0%"
+  },
+  {
     "No. Item": "SP3MMCGS011-BLAK",
     "Retail Price": "2,490",
     "Unit Price": "2,490",
@@ -60939,6 +62481,18 @@
     "No. Item": "SP3MMCGS012-MLGY",
     "Retail Price": "2,490",
     "Unit Price": "2,490",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "SP3MNCGM011-BLAK",
+    "Retail Price": "2,690",
+    "Unit Price": "2,690",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "SP3MNCGM012-DKGY",
+    "Retail Price": "2,690",
+    "Unit Price": "2,690",
     "Disc.": "0%"
   },
   {
@@ -60954,6 +62508,12 @@
     "Disc.": "0%"
   },
   {
+    "No. Item": "SP3MPCGS011-BLAK",
+    "Retail Price": "1,990",
+    "Unit Price": "1,990",
+    "Disc.": "0%"
+  },
+  {
     "No. Item": "SP3MTCFM032-SRBL",
     "Retail Price": "1,890",
     "Unit Price": "1,134",
@@ -60966,10 +62526,100 @@
     "Disc.": "40%"
   },
   {
-    "No. Item": "SP423W187-00GK",
-    "Retail Price": "890",
-    "Unit Price": "190",
-    "Disc.": "79%"
+    "No. Item": "SP3MTCGM011-BLAK",
+    "Retail Price": "1,690",
+    "Unit Price": "1,690",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "SP3MTCGM012-DKGY",
+    "Retail Price": "1,690",
+    "Unit Price": "1,690",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "SP3MTCGM031-BLAK",
+    "Retail Price": "1,290",
+    "Unit Price": "1,290",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "SP3MTCGM032-GRAY",
+    "Retail Price": "1,290",
+    "Unit Price": "1,290",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "SP3MTCGM041-BLAK",
+    "Retail Price": "1,290",
+    "Unit Price": "1,290",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "SP3MTCGM042-NAVY",
+    "Retail Price": "1,290",
+    "Unit Price": "1,290",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "SP3WHCGM021-BLAK",
+    "Retail Price": "1,490",
+    "Unit Price": "1,490",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "SP3WHCGM022-PCOG",
+    "Retail Price": "1,490",
+    "Unit Price": "1,490",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "SP3WJCGS011-BLAK",
+    "Retail Price": "2,990",
+    "Unit Price": "2,990",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "SP3WJCGS013-PCPK",
+    "Retail Price": "2,990",
+    "Unit Price": "2,990",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "SP3WPCGS011-BLAK",
+    "Retail Price": "1,990",
+    "Unit Price": "1,990",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "SP3WPCGS012-DKGY",
+    "Retail Price": "1,990",
+    "Unit Price": "1,990",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "SP3WTCGM022-SKBL",
+    "Retail Price": "1,290",
+    "Unit Price": "1,290",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "SP3WTCGM023-PCOG",
+    "Retail Price": "1,290",
+    "Unit Price": "1,290",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "SP3WTCGM031-BLAK",
+    "Retail Price": "1,290",
+    "Unit Price": "1,290",
+    "Disc.": "0%"
+  },
+  {
+    "No. Item": "SP3WTCGM032-LTLV",
+    "Retail Price": "1,290",
+    "Unit Price": "1,290",
+    "Disc.": "0%"
   },
   {
     "No. Item": "SP424M173-02L2",
@@ -61708,359 +63358,5 @@
     "Retail Price": "790",
     "Unit Price": "190",
     "Disc.": "76%"
-  },
-  {
-    "No. Item": "SL226K087-01BW",
-    "Retail Price": "890",
-    "Unit Price": "890",
-    "Disc.": "0%"
-  },
-  {
-    "No. Item": "SL226K088-01PK",
-    "Retail Price": "1,290",
-    "Unit Price": "1,290",
-    "Disc.": "0%"
-  },
-  {
-    "No. Item": "SL226K089-01KG",
-    "Retail Price": "1,290",
-    "Unit Price": "1,290",
-    "Disc.": "0%"
-  },
-  {
-    "No. Item": "SL226K090-01LS",
-    "Retail Price": "1,290",
-    "Unit Price": "1,290",
-    "Disc.": "0%"
-  },
-  {
-    "No. Item": "SL226K090-01WS",
-    "Retail Price": "1,290",
-    "Unit Price": "1,290",
-    "Disc.": "0%"
-  },
-  {
-    "No. Item": "SL226U655-0018",
-    "Retail Price": "1,290",
-    "Unit Price": "1,290",
-    "Disc.": "0%"
-  },
-  {
-    "No. Item": "SL226U655-00ED",
-    "Retail Price": "1,290",
-    "Unit Price": "1,290",
-    "Disc.": "0%"
-  },
-  {
-    "No. Item": "SL226U656-0018",
-    "Retail Price": "1,290",
-    "Unit Price": "1,290",
-    "Disc.": "0%"
-  },
-  {
-    "No. Item": "SL226U656-00ED",
-    "Retail Price": "1,290",
-    "Unit Price": "1,290",
-    "Disc.": "0%"
-  },
-  {
-    "No. Item": "SL226U657-00ED",
-    "Retail Price": "1,290",
-    "Unit Price": "1,290",
-    "Disc.": "0%"
-  },
-  {
-    "No. Item": "SL226U657-03LD",
-    "Retail Price": "1,290",
-    "Unit Price": "1,290",
-    "Disc.": "0%"
-  },
-  {
-    "No. Item": "SL226U657-04U9",
-    "Retail Price": "1,290",
-    "Unit Price": "1,290",
-    "Disc.": "0%"
-  },
-  {
-    "No. Item": "SL226U658-00ED",
-    "Retail Price": "1,290",
-    "Unit Price": "1,290",
-    "Disc.": "0%"
-  },
-  {
-    "No. Item": "SL226U658-04U9",
-    "Retail Price": "1,290",
-    "Unit Price": "1,290",
-    "Disc.": "0%"
-  },
-  {
-    "No. Item": "SL226U659-00ED",
-    "Retail Price": "1,290",
-    "Unit Price": "1,290",
-    "Disc.": "0%"
-  },
-  {
-    "No. Item": "SL226U659-03LD",
-    "Retail Price": "1,290",
-    "Unit Price": "1,290",
-    "Disc.": "0%"
-  },
-  {
-    "No. Item": "SL226U660-00ED",
-    "Retail Price": "1,290",
-    "Unit Price": "1,290",
-    "Disc.": "0%"
-  },
-  {
-    "No. Item": "SL226U660-04U9",
-    "Retail Price": "1,290",
-    "Unit Price": "1,290",
-    "Disc.": "0%"
-  },
-  {
-    "No. Item": "SL3MHCGM022-BLAK",
-    "Retail Price": "1,490",
-    "Unit Price": "1,490",
-    "Disc.": "0%"
-  },
-  {
-    "No. Item": "SL3MPCGS022-DKGY",
-    "Retail Price": "1,990",
-    "Unit Price": "1,990",
-    "Disc.": "0%"
-  },
-  {
-    "No. Item": "SL3MTCGM051-BLAK",
-    "Retail Price": "1,290",
-    "Unit Price": "1,290",
-    "Disc.": "0%"
-  },
-  {
-    "No. Item": "SL3MTCGM052-GRAY",
-    "Retail Price": "1,290",
-    "Unit Price": "1,290",
-    "Disc.": "0%"
-  },
-  {
-    "No. Item": "SL3MTCGM061-BLAK",
-    "Retail Price": "1,290",
-    "Unit Price": "1,290",
-    "Disc.": "0%"
-  },
-  {
-    "No. Item": "SL3WHCGM011-BLAK",
-    "Retail Price": "1,490",
-    "Unit Price": "1,490",
-    "Disc.": "0%"
-  },
-  {
-    "No. Item": "SL3WHCGM012-SKBL",
-    "Retail Price": "1,490",
-    "Unit Price": "1,490",
-    "Disc.": "0%"
-  },
-  {
-    "No. Item": "SL3WJCGS023-SAGN",
-    "Retail Price": "3,490",
-    "Unit Price": "3,490",
-    "Disc.": "0%"
-  },
-  {
-    "No. Item": "SL3WPCGM011-BLAK",
-    "Retail Price": "1,690",
-    "Unit Price": "1,690",
-    "Disc.": "0%"
-  },
-  {
-    "No. Item": "SL3WTCGM041-BLAK",
-    "Retail Price": "1,290",
-    "Unit Price": "1,290",
-    "Disc.": "0%"
-  },
-  {
-    "No. Item": "SL3WTCGM043-SKBL",
-    "Retail Price": "1,290",
-    "Unit Price": "1,290",
-    "Disc.": "0%"
-  },
-  {
-    "No. Item": "SL3WTCGM052-SKBL",
-    "Retail Price": "1,290",
-    "Unit Price": "1,290",
-    "Disc.": "0%"
-  },
-  {
-    "No. Item": "SL3WTCGM053-LTLV",
-    "Retail Price": "1,290",
-    "Unit Price": "1,290",
-    "Disc.": "0%"
-  },
-  {
-    "No. Item": "SL3WTCGS031-BLAK",
-    "Retail Price": "1,290",
-    "Unit Price": "1,290",
-    "Disc.": "0%"
-  },
-  {
-    "No. Item": "SL3WTCGS032-WHTE",
-    "Retail Price": "1,290",
-    "Unit Price": "1,290",
-    "Disc.": "0%"
-  },
-  {
-    "No. Item": "SP226W049-0018",
-    "Retail Price": "1,290",
-    "Unit Price": "1,290",
-    "Disc.": "0%"
-  },
-  {
-    "No. Item": "SP226W049-006U",
-    "Retail Price": "1,290",
-    "Unit Price": "1,290",
-    "Disc.": "0%"
-  },
-  {
-    "No. Item": "SP226W050-0018",
-    "Retail Price": "1,290",
-    "Unit Price": "1,290",
-    "Disc.": "0%"
-  },
-  {
-    "No. Item": "SP226W050-006U",
-    "Retail Price": "1,290",
-    "Unit Price": "1,290",
-    "Disc.": "0%"
-  },
-  {
-    "No. Item": "SP3MHCGM011-BLAK",
-    "Retail Price": "1,490",
-    "Unit Price": "1,490",
-    "Disc.": "0%"
-  },
-  {
-    "No. Item": "SP3MHCGM012-DKGY",
-    "Retail Price": "1,490",
-    "Unit Price": "1,490",
-    "Disc.": "0%"
-  },
-  {
-    "No. Item": "SP3MHCGM021-BLAK",
-    "Retail Price": "1,490",
-    "Unit Price": "1,490",
-    "Disc.": "0%"
-  },
-  {
-    "No. Item": "SP3MHCGM041-BLAK",
-    "Retail Price": "1,690",
-    "Unit Price": "1,690",
-    "Disc.": "0%"
-  },
-  {
-    "No. Item": "SP3MHCGM042-DKGY",
-    "Retail Price": "1,690",
-    "Unit Price": "1,690",
-    "Disc.": "0%"
-  },
-  {
-    "No. Item": "SP3MJCGS011-BLAK",
-    "Retail Price": "2,990",
-    "Unit Price": "2,990",
-    "Disc.": "0%"
-  },
-  {
-    "No. Item": "SP3MJCGS012-GRAY",
-    "Retail Price": "2,990",
-    "Unit Price": "2,990",
-    "Disc.": "0%"
-  },
-  {
-    "No. Item": "SP3MMCGM011-BLAK",
-    "Retail Price": "1,990",
-    "Unit Price": "1,990",
-    "Disc.": "0%"
-  },
-  {
-    "No. Item": "SP3MNCGM011-BLAK",
-    "Retail Price": "2,690",
-    "Unit Price": "2,690",
-    "Disc.": "0%"
-  },
-  {
-    "No. Item": "SP3MNCGM012-DKGY",
-    "Retail Price": "2,690",
-    "Unit Price": "2,690",
-    "Disc.": "0%"
-  },
-  {
-    "No. Item": "SP3MPCGS011-BLAK",
-    "Retail Price": "1,990",
-    "Unit Price": "1,990",
-    "Disc.": "0%"
-  },
-  {
-    "No. Item": "SP3MTCGM011-BLAK",
-    "Retail Price": "1,690",
-    "Unit Price": "1,690",
-    "Disc.": "0%"
-  },
-  {
-    "No. Item": "SP3MTCGM012-DKGY",
-    "Retail Price": "1,690",
-    "Unit Price": "1,690",
-    "Disc.": "0%"
-  },
-  {
-    "No. Item": "SP3MTCGM041-BLAK",
-    "Retail Price": "1,290",
-    "Unit Price": "1,290",
-    "Disc.": "0%"
-  },
-  {
-    "No. Item": "SP3MTCGM042-NAVY",
-    "Retail Price": "1,290",
-    "Unit Price": "1,290",
-    "Disc.": "0%"
-  },
-  {
-    "No. Item": "SP3WHCGM021-BLAK",
-    "Retail Price": "1,490",
-    "Unit Price": "1,490",
-    "Disc.": "0%"
-  },
-  {
-    "No. Item": "SP3WJCGS011-BLAK",
-    "Retail Price": "2,990",
-    "Unit Price": "2,990",
-    "Disc.": "0%"
-  },
-  {
-    "No. Item": "SP3WJCGS013-PCPK",
-    "Retail Price": "2,990",
-    "Unit Price": "2,990",
-    "Disc.": "0%"
-  },
-  {
-    "No. Item": "SP3WPCGS011-BLAK",
-    "Retail Price": "1,990",
-    "Unit Price": "1,990",
-    "Disc.": "0%"
-  },
-  {
-    "No. Item": "SP3WPCGS012-DKGY",
-    "Retail Price": "1,990",
-    "Unit Price": "1,990",
-    "Disc.": "0%"
-  },
-  {
-    "No. Item": "SP3WTCGM031-BLAK",
-    "Retail Price": "1,290",
-    "Unit Price": "1,290",
-    "Disc.": "0%"
-  },
-  {
-    "No. Item": "SP3WTCGM032-LTLV",
-    "Retail Price": "1,290",
-    "Unit Price": "1,290",
-    "Disc.": "0%"
   }
 ]

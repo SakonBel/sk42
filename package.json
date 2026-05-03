@@ -4,6 +4,7 @@
   "version": "0.0.0",
   "type": "module",
   "scripts": {
+    "stock": "cd ../../python/skechers_data_prep && source .venv/bin/activate && python main.py && deactivate && cd ../../vue/sk42",
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview",

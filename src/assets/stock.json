@@ -1,12 +1,5 @@
 [
   {
-    "Item No.": "Item No.",
-    "Variant": "Variant",
-    "Description": "Description",
-    "UOM": "UOM",
-    "Net Inventory": "Net Inventory"
-  },
-  {
     "Item No.": "100731-OFWT",
     "Variant": "10",
     "Description": "100731-OFWT_ARCH FIT SUNNY",

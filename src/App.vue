@@ -139,7 +139,8 @@ export default {
               Number(proPrice["Sales Price"].replace(",", "")) * 0.8
             ).toLocaleString("en-US", { minimumFractionDigits: 2 });
             item.isOnStackPromotion = true;
-            item.proName = "Happy Songkran";
+            item.proName = "May Rain Rush";
+            item.proPeriod = "(4 พ.ค 2569 - 31 พ.ค 2569)";
             item.proCat = "Main";
           }
         });
@@ -155,6 +156,7 @@ export default {
             ).toLocaleString("en-US");
             item.isOnPromotion = true;
             item.proName = "Discount 20%";
+            item.proPeriod = "(4 พ.ค 2569 - 31 พ.ค 2569)";
             item.proCat = "Special";
           }
         });
@@ -168,6 +170,7 @@ export default {
       //       item.sale = "ซื้อ 1 แถม 1";
       //       item.isOnPromotion = true;
       //       item.isOnStackPromotion = false;
+      //       item.proPeriod = "(4 พ.ค 2569 - 31 พ.ค 2569)";
       //       item.proName = "Buy 1 Get 1";
       //       item.proCat = "BOGO";
       //     }

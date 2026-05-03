@@ -1,1518 +1,381 @@
 [
-  {
-    "No.": "100469-MOC",
-    "Retail Price": "2,490"
-  },
-  {
-    "No.": "100641-TPE",
-    "Retail Price": "2,790"
-  },
-  {
-    "No.": "100732-BLK",
-    "Retail Price": "2,790"
-  },
-  {
-    "No.": "100732-MOC",
-    "Retail Price": "2,790"
-  },
-  {
-    "No.": "100732-NVY",
-    "Retail Price": "2,790"
-  },
-  {
-    "No.": "100758-BBK",
-    "Retail Price": "2,790"
-  },
-  {
-    "No.": "100758-NAT",
-    "Retail Price": "2,790"
-  },
-  {
-    "No.": "100859-BBK",
-    "Retail Price": "2,290"
-  },
-  {
-    "No.": "100859-TPE",
-    "Retail Price": "2,290"
-  },
-  {
-    "No.": "100859-WHT",
-    "Retail Price": "2,290"
-  },
-  {
-    "No.": "100936-BBK",
-    "Retail Price": "2,290"
-  },
-  {
-    "No.": "100936-GRY",
-    "Retail Price": "2,290"
-  },
-  {
-    "No.": "100936-MVE",
-    "Retail Price": "2,290"
-  },
-  {
-    "No.": "104471-BKW",
-    "Retail Price": "2,790"
-  },
-  {
-    "No.": "104471-TPE",
-    "Retail Price": "2,790"
-  },
-  {
-    "No.": "104474-NAT",
-    "Retail Price": "2,990"
-  },
-  {
-    "No.": "104680-BKW",
-    "Retail Price": "2,790"
-  },
-  {
-    "No.": "104680-GRY",
-    "Retail Price": "2,790"
-  },
-  {
-    "No.": "104685-BBK",
-    "Retail Price": "3,190"
-  },
-  {
-    "No.": "104685-ROS",
-    "Retail Price": "3,190"
-  },
-  {
-    "No.": "104703-GRY",
-    "Retail Price": "2,990"
-  },
-  {
-    "No.": "104703-SAND",
-    "Retail Price": "2,990"
-  },
-  {
-    "No.": "104760-BKGY",
-    "Retail Price": "2,990"
-  },
-  {
-    "No.": "104760-NAT",
-    "Retail Price": "2,990"
-  },
-  {
-    "No.": "104760-TPE",
-    "Retail Price": "2,990"
-  },
-  {
-    "No.": "104782-WSL",
-    "Retail Price": "2,990"
-  },
-  {
-    "No.": "119876-BLSH",
-    "Retail Price": "2,290"
-  },
-  {
-    "No.": "123128-WLB",
-    "Retail Price": "3,690"
-  },
-  {
-    "No.": "128945-BBK",
-    "Retail Price": "4,290"
-  },
-  {
-    "No.": "129220-CHAR",
-    "Retail Price": "3,490"
-  },
-  {
-    "No.": "129220-GRY",
-    "Retail Price": "3,490"
-  },
-  {
-    "No.": "129220-WMLT",
-    "Retail Price": "3,490"
-  },
-  {
-    "No.": "129525-BKLV",
-    "Retail Price": "2,990"
-  },
-  {
-    "No.": "129525-GYBL",
-    "Retail Price": "2,990"
-  },
-  {
-    "No.": "129525-NTTP",
-    "Retail Price": "2,990"
-  },
-  {
-    "No.": "129532-GYLV",
-    "Retail Price": "3,290"
-  },
-  {
-    "No.": "129532-TPCL",
-    "Retail Price": "3,290"
-  },
-  {
-    "No.": "129600-NTPK",
-    "Retail Price": "3,690"
-  },
-  {
-    "No.": "129600W-BBK",
-    "Retail Price": "3,690"
-  },
-  {
-    "No.": "129600W-NAT",
-    "Retail Price": "3,690"
-  },
-  {
-    "No.": "129606-BKW",
-    "Retail Price": "3,990"
-  },
-  {
-    "No.": "129606-LAV",
-    "Retail Price": "3,990"
-  },
-  {
-    "No.": "129606-WSL",
-    "Retail Price": "3,990"
-  },
-  {
-    "No.": "129611-LTGY",
-    "Retail Price": "3,990"
-  },
-  {
-    "No.": "129625-LTGY",
-    "Retail Price": "3,690"
-  },
-  {
-    "No.": "129625-WBLP",
-    "Retail Price": "3,690"
-  },
-  {
-    "No.": "129655-BKW",
-    "Retail Price": "3,990"
-  },
-  {
-    "No.": "129655-PCH",
-    "Retail Price": "3,990"
-  },
-  {
-    "No.": "136180-BBK",
-    "Retail Price": "2,790"
-  },
-  {
-    "No.": "136180-NVY",
-    "Retail Price": "2,790"
-  },
-  {
-    "No.": "136180-TPE",
-    "Retail Price": "2,790"
-  },
-  {
-    "No.": "138100-TPE",
-    "Retail Price": "2,790"
-  },
-  {
-    "No.": "138497-BBK",
-    "Retail Price": "2,990"
-  },
-  {
-    "No.": "138497-BLSH",
-    "Retail Price": "2,990"
-  },
-  {
-    "No.": "138497-TPE",
-    "Retail Price": "2,990"
-  },
-  {
-    "No.": "138622-LVMT",
-    "Retail Price": "2,790"
-  },
-  {
-    "No.": "138622-NVNT",
-    "Retail Price": "2,790"
-  },
-  {
-    "No.": "140848-BKGY",
-    "Retail Price": "2,490"
-  },
-  {
-    "No.": "140848-TPMT",
-    "Retail Price": "2,490"
-  },
-  {
-    "No.": "140866-BKMT",
-    "Retail Price": "2,290"
-  },
-  {
-    "No.": "140866-TPMT",
-    "Retail Price": "2,290"
-  },
-  {
-    "No.": "140876-NAT",
-    "Retail Price": "2,490"
-  },
-  {
-    "No.": "140876-NVY",
-    "Retail Price": "2,490"
-  },
-  {
-    "No.": "140890-WGY",
-    "Retail Price": "2,490"
-  },
-  {
-    "No.": "140891-BBK",
-    "Retail Price": "2,490"
-  },
-  {
-    "No.": "140891-LAV",
-    "Retail Price": "2,490"
-  },
-  {
-    "No.": "140891-MVE",
-    "Retail Price": "2,490"
-  },
-  {
-    "No.": "140891-NAT",
-    "Retail Price": "2,490"
-  },
-  {
-    "No.": "141059-BBK",
-    "Retail Price": "2,290"
-  },
-  {
-    "No.": "141059-BLSH",
-    "Retail Price": "2,290"
-  },
-  {
-    "No.": "141064-BBK",
-    "Retail Price": "2,790"
-  },
-  {
-    "No.": "141064-NTCL",
-    "Retail Price": "2,790"
-  },
-  {
-    "No.": "141064-NVPR",
-    "Retail Price": "2,790"
-  },
-  {
-    "No.": "141617-NAT",
-    "Retail Price": "2,790"
-  },
-  {
-    "No.": "149708-BKW",
-    "Retail Price": "2,990"
-  },
-  {
-    "No.": "149708-NAT",
-    "Retail Price": "2,990"
-  },
-  {
-    "No.": "149710-GRY",
-    "Retail Price": "2,990"
-  },
-  {
-    "No.": "150066-NTPK",
-    "Retail Price": "3,290"
-  },
-  {
-    "No.": "150079-LTGY",
-    "Retail Price": "3,290"
-  },
-  {
-    "No.": "150231-NTTP",
-    "Retail Price": "3,490"
-  },
-  {
-    "No.": "150231-WBK",
-    "Retail Price": "3,490"
-  },
-  {
-    "No.": "150231-WNT",
-    "Retail Price": "3,490"
-  },
-  {
-    "No.": "150354-BBK",
-    "Retail Price": "2,990"
-  },
-  {
-    "No.": "150422-BBK",
-    "Retail Price": "3,490"
-  },
-  {
-    "No.": "150422-LTGY",
-    "Retail Price": "3,490"
-  },
-  {
-    "No.": "150422-NAT",
-    "Retail Price": "3,490"
-  },
-  {
-    "No.": "150422-TAN",
-    "Retail Price": "3,490"
-  },
-  {
-    "No.": "150457-BBK",
-    "Retail Price": "2,990"
-  },
-  {
-    "No.": "150470-BBK",
-    "Retail Price": "2,990"
-  },
-  {
-    "No.": "150470-GYTQ",
-    "Retail Price": "2,990"
-  },
-  {
-    "No.": "150471-BBK",
-    "Retail Price": "2,490"
-  },
-  {
-    "No.": "150471-WNT",
-    "Retail Price": "2,490"
-  },
-  {
-    "No.": "150475-BBK",
-    "Retail Price": "2,790"
-  },
-  {
-    "No.": "150475-PNK",
-    "Retail Price": "2,790"
-  },
-  {
-    "No.": "150475-WSL",
-    "Retail Price": "2,790"
-  },
-  {
-    "No.": "150538-LGLV",
-    "Retail Price": "3,490"
-  },
-  {
-    "No.": "150538-OWGN",
-    "Retail Price": "3,490"
-  },
-  {
-    "No.": "150562-BBK",
-    "Retail Price": "2,990"
-  },
-  {
-    "No.": "150562-NTPK",
-    "Retail Price": "2,990"
-  },
-  {
-    "No.": "150563-BKW",
-    "Retail Price": "2,990"
-  },
-  {
-    "No.": "150563-NTTP",
-    "Retail Price": "2,990"
-  },
-  {
-    "No.": "150580-GYPK",
-    "Retail Price": "3,290"
-  },
-  {
-    "No.": "150715-BBK",
-    "Retail Price": "2,990"
-  },
-  {
-    "No.": "150715-ROS",
-    "Retail Price": "2,990"
-  },
-  {
-    "No.": "150715-SIL",
-    "Retail Price": "2,990"
-  },
-  {
-    "No.": "150715-WSLP",
-    "Retail Price": "2,990"
-  },
-  {
-    "No.": "158980-DKTP",
-    "Retail Price": "2,990"
-  },
-  {
-    "No.": "158980-OFWT",
-    "Retail Price": "2,990"
-  },
-  {
-    "No.": "159055-BBK",
-    "Retail Price": "2,790"
-  },
-  {
-    "No.": "159055-OFWT",
-    "Retail Price": "2,790"
-  },
-  {
-    "No.": "159055-TPE",
-    "Retail Price": "2,790"
-  },
-  {
-    "No.": "159078-NAT",
-    "Retail Price": "2,490"
-  },
-  {
-    "No.": "159087-LAV",
-    "Retail Price": "2,290"
-  },
-  {
-    "No.": "163585-BBK",
-    "Retail Price": "2,290"
-  },
-  {
-    "No.": "163585-LIL",
-    "Retail Price": "2,290"
-  },
-  {
-    "No.": "163585-TPE",
-    "Retail Price": "2,290"
-  },
-  {
-    "No.": "177394-BBK",
-    "Retail Price": "2,790"
-  },
-  {
-    "No.": "177394-BLSH",
-    "Retail Price": "2,790"
-  },
-  {
-    "No.": "177394-WHT",
-    "Retail Price": "2,790"
-  },
-  {
-    "No.": "177606-BBK",
-    "Retail Price": "3,490"
-  },
-  {
-    "No.": "177606-NTPK",
-    "Retail Price": "3,490"
-  },
-  {
-    "No.": "177606-PKMT",
-    "Retail Price": "3,490"
-  },
-  {
-    "No.": "177794-BLK",
-    "Retail Price": "2,990"
-  },
-  {
-    "No.": "177794-OFWT",
-    "Retail Price": "2,990"
-  },
-  {
-    "No.": "177795-QUAL",
-    "Retail Price": "3,290"
-  },
-  {
-    "No.": "177795-SAGE",
-    "Retail Price": "3,290"
-  },
-  {
-    "No.": "177795-WHT",
-    "Retail Price": "3,290"
-  },
-  {
-    "No.": "180108-GYMT",
-    "Retail Price": "3,290"
-  },
-  {
-    "No.": "180129-NTMT",
-    "Retail Price": "3,290"
-  },
-  {
-    "No.": "180157-BKPK",
-    "Retail Price": "2,990"
-  },
-  {
-    "No.": "180157-NAT",
-    "Retail Price": "2,990"
-  },
-  {
-    "No.": "180157-NVY",
-    "Retail Price": "2,990"
-  },
-  {
-    "No.": "180211-BKSL",
-    "Retail Price": "2,990"
-  },
-  {
-    "No.": "180211-GRY",
-    "Retail Price": "2,990"
-  },
-  {
-    "No.": "180211-TPE",
-    "Retail Price": "2,990"
-  },
-  {
-    "No.": "180215-NAT",
-    "Retail Price": "3,490"
-  },
-  {
-    "No.": "180217-BBK",
-    "Retail Price": "2,990"
-  },
-  {
-    "No.": "180217-BLMT",
-    "Retail Price": "2,990"
-  },
-  {
-    "No.": "180217-SAND",
-    "Retail Price": "2,990"
-  },
-  {
-    "No.": "180225-BKGY",
-    "Retail Price": "3,690"
-  },
-  {
-    "No.": "180225-NAT",
-    "Retail Price": "3,690"
-  },
-  {
-    "No.": "183023-BBK",
-    "Retail Price": "3,290"
-  },
-  {
-    "No.": "183023-TAN",
-    "Retail Price": "3,290"
-  },
-  {
-    "No.": "183023-WHT",
-    "Retail Price": "3,290"
-  },
-  {
-    "No.": "183199-NTBK",
-    "Retail Price": "3,490"
-  },
-  {
-    "No.": "183199-NVNT",
-    "Retail Price": "3,490"
-  },
-  {
-    "No.": "183312-BBK",
-    "Retail Price": "3,290"
-  },
-  {
-    "No.": "185176-BLK",
-    "Retail Price": "2,790"
-  },
-  {
-    "No.": "185176-LTPK",
-    "Retail Price": "2,790"
-  },
-  {
-    "No.": "185176-OFWT",
-    "Retail Price": "2,790"
-  },
-  {
-    "No.": "204804-BKCC",
-    "Retail Price": "3,290"
-  },
-  {
-    "No.": "204804-GRY",
-    "Retail Price": "3,290"
-  },
-  {
-    "No.": "204804-NVY",
-    "Retail Price": "3,290"
-  },
-  {
-    "No.": "204866-BLK",
-    "Retail Price": "3,490"
-  },
-  {
-    "No.": "205201-BLK",
-    "Retail Price": "3,490"
-  },
-  {
-    "No.": "205370-BLK",
-    "Retail Price": "2,790"
-  },
-  {
-    "No.": "205370-CHOC",
-    "Retail Price": "2,790"
-  },
-  {
-    "No.": "205370-TPE",
-    "Retail Price": "2,790"
-  },
-  {
-    "No.": "210986-BKGY",
-    "Retail Price": "2,790"
-  },
-  {
-    "No.": "210986-WGY",
-    "Retail Price": "2,790"
-  },
-  {
-    "No.": "210993-BLK",
-    "Retail Price": "2,990"
-  },
-  {
-    "No.": "210993-TPE",
-    "Retail Price": "2,990"
-  },
-  {
-    "No.": "210993-WHT",
-    "Retail Price": "2,990"
-  },
-  {
-    "No.": "211077-BLK",
-    "Retail Price": "2,790"
-  },
-  {
-    "No.": "211077-GRY",
-    "Retail Price": "2,790"
-  },
-  {
-    "No.": "211109-BGE",
-    "Retail Price": "2,790"
-  },
-  {
-    "No.": "220420-LTGY",
-    "Retail Price": "3,990"
-  },
-  {
-    "No.": "220526WW-BBK",
-    "Retail Price": "3,990"
-  },
-  {
-    "No.": "220526WW-WBK",
-    "Retail Price": "3,990"
-  },
-  {
-    "No.": "220553-NVY",
-    "Retail Price": "3,990"
-  },
-  {
-    "No.": "220564-BBK",
-    "Retail Price": "4,290"
-  },
-  {
-    "No.": "220564-GRY",
-    "Retail Price": "4,290"
-  },
-  {
-    "No.": "220564-TPE",
-    "Retail Price": "4,290"
-  },
-  {
-    "No.": "220564-WHT",
-    "Retail Price": "4,290"
-  },
-  {
-    "No.": "220754-GYBK",
-    "Retail Price": "2,990"
-  },
-  {
-    "No.": "220754-GYMT",
-    "Retail Price": "2,990"
-  },
-  {
-    "No.": "220754-TNBK",
-    "Retail Price": "2,990"
-  },
-  {
-    "No.": "220761-BKGY",
-    "Retail Price": "3,290"
-  },
-  {
-    "No.": "220761-GRY",
-    "Retail Price": "3,290"
-  },
-  {
-    "No.": "220761-OLV",
-    "Retail Price": "3,290"
-  },
-  {
-    "No.": "220837-GYCC",
-    "Retail Price": "3,990"
-  },
-  {
-    "No.": "220837-WHT",
-    "Retail Price": "3,990"
-  },
-  {
-    "No.": "220839-BBK",
-    "Retail Price": "3,990"
-  },
-  {
-    "No.": "220839-CCBK",
-    "Retail Price": "3,990"
-  },
-  {
-    "No.": "220839-DKNV",
-    "Retail Price": "3,990"
-  },
-  {
-    "No.": "220839-WHT",
-    "Retail Price": "3,990"
-  },
-  {
-    "No.": "221001-BLK",
-    "Retail Price": "3,490"
-  },
-  {
-    "No.": "221001-NVY",
-    "Retail Price": "3,490"
-  },
-  {
-    "No.": "221101-BKCC",
-    "Retail Price": "3,490"
-  },
-  {
-    "No.": "221101-NVOR",
-    "Retail Price": "3,490"
-  },
-  {
-    "No.": "221101-WBK",
-    "Retail Price": "3,490"
-  },
-  {
-    "No.": "221101-YLBK",
-    "Retail Price": "3,490"
-  },
-  {
-    "No.": "221103-TPNV",
-    "Retail Price": "3,690"
-  },
-  {
-    "No.": "229293-NVY",
-    "Retail Price": "2,290"
-  },
-  {
-    "No.": "229297-BKGY",
-    "Retail Price": "2,790"
-  },
-  {
-    "No.": "229297-DKTP",
-    "Retail Price": "2,790"
-  },
-  {
-    "No.": "229384-BBK",
-    "Retail Price": "3,290"
-  },
-  {
-    "No.": "229384-CHOC",
-    "Retail Price": "3,290"
-  },
-  {
-    "No.": "229384-GRY",
-    "Retail Price": "3,290"
-  },
-  {
-    "No.": "232450-GRY",
-    "Retail Price": "2,990"
-  },
-  {
-    "No.": "232450-NVY",
-    "Retail Price": "2,990"
-  },
-  {
-    "No.": "232450-TPE",
-    "Retail Price": "2,990"
-  },
-  {
-    "No.": "232463-BBK",
-    "Retail Price": "3,290"
-  },
-  {
-    "No.": "232463-BLK",
-    "Retail Price": "3,290"
-  },
-  {
-    "No.": "232463-BRN",
-    "Retail Price": "3,290"
-  },
-  {
-    "No.": "232463-CHAR",
-    "Retail Price": "3,290"
-  },
-  {
-    "No.": "232463-NVY",
-    "Retail Price": "3,290"
-  },
-  {
-    "No.": "232493-NAT",
-    "Retail Price": "3,490"
-  },
-  {
-    "No.": "232493-OFWT",
-    "Retail Price": "3,490"
-  },
-  {
-    "No.": "232493-WGY",
-    "Retail Price": "3,490"
-  },
-  {
-    "No.": "232494-SND",
-    "Retail Price": "3,490"
-  },
-  {
-    "No.": "232700-BBK",
-    "Retail Price": "2,990"
-  },
-  {
-    "No.": "232713-GYBL",
-    "Retail Price": "3,290"
-  },
-  {
-    "No.": "232713-NTBG",
-    "Retail Price": "3,290"
-  },
-  {
-    "No.": "232713-NVBL",
-    "Retail Price": "3,290"
-  },
-  {
-    "No.": "232888-BBK",
-    "Retail Price": "1,490"
-  },
-  {
-    "No.": "232888-BKW",
-    "Retail Price": "1,490"
-  },
-  {
-    "No.": "232888-WNVR",
-    "Retail Price": "1,490"
-  },
-  {
-    "No.": "232947-BBK",
-    "Retail Price": "2,990"
-  },
-  {
-    "No.": "232947-GYNV",
-    "Retail Price": "2,990"
-  },
-  {
-    "No.": "232947-OFWT",
-    "Retail Price": "2,990"
-  },
-  {
-    "No.": "233012-BBK",
-    "Retail Price": "2,490"
-  },
-  {
-    "No.": "233012-WHT",
-    "Retail Price": "2,490"
-  },
-  {
-    "No.": "233022-CCBK",
-    "Retail Price": "3,990"
-  },
-  {
-    "No.": "233031-BBK",
-    "Retail Price": "2,790"
-  },
-  {
-    "No.": "233031-NVGR",
-    "Retail Price": "2,790"
-  },
-  {
-    "No.": "233061-BKMT",
-    "Retail Price": "3,290"
-  },
-  {
-    "No.": "233061-GYBL",
-    "Retail Price": "3,290"
-  },
-  {
-    "No.": "233061-NTNV",
-    "Retail Price": "3,290"
-  },
-  {
-    "No.": "233076-BLK",
-    "Retail Price": "2,990"
-  },
-  {
-    "No.": "233076-NAT",
-    "Retail Price": "2,990"
-  },
-  {
-    "No.": "233076-OLV",
-    "Retail Price": "2,990"
-  },
-  {
-    "No.": "233076-WGY",
-    "Retail Price": "2,990"
-  },
-  {
-    "No.": "233103-NVY",
-    "Retail Price": "2,990"
-  },
-  {
-    "No.": "237415-LTGY",
-    "Retail Price": "3,490"
-  },
-  {
-    "No.": "237415-TPMT",
-    "Retail Price": "3,490"
-  },
-  {
-    "No.": "237423-BKSL",
-    "Retail Price": "3,290"
-  },
-  {
-    "No.": "237423-GYMT",
-    "Retail Price": "3,290"
-  },
-  {
-    "No.": "237445-BKYL",
-    "Retail Price": "3,490"
-  },
-  {
-    "No.": "237445-NTGY",
-    "Retail Price": "3,490"
-  },
-  {
-    "No.": "237639-BBK",
-    "Retail Price": "2,990"
-  },
-  {
-    "No.": "237639-GRY",
-    "Retail Price": "2,990"
-  },
-  {
-    "No.": "237639-OLV",
-    "Retail Price": "2,990"
-  },
-  {
-    "No.": "237639-SAND",
-    "Retail Price": "2,990"
-  },
-  {
-    "No.": "237685-BKMT",
-    "Retail Price": "2,990"
-  },
-  {
-    "No.": "237685-TPBK",
-    "Retail Price": "2,990"
-  },
-  {
-    "No.": "237685-WBK",
-    "Retail Price": "2,990"
-  },
-  {
-    "No.": "252015-PKBK",
-    "Retail Price": "3,200"
-  },
-  {
-    "No.": "252020-PKBK",
-    "Retail Price": "7,900"
-  },
-  {
-    "No.": "252110-PKBK",
-    "Retail Price": "8,400"
-  },
-  {
-    "No.": "252112-PKBK",
-    "Retail Price": "7,900"
-  },
-  {
-    "No.": "252116-PKBK",
-    "Retail Price": "3,400"
-  },
-  {
-    "No.": "252132-PKBK",
-    "Retail Price": "2,200"
-  },
-  {
-    "No.": "252160L-PKBK",
-    "Retail Price": "1,500"
-  },
-  {
-    "No.": "254010-BKNT",
-    "Retail Price": "2,990"
-  },
-  {
-    "No.": "254010-NVNT",
-    "Retail Price": "2,990"
-  },
-  {
-    "No.": "254010-WNT",
-    "Retail Price": "2,990"
-  },
-  {
-    "No.": "302296L-PKMT",
-    "Retail Price": "2,190"
-  },
-  {
-    "No.": "302296L-SMLT",
-    "Retail Price": "2,190"
-  },
-  {
-    "No.": "302635L-BBK",
-    "Retail Price": "1,490"
-  },
-  {
-    "No.": "302635L-WHT",
-    "Retail Price": "1,490"
-  },
-  {
-    "No.": "302643L-BBK",
-    "Retail Price": "1,290"
-  },
-  {
-    "No.": "302643L-WHT",
-    "Retail Price": "1,290"
-  },
-  {
-    "No.": "302648L-BBK",
-    "Retail Price": "1,790"
-  },
-  {
-    "No.": "302648L-WHT",
-    "Retail Price": "1,790"
-  },
-  {
-    "No.": "302694N-LVHP",
-    "Retail Price": "1,790"
-  },
-  {
-    "No.": "302694N-PKTQ",
-    "Retail Price": "1,790"
-  },
-  {
-    "No.": "302696L-LBMT",
-    "Retail Price": "2,190"
-  },
-  {
-    "No.": "302696N-LBMT",
-    "Retail Price": "1,990"
-  },
-  {
-    "No.": "303108L-BLMT",
-    "Retail Price": "1,790"
-  },
-  {
-    "No.": "303111N-BLMT",
-    "Retail Price": "1,690"
-  },
-  {
-    "No.": "303205L-BKMT",
-    "Retail Price": "1,990"
-  },
-  {
-    "No.": "303205L-LBMT",
-    "Retail Price": "1,990"
-  },
-  {
-    "No.": "303261L-LVMT",
-    "Retail Price": "1,990"
-  },
-  {
-    "No.": "303261L-SMLT",
-    "Retail Price": "1,990"
-  },
-  {
-    "No.": "303261N-SMLT",
-    "Retail Price": "1,990"
-  },
-  {
-    "No.": "303642L-GYMT",
-    "Retail Price": "1,490"
-  },
-  {
-    "No.": "303841L-LTPK",
-    "Retail Price": "1,690"
-  },
-  {
-    "No.": "303842L-LVMT",
-    "Retail Price": "2,190"
-  },
-  {
-    "No.": "303947L-BBK",
-    "Retail Price": "1,790"
-  },
-  {
-    "No.": "303947L-WHT",
-    "Retail Price": "1,790"
-  },
-  {
-    "No.": "303983L-LAV",
-    "Retail Price": "1,790"
-  },
-  {
-    "No.": "303983L-LTBL",
-    "Retail Price": "1,790"
-  },
-  {
-    "No.": "303983L-NVY",
-    "Retail Price": "1,790"
-  },
-  {
-    "No.": "310372L-BKRG",
-    "Retail Price": "1,490"
-  },
-  {
-    "No.": "310372L-LPK",
-    "Retail Price": "1,490"
-  },
-  {
-    "No.": "310372L-WHT",
-    "Retail Price": "1,490"
-  },
-  {
-    "No.": "314093L-HTPK",
-    "Retail Price": "1,490"
-  },
-  {
-    "No.": "314093L-LAV",
-    "Retail Price": "1,490"
-  },
-  {
-    "No.": "314093L-WMLT",
-    "Retail Price": "1,490"
-  },
-  {
-    "No.": "314383L-LBMT",
-    "Retail Price": "2,290"
-  },
-  {
-    "No.": "314383L-WMLT",
-    "Retail Price": "2,290"
-  },
-  {
-    "No.": "319371L-WMLT",
-    "Retail Price": "1,990"
-  },
-  {
-    "No.": "319371L-WPK",
-    "Retail Price": "1,990"
-  },
-  {
-    "No.": "319371L-WRD",
-    "Retail Price": "1,990"
-  },
-  {
-    "No.": "400064L-BBK",
-    "Retail Price": "1,290"
-  },
-  {
-    "No.": "400064L-BLU",
-    "Retail Price": "1,290"
-  },
-  {
-    "No.": "400064L-RED",
-    "Retail Price": "1,290"
-  },
-  {
-    "No.": "402303L-BLRD",
-    "Retail Price": "1,690"
-  },
-  {
-    "No.": "402303N-BLRD",
-    "Retail Price": "1,490"
-  },
-  {
-    "No.": "403645L-BBK",
-    "Retail Price": "1,990"
-  },
-  {
-    "No.": "403766L-BBK",
-    "Retail Price": "1,490"
-  },
-  {
-    "No.": "403766L-WHT",
-    "Retail Price": "1,490"
-  },
-  {
-    "No.": "403768L-BBLM",
-    "Retail Price": "1,690"
-  },
-  {
-    "No.": "403768L-CCRD",
-    "Retail Price": "1,690"
-  },
-  {
-    "No.": "403848L-BKSL",
-    "Retail Price": "1,990"
-  },
-  {
-    "No.": "403848L-BLYL",
-    "Retail Price": "1,990"
-  },
-  {
-    "No.": "403896L-BBK",
-    "Retail Price": "1,690"
-  },
-  {
-    "No.": "403896L-WHT",
-    "Retail Price": "1,690"
-  },
-  {
-    "No.": "403898L-BKRD",
-    "Retail Price": "1,990"
-  },
-  {
-    "No.": "403898L-CCOR",
-    "Retail Price": "1,990"
-  },
-  {
-    "No.": "403898L-NVLM",
-    "Retail Price": "1,990"
-  },
-  {
-    "No.": "403899L-BKRY",
-    "Retail Price": "1,690"
-  },
-  {
-    "No.": "403899L-CCBK",
-    "Retail Price": "1,690"
-  },
-  {
-    "No.": "403908L-BBK",
-    "Retail Price": "1,490"
-  },
-  {
-    "No.": "404050L-BKRB",
-    "Retail Price": "1,790"
-  },
-  {
-    "No.": "404050L-CHAR",
-    "Retail Price": "1,790"
-  },
-  {
-    "No.": "404050L-NVY",
-    "Retail Price": "1,790"
-  },
-  {
-    "No.": "404052L-BBK",
-    "Retail Price": "1,790"
-  },
-  {
-    "No.": "404052L-WHT",
-    "Retail Price": "1,790"
-  },
-  {
-    "No.": "407118L-GRW",
-    "Retail Price": "1,990"
-  },
-  {
-    "No.": "407118L-RDBK",
-    "Retail Price": "1,990"
-  },
-  {
-    "No.": "407118L-YLBK",
-    "Retail Price": "1,990"
-  },
-  {
-    "No.": "407119L-BLMT",
-    "Retail Price": "1,490"
-  },
-  {
-    "No.": "407119L-PKMT",
-    "Retail Price": "1,490"
-  },
-  {
-    "No.": "407119L-RDMT",
-    "Retail Price": "1,490"
-  },
-  {
-    "No.": "407312N-GRMT",
-    "Retail Price": "1,490"
-  },
-  {
-    "No.": "407312N-NVMT",
-    "Retail Price": "1,490"
-  },
-  {
-    "No.": "417016L-LTGY",
-    "Retail Price": "1,990"
-  },
-  {
-    "No.": "417016L-WNT",
-    "Retail Price": "1,990"
-  },
-  {
-    "No.": "800030-WBR",
-    "Retail Price": "3,490"
-  },
-  {
-    "No.": "800030-WPK",
-    "Retail Price": "3,490"
-  },
-  {
-    "No.": "800030-WRD",
-    "Retail Price": "3,490"
-  },
-  {
-    "No.": "800031-LTPK",
-    "Retail Price": "2,190"
-  },
-  {
-    "No.": "800031-NAT",
-    "Retail Price": "2,190"
-  },
-  {
-    "No.": "800031-WHT",
-    "Retail Price": "2,190"
-  },
-  {
-    "No.": "802026-WBK",
-    "Retail Price": "3,490"
-  },
-  {
-    "No.": "802026-WGR",
-    "Retail Price": "3,490"
-  },
-  {
-    "No.": "802026-WRD",
-    "Retail Price": "3,490"
-  },
-  {
-    "No.": "802027-BLK",
-    "Retail Price": "1,890"
-  },
-  {
-    "No.": "802027-NVY",
-    "Retail Price": "1,890"
-  },
-  {
-    "No.": "802027-WHT",
-    "Retail Price": "1,890"
-  },
-  {
-    "No.": "L125U085-00MV",
-    "Retail Price": "1,290"
-  },
-  {
-    "No.": "L325U093-001Z",
-    "Retail Price": "790"
-  },
-  {
-    "No.": "L325U093-00V7",
-    "Retail Price": "790"
-  },
-  {
-    "No.": "L424U011-01SV",
-    "Retail Price": "1,490"
-  },
-  {
-    "No.": "L424U011-02BV",
-    "Retail Price": "1,490"
-  },
-  {
-    "No.": "L424U015-0018",
-    "Retail Price": "990"
-  },
-  {
-    "No.": "L424U015-00GP",
-    "Retail Price": "990"
-  },
-  {
-    "No.": "L424U017-0018",
-    "Retail Price": "1,190"
-  },
-  {
-    "No.": "L424U084-0018",
-    "Retail Price": "990"
-  },
-  {
-    "No.": "L424U150-0018",
-    "Retail Price": "790"
-  },
-  {
-    "No.": "L424U150-03CW",
-    "Retail Price": "790"
-  },
-  {
-    "No.": "P125U006-004S",
-    "Retail Price": "990"
-  },
-  {
-    "No.": "P125U006-03B6",
-    "Retail Price": "990"
-  },
-  {
-    "No.": "P125U006-03P1",
-    "Retail Price": "990"
-  },
-  {
-    "No.": "P225K095-02SH",
-    "Retail Price": "990"
-  },
-  {
-    "No.": "P225K095-03GA",
-    "Retail Price": "990"
-  },
-  {
-    "No.": "P225K095-05AG",
-    "Retail Price": "990"
-  },
-  {
-    "No.": "P225U045-05R7",
-    "Retail Price": "990"
-  },
-  {
-    "No.": "SL325G624-005U",
-    "Retail Price": "1,890"
-  },
-  {
-    "No.": "SL325G624-03JG",
-    "Retail Price": "1,890"
-  },
-  {
-    "No.": "SL325U480-02P5",
-    "Retail Price": "1,290"
-  },
-  {
-    "No.": "SL325U481-02P5",
-    "Retail Price": "1,190"
-  },
-  {
-    "No.": "SL325U482-02JP",
-    "Retail Price": "1,790"
-  },
-  {
-    "No.": "SL325U482-02P5",
-    "Retail Price": "1,790"
-  },
-  {
-    "No.": "SL325U482-04ZF",
-    "Retail Price": "1,790"
-  },
-  {
-    "No.": "SL325U549-0018",
-    "Retail Price": "890"
-  },
-  {
-    "No.": "SL325U553-0018",
-    "Retail Price": "1,590"
-  },
-  {
-    "No.": "SL325U554-02SB",
-    "Retail Price": "1,590"
-  },
-  {
-    "No.": "SL325W611-0018",
-    "Retail Price": "1,490"
-  },
-  {
-    "No.": "SL325W611-005U",
-    "Retail Price": "1,490"
-  },
-  {
-    "No.": "SL425G630-002Z",
-    "Retail Price": "1,590"
-  },
-  {
-    "No.": "SL425G630-04QY",
-    "Retail Price": "1,590"
-  },
-  {
-    "No.": "SL425W617-002Z",
-    "Retail Price": "1,890"
-  },
-  {
-    "No.": "SL425W617-00QF",
-    "Retail Price": "1,890"
-  },
-  {
-    "No.": "SP325U477-04WR",
-    "Retail Price": "1,490"
-  },
-  {
-    "No.": "SP325U478-05KX",
-    "Retail Price": "990"
-  },
-  {
-    "No.": "SP325U479-02Y6",
-    "Retail Price": "790"
-  }
+  { "No.": "100469-MOC", "Retail Price": "2,490" },
+  { "No.": "100641-TPE", "Retail Price": "2,790" },
+  { "No.": "100732-BLK", "Retail Price": "2,790" },
+  { "No.": "100732-MOC", "Retail Price": "2,790" },
+  { "No.": "100732-NVY", "Retail Price": "2,790" },
+  { "No.": "100758-BBK", "Retail Price": "2,790" },
+  { "No.": "100758-NAT", "Retail Price": "2,790" },
+  { "No.": "100859-BBK", "Retail Price": "2,290" },
+  { "No.": "100859-TPE", "Retail Price": "2,290" },
+  { "No.": "100859-WHT", "Retail Price": "2,290" },
+  { "No.": "100936-BBK", "Retail Price": "2,290" },
+  { "No.": "100936-GRY", "Retail Price": "2,290" },
+  { "No.": "100936-MVE", "Retail Price": "2,290" },
+  { "No.": "104471-BKW", "Retail Price": "2,790" },
+  { "No.": "104471-TPE", "Retail Price": "2,790" },
+  { "No.": "104474-NAT", "Retail Price": "2,990" },
+  { "No.": "104680-BKW", "Retail Price": "2,790" },
+  { "No.": "104680-GRY", "Retail Price": "2,790" },
+  { "No.": "104685-BBK", "Retail Price": "3,190" },
+  { "No.": "104685-ROS", "Retail Price": "3,190" },
+  { "No.": "104703-GRY", "Retail Price": "2,990" },
+  { "No.": "104703-SAND", "Retail Price": "2,990" },
+  { "No.": "104760-BKGY", "Retail Price": "2,990" },
+  { "No.": "104760-NAT", "Retail Price": "2,990" },
+  { "No.": "104760-TPE", "Retail Price": "2,990" },
+  { "No.": "104782-WSL", "Retail Price": "2,990" },
+  { "No.": "119876-BLSH", "Retail Price": "2,290" },
+  { "No.": "123128-WLB", "Retail Price": "3,690" },
+  { "No.": "128945-BBK", "Retail Price": "4,290" },
+  { "No.": "129220-CHAR", "Retail Price": "3,490" },
+  { "No.": "129220-GRY", "Retail Price": "3,490" },
+  { "No.": "129220-WMLT", "Retail Price": "3,490" },
+  { "No.": "129525-BKLV", "Retail Price": "2,990" },
+  { "No.": "129525-GYBL", "Retail Price": "2,990" },
+  { "No.": "129525-NTTP", "Retail Price": "2,990" },
+  { "No.": "129532-GYLV", "Retail Price": "3,290" },
+  { "No.": "129532-TPCL", "Retail Price": "3,290" },
+  { "No.": "129600-NTPK", "Retail Price": "3,690" },
+  { "No.": "129600W-BBK", "Retail Price": "3,690" },
+  { "No.": "129600W-NAT", "Retail Price": "3,690" },
+  { "No.": "129606-BKW", "Retail Price": "3,990" },
+  { "No.": "129606-LAV", "Retail Price": "3,990" },
+  { "No.": "129606-WSL", "Retail Price": "3,990" },
+  { "No.": "129611-LTGY", "Retail Price": "3,990" },
+  { "No.": "129625-LTGY", "Retail Price": "3,690" },
+  { "No.": "129625-WBLP", "Retail Price": "3,690" },
+  { "No.": "129655-BKW", "Retail Price": "3,990" },
+  { "No.": "129655-PCH", "Retail Price": "3,990" },
+  { "No.": "136180-BBK", "Retail Price": "2,790" },
+  { "No.": "136180-NVY", "Retail Price": "2,790" },
+  { "No.": "136180-TPE", "Retail Price": "2,790" },
+  { "No.": "138100-TPE", "Retail Price": "2,790" },
+  { "No.": "138497-BBK", "Retail Price": "2,990" },
+  { "No.": "138497-BLSH", "Retail Price": "2,990" },
+  { "No.": "138497-TPE", "Retail Price": "2,990" },
+  { "No.": "138622-LVMT", "Retail Price": "2,790" },
+  { "No.": "138622-NVNT", "Retail Price": "2,790" },
+  { "No.": "140848-BKGY", "Retail Price": "2,490" },
+  { "No.": "140848-TPMT", "Retail Price": "2,490" },
+  { "No.": "140866-BKMT", "Retail Price": "2,290" },
+  { "No.": "140866-TPMT", "Retail Price": "2,290" },
+  { "No.": "140876-NAT", "Retail Price": "2,490" },
+  { "No.": "140876-NVY", "Retail Price": "2,490" },
+  { "No.": "140890-WGY", "Retail Price": "2,490" },
+  { "No.": "140891-BBK", "Retail Price": "2,490" },
+  { "No.": "140891-LAV", "Retail Price": "2,490" },
+  { "No.": "140891-MVE", "Retail Price": "2,490" },
+  { "No.": "140891-NAT", "Retail Price": "2,490" },
+  { "No.": "141059-BBK", "Retail Price": "2,290" },
+  { "No.": "141059-BLSH", "Retail Price": "2,290" },
+  { "No.": "141064-BBK", "Retail Price": "2,790" },
+  { "No.": "141064-NTCL", "Retail Price": "2,790" },
+  { "No.": "141064-NVPR", "Retail Price": "2,790" },
+  { "No.": "141617-NAT", "Retail Price": "2,790" },
+  { "No.": "149708-BKW", "Retail Price": "2,990" },
+  { "No.": "149708-NAT", "Retail Price": "2,990" },
+  { "No.": "149710-GRY", "Retail Price": "2,990" },
+  { "No.": "150066-NTPK", "Retail Price": "3,290" },
+  { "No.": "150079-LTGY", "Retail Price": "3,290" },
+  { "No.": "150231-NTTP", "Retail Price": "3,490" },
+  { "No.": "150231-WBK", "Retail Price": "3,490" },
+  { "No.": "150231-WNT", "Retail Price": "3,490" },
+  { "No.": "150354-BBK", "Retail Price": "2,990" },
+  { "No.": "150422-BBK", "Retail Price": "3,490" },
+  { "No.": "150422-LTGY", "Retail Price": "3,490" },
+  { "No.": "150422-NAT", "Retail Price": "3,490" },
+  { "No.": "150422-TAN", "Retail Price": "3,490" },
+  { "No.": "150457-BBK", "Retail Price": "2,990" },
+  { "No.": "150470-BBK", "Retail Price": "2,990" },
+  { "No.": "150470-GYTQ", "Retail Price": "2,990" },
+  { "No.": "150471-BBK", "Retail Price": "2,490" },
+  { "No.": "150471-WNT", "Retail Price": "2,490" },
+  { "No.": "150475-BBK", "Retail Price": "2,790" },
+  { "No.": "150475-PNK", "Retail Price": "2,790" },
+  { "No.": "150475-WSL", "Retail Price": "2,790" },
+  { "No.": "150538-LGLV", "Retail Price": "3,490" },
+  { "No.": "150538-OWGN", "Retail Price": "3,490" },
+  { "No.": "150562-BBK", "Retail Price": "2,990" },
+  { "No.": "150562-NTPK", "Retail Price": "2,990" },
+  { "No.": "150563-BKW", "Retail Price": "2,990" },
+  { "No.": "150563-NTTP", "Retail Price": "2,990" },
+  { "No.": "150580-GYPK", "Retail Price": "3,290" },
+  { "No.": "150715-BBK", "Retail Price": "2,990" },
+  { "No.": "150715-ROS", "Retail Price": "2,990" },
+  { "No.": "150715-SIL", "Retail Price": "2,990" },
+  { "No.": "150715-WSLP", "Retail Price": "2,990" },
+  { "No.": "158980-DKTP", "Retail Price": "2,990" },
+  { "No.": "158980-OFWT", "Retail Price": "2,990" },
+  { "No.": "159055-BBK", "Retail Price": "2,790" },
+  { "No.": "159055-OFWT", "Retail Price": "2,790" },
+  { "No.": "159055-TPE", "Retail Price": "2,790" },
+  { "No.": "159078-NAT", "Retail Price": "2,490" },
+  { "No.": "159087-LAV", "Retail Price": "2,290" },
+  { "No.": "163585-BBK", "Retail Price": "2,290" },
+  { "No.": "163585-LIL", "Retail Price": "2,290" },
+  { "No.": "163585-TPE", "Retail Price": "2,290" },
+  { "No.": "177394-BBK", "Retail Price": "2,790" },
+  { "No.": "177394-BLSH", "Retail Price": "2,790" },
+  { "No.": "177394-WHT", "Retail Price": "2,790" },
+  { "No.": "177606-BBK", "Retail Price": "3,490" },
+  { "No.": "177606-NTPK", "Retail Price": "3,490" },
+  { "No.": "177606-PKMT", "Retail Price": "3,490" },
+  { "No.": "177794-BLK", "Retail Price": "2,990" },
+  { "No.": "177794-OFWT", "Retail Price": "2,990" },
+  { "No.": "177795-QUAL", "Retail Price": "3,290" },
+  { "No.": "177795-SAGE", "Retail Price": "3,290" },
+  { "No.": "177795-WHT", "Retail Price": "3,290" },
+  { "No.": "180108-GYMT", "Retail Price": "3,290" },
+  { "No.": "180129-NTMT", "Retail Price": "3,290" },
+  { "No.": "180157-BKPK", "Retail Price": "2,990" },
+  { "No.": "180157-NAT", "Retail Price": "2,990" },
+  { "No.": "180157-NVY", "Retail Price": "2,990" },
+  { "No.": "180211-BKSL", "Retail Price": "2,990" },
+  { "No.": "180211-GRY", "Retail Price": "2,990" },
+  { "No.": "180211-TPE", "Retail Price": "2,990" },
+  { "No.": "180215-NAT", "Retail Price": "3,490" },
+  { "No.": "180217-BBK", "Retail Price": "2,990" },
+  { "No.": "180217-BLMT", "Retail Price": "2,990" },
+  { "No.": "180217-SAND", "Retail Price": "2,990" },
+  { "No.": "180225-BKGY", "Retail Price": "3,690" },
+  { "No.": "180225-NAT", "Retail Price": "3,690" },
+  { "No.": "183023-BBK", "Retail Price": "3,290" },
+  { "No.": "183023-TAN", "Retail Price": "3,290" },
+  { "No.": "183023-WHT", "Retail Price": "3,290" },
+  { "No.": "183199-NTBK", "Retail Price": "3,490" },
+  { "No.": "183199-NVNT", "Retail Price": "3,490" },
+  { "No.": "183312-BBK", "Retail Price": "3,290" },
+  { "No.": "185176-BLK", "Retail Price": "2,790" },
+  { "No.": "185176-LTPK", "Retail Price": "2,790" },
+  { "No.": "185176-OFWT", "Retail Price": "2,790" },
+  { "No.": "204804-BKCC", "Retail Price": "3,290" },
+  { "No.": "204804-GRY", "Retail Price": "3,290" },
+  { "No.": "204804-NVY", "Retail Price": "3,290" },
+  { "No.": "204866-BLK", "Retail Price": "3,490" },
+  { "No.": "205201-BLK", "Retail Price": "3,490" },
+  { "No.": "205370-BLK", "Retail Price": "2,790" },
+  { "No.": "205370-CHOC", "Retail Price": "2,790" },
+  { "No.": "205370-TPE", "Retail Price": "2,790" },
+  { "No.": "210986-BKGY", "Retail Price": "2,790" },
+  { "No.": "210986-WGY", "Retail Price": "2,790" },
+  { "No.": "210993-BLK", "Retail Price": "2,990" },
+  { "No.": "210993-TPE", "Retail Price": "2,990" },
+  { "No.": "210993-WHT", "Retail Price": "2,990" },
+  { "No.": "211077-BLK", "Retail Price": "2,790" },
+  { "No.": "211077-GRY", "Retail Price": "2,790" },
+  { "No.": "211109-BGE", "Retail Price": "2,790" },
+  { "No.": "220420-LTGY", "Retail Price": "3,990" },
+  { "No.": "220526WW-BBK", "Retail Price": "3,990" },
+  { "No.": "220526WW-WBK", "Retail Price": "3,990" },
+  { "No.": "220553-NVY", "Retail Price": "3,990" },
+  { "No.": "220564-BBK", "Retail Price": "4,290" },
+  { "No.": "220564-GRY", "Retail Price": "4,290" },
+  { "No.": "220564-TPE", "Retail Price": "4,290" },
+  { "No.": "220564-WHT", "Retail Price": "4,290" },
+  { "No.": "220754-GYBK", "Retail Price": "2,990" },
+  { "No.": "220754-GYMT", "Retail Price": "2,990" },
+  { "No.": "220754-TNBK", "Retail Price": "2,990" },
+  { "No.": "220761-BKGY", "Retail Price": "3,290" },
+  { "No.": "220761-GRY", "Retail Price": "3,290" },
+  { "No.": "220761-OLV", "Retail Price": "3,290" },
+  { "No.": "220837-GYCC", "Retail Price": "3,990" },
+  { "No.": "220837-WHT", "Retail Price": "3,990" },
+  { "No.": "220839-BBK", "Retail Price": "3,990" },
+  { "No.": "220839-CCBK", "Retail Price": "3,990" },
+  { "No.": "220839-DKNV", "Retail Price": "3,990" },
+  { "No.": "220839-WHT", "Retail Price": "3,990" },
+  { "No.": "221001-BLK", "Retail Price": "3,490" },
+  { "No.": "221001-NVY", "Retail Price": "3,490" },
+  { "No.": "221101-BKCC", "Retail Price": "3,490" },
+  { "No.": "221101-NVOR", "Retail Price": "3,490" },
+  { "No.": "221101-WBK", "Retail Price": "3,490" },
+  { "No.": "221101-YLBK", "Retail Price": "3,490" },
+  { "No.": "221103-TPNV", "Retail Price": "3,690" },
+  { "No.": "229293-NVY", "Retail Price": "2,290" },
+  { "No.": "229297-BKGY", "Retail Price": "2,790" },
+  { "No.": "229297-DKTP", "Retail Price": "2,790" },
+  { "No.": "229384-BBK", "Retail Price": "3,290" },
+  { "No.": "229384-CHOC", "Retail Price": "3,290" },
+  { "No.": "229384-GRY", "Retail Price": "3,290" },
+  { "No.": "232450-GRY", "Retail Price": "2,990" },
+  { "No.": "232450-NVY", "Retail Price": "2,990" },
+  { "No.": "232450-TPE", "Retail Price": "2,990" },
+  { "No.": "232463-BBK", "Retail Price": "3,290" },
+  { "No.": "232463-BLK", "Retail Price": "3,290" },
+  { "No.": "232463-BRN", "Retail Price": "3,290" },
+  { "No.": "232463-CHAR", "Retail Price": "3,290" },
+  { "No.": "232463-NVY", "Retail Price": "3,290" },
+  { "No.": "232493-NAT", "Retail Price": "3,490" },
+  { "No.": "232493-OFWT", "Retail Price": "3,490" },
+  { "No.": "232493-WGY", "Retail Price": "3,490" },
+  { "No.": "232494-SND", "Retail Price": "3,490" },
+  { "No.": "232700-BBK", "Retail Price": "2,990" },
+  { "No.": "232713-GYBL", "Retail Price": "3,290" },
+  { "No.": "232713-NTBG", "Retail Price": "3,290" },
+  { "No.": "232713-NVBL", "Retail Price": "3,290" },
+  { "No.": "232888-BBK", "Retail Price": "1,490" },
+  { "No.": "232888-BKW", "Retail Price": "1,490" },
+  { "No.": "232888-WNVR", "Retail Price": "1,490" },
+  { "No.": "232947-BBK", "Retail Price": "2,990" },
+  { "No.": "232947-GYNV", "Retail Price": "2,990" },
+  { "No.": "232947-OFWT", "Retail Price": "2,990" },
+  { "No.": "233012-BBK", "Retail Price": "2,490" },
+  { "No.": "233012-WHT", "Retail Price": "2,490" },
+  { "No.": "233022-CCBK", "Retail Price": "3,990" },
+  { "No.": "233031-BBK", "Retail Price": "2,790" },
+  { "No.": "233031-NVGR", "Retail Price": "2,790" },
+  { "No.": "233061-BKMT", "Retail Price": "3,290" },
+  { "No.": "233061-GYBL", "Retail Price": "3,290" },
+  { "No.": "233061-NTNV", "Retail Price": "3,290" },
+  { "No.": "233076-BLK", "Retail Price": "2,990" },
+  { "No.": "233076-NAT", "Retail Price": "2,990" },
+  { "No.": "233076-OLV", "Retail Price": "2,990" },
+  { "No.": "233076-WGY", "Retail Price": "2,990" },
+  { "No.": "233103-NVY", "Retail Price": "2,990" },
+  { "No.": "237415-LTGY", "Retail Price": "3,490" },
+  { "No.": "237415-TPMT", "Retail Price": "3,490" },
+  { "No.": "237423-BKSL", "Retail Price": "3,290" },
+  { "No.": "237423-GYMT", "Retail Price": "3,290" },
+  { "No.": "237445-BKYL", "Retail Price": "3,490" },
+  { "No.": "237445-NTGY", "Retail Price": "3,490" },
+  { "No.": "237639-BBK", "Retail Price": "2,990" },
+  { "No.": "237639-GRY", "Retail Price": "2,990" },
+  { "No.": "237639-OLV", "Retail Price": "2,990" },
+  { "No.": "237639-SAND", "Retail Price": "2,990" },
+  { "No.": "237685-BKMT", "Retail Price": "2,990" },
+  { "No.": "237685-TPBK", "Retail Price": "2,990" },
+  { "No.": "237685-WBK", "Retail Price": "2,990" },
+  { "No.": "252015-PKBK", "Retail Price": "3,200" },
+  { "No.": "252020-PKBK", "Retail Price": "7,900" },
+  { "No.": "252110-PKBK", "Retail Price": "8,400" },
+  { "No.": "252112-PKBK", "Retail Price": "7,900" },
+  { "No.": "252116-PKBK", "Retail Price": "3,400" },
+  { "No.": "252132-PKBK", "Retail Price": "2,200" },
+  { "No.": "252160L-PKBK", "Retail Price": "1,500" },
+  { "No.": "254010-BKNT", "Retail Price": "2,990" },
+  { "No.": "254010-NVNT", "Retail Price": "2,990" },
+  { "No.": "254010-WNT", "Retail Price": "2,990" },
+  { "No.": "302296L-PKMT", "Retail Price": "2,190" },
+  { "No.": "302296L-SMLT", "Retail Price": "2,190" },
+  { "No.": "302635L-BBK", "Retail Price": "1,490" },
+  { "No.": "302635L-WHT", "Retail Price": "1,490" },
+  { "No.": "302643L-BBK", "Retail Price": "1,290" },
+  { "No.": "302643L-WHT", "Retail Price": "1,290" },
+  { "No.": "302648L-BBK", "Retail Price": "1,790" },
+  { "No.": "302648L-WHT", "Retail Price": "1,790" },
+  { "No.": "302694N-LVHP", "Retail Price": "1,790" },
+  { "No.": "302694N-PKTQ", "Retail Price": "1,790" },
+  { "No.": "302696L-LBMT", "Retail Price": "2,190" },
+  { "No.": "302696N-LBMT", "Retail Price": "1,990" },
+  { "No.": "303108L-BLMT", "Retail Price": "1,790" },
+  { "No.": "303111N-BLMT", "Retail Price": "1,690" },
+  { "No.": "303205L-BKMT", "Retail Price": "1,990" },
+  { "No.": "303205L-LBMT", "Retail Price": "1,990" },
+  { "No.": "303261L-LVMT", "Retail Price": "1,990" },
+  { "No.": "303261L-SMLT", "Retail Price": "1,990" },
+  { "No.": "303261N-SMLT", "Retail Price": "1,990" },
+  { "No.": "303642L-GYMT", "Retail Price": "1,490" },
+  { "No.": "303841L-LTPK", "Retail Price": "1,690" },
+  { "No.": "303842L-LVMT", "Retail Price": "2,190" },
+  { "No.": "303947L-BBK", "Retail Price": "1,790" },
+  { "No.": "303947L-WHT", "Retail Price": "1,790" },
+  { "No.": "303983L-LAV", "Retail Price": "1,790" },
+  { "No.": "303983L-LTBL", "Retail Price": "1,790" },
+  { "No.": "303983L-NVY", "Retail Price": "1,790" },
+  { "No.": "310372L-BKRG", "Retail Price": "1,490" },
+  { "No.": "310372L-LPK", "Retail Price": "1,490" },
+  { "No.": "310372L-WHT", "Retail Price": "1,490" },
+  { "No.": "314093L-HTPK", "Retail Price": "1,490" },
+  { "No.": "314093L-LAV", "Retail Price": "1,490" },
+  { "No.": "314093L-WMLT", "Retail Price": "1,490" },
+  { "No.": "314383L-LBMT", "Retail Price": "2,290" },
+  { "No.": "314383L-WMLT", "Retail Price": "2,290" },
+  { "No.": "319371L-WMLT", "Retail Price": "1,990" },
+  { "No.": "319371L-WPK", "Retail Price": "1,990" },
+  { "No.": "319371L-WRD", "Retail Price": "1,990" },
+  { "No.": "400064L-BBK", "Retail Price": "1,290" },
+  { "No.": "400064L-BLU", "Retail Price": "1,290" },
+  { "No.": "400064L-RED", "Retail Price": "1,290" },
+  { "No.": "402303L-BLRD", "Retail Price": "1,690" },
+  { "No.": "402303N-BLRD", "Retail Price": "1,490" },
+  { "No.": "403645L-BBK", "Retail Price": "1,990" },
+  { "No.": "403766L-BBK", "Retail Price": "1,490" },
+  { "No.": "403766L-WHT", "Retail Price": "1,490" },
+  { "No.": "403768L-BBLM", "Retail Price": "1,690" },
+  { "No.": "403768L-CCRD", "Retail Price": "1,690" },
+  { "No.": "403848L-BKSL", "Retail Price": "1,990" },
+  { "No.": "403848L-BLYL", "Retail Price": "1,990" },
+  { "No.": "403896L-BBK", "Retail Price": "1,690" },
+  { "No.": "403896L-WHT", "Retail Price": "1,690" },
+  { "No.": "403898L-BKRD", "Retail Price": "1,990" },
+  { "No.": "403898L-CCOR", "Retail Price": "1,990" },
+  { "No.": "403898L-NVLM", "Retail Price": "1,990" },
+  { "No.": "403899L-BKRY", "Retail Price": "1,690" },
+  { "No.": "403899L-CCBK", "Retail Price": "1,690" },
+  { "No.": "403908L-BBK", "Retail Price": "1,490" },
+  { "No.": "404050L-BKRB", "Retail Price": "1,790" },
+  { "No.": "404050L-CHAR", "Retail Price": "1,790" },
+  { "No.": "404050L-NVY", "Retail Price": "1,790" },
+  { "No.": "404052L-BBK", "Retail Price": "1,790" },
+  { "No.": "404052L-WHT", "Retail Price": "1,790" },
+  { "No.": "407118L-GRW", "Retail Price": "1,990" },
+  { "No.": "407118L-RDBK", "Retail Price": "1,990" },
+  { "No.": "407118L-YLBK", "Retail Price": "1,990" },
+  { "No.": "407119L-BLMT", "Retail Price": "1,490" },
+  { "No.": "407119L-PKMT", "Retail Price": "1,490" },
+  { "No.": "407119L-RDMT", "Retail Price": "1,490" },
+  { "No.": "407312N-GRMT", "Retail Price": "1,490" },
+  { "No.": "407312N-NVMT", "Retail Price": "1,490" },
+  { "No.": "417016L-LTGY", "Retail Price": "1,990" },
+  { "No.": "417016L-WNT", "Retail Price": "1,990" },
+  { "No.": "800030-WBR", "Retail Price": "3,490" },
+  { "No.": "800030-WPK", "Retail Price": "3,490" },
+  { "No.": "800030-WRD", "Retail Price": "3,490" },
+  { "No.": "800031-LTPK", "Retail Price": "2,190" },
+  { "No.": "800031-NAT", "Retail Price": "2,190" },
+  { "No.": "800031-WHT", "Retail Price": "2,190" },
+  { "No.": "802026-WBK", "Retail Price": "3,490" },
+  { "No.": "802026-WGR", "Retail Price": "3,490" },
+  { "No.": "802026-WRD", "Retail Price": "3,490" },
+  { "No.": "802027-BLK", "Retail Price": "1,890" },
+  { "No.": "802027-NVY", "Retail Price": "1,890" },
+  { "No.": "802027-WHT", "Retail Price": "1,890" },
+  { "No.": "L125U085-00MV", "Retail Price": "1,290" },
+  { "No.": "L325U093-001Z", "Retail Price": "790" },
+  { "No.": "L325U093-00V7", "Retail Price": "790" },
+  { "No.": "L424U011-01SV", "Retail Price": "1,490" },
+  { "No.": "L424U011-02BV", "Retail Price": "1,490" },
+  { "No.": "L424U015-0018", "Retail Price": "990" },
+  { "No.": "L424U015-00GP", "Retail Price": "990" },
+  { "No.": "L424U017-0018", "Retail Price": "1,190" },
+  { "No.": "L424U084-0018", "Retail Price": "990" },
+  { "No.": "L424U150-0018", "Retail Price": "790" },
+  { "No.": "L424U150-03CW", "Retail Price": "790" },
+  { "No.": "P125U006-004S", "Retail Price": "990" },
+  { "No.": "P125U006-03B6", "Retail Price": "990" },
+  { "No.": "P125U006-03P1", "Retail Price": "990" },
+  { "No.": "P225K095-02SH", "Retail Price": "990" },
+  { "No.": "P225K095-03GA", "Retail Price": "990" },
+  { "No.": "P225K095-05AG", "Retail Price": "990" },
+  { "No.": "P225U045-05R7", "Retail Price": "990" },
+  { "No.": "SL325G624-005U", "Retail Price": "1,890" },
+  { "No.": "SL325G624-03JG", "Retail Price": "1,890" },
+  { "No.": "SL325U480-02P5", "Retail Price": "1,290" },
+  { "No.": "SL325U481-02P5", "Retail Price": "1,190" },
+  { "No.": "SL325U482-02JP", "Retail Price": "1,790" },
+  { "No.": "SL325U482-02P5", "Retail Price": "1,790" },
+  { "No.": "SL325U482-04ZF", "Retail Price": "1,790" },
+  { "No.": "SL325U549-0018", "Retail Price": "890" },
+  { "No.": "SL325U553-0018", "Retail Price": "1,590" },
+  { "No.": "SL325U554-02SB", "Retail Price": "1,590" },
+  { "No.": "SL325W611-0018", "Retail Price": "1,490" },
+  { "No.": "SL325W611-005U", "Retail Price": "1,490" },
+  { "No.": "SL425G630-002Z", "Retail Price": "1,590" },
+  { "No.": "SL425G630-04QY", "Retail Price": "1,590" },
+  { "No.": "SL425W617-002Z", "Retail Price": "1,890" },
+  { "No.": "SL425W617-00QF", "Retail Price": "1,890" },
+  { "No.": "SP325U477-04WR", "Retail Price": "1,490" },
+  { "No.": "SP325U478-05KX", "Retail Price": "990" },
+  { "No.": "SP325U479-02Y6", "Retail Price": "790" }
 ]
