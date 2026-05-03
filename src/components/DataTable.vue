@@ -127,7 +127,7 @@ export default {
                   v-show="row.isOnStackPromotion"
                   :class="row.proCat + '-price'"
                 >
-                  3 ชิ้น {{ row.sale_2 }}-<span class="desc">
+                  4 ชิ้น {{ row.sale_2 }}-<span class="desc">
                     (ลด {{ row.disc_2 }})</span
                   >
                 </h6>
@@ -135,7 +135,7 @@ export default {
                   v-show="row.isOnStackPromotion"
                   :class="row.proCat + '-price'"
                 >
-                  4 ชิ้น {{ row.sale_3 }}-<span class="desc">
+                  6 ชิ้น {{ row.sale_3 }}-<span class="desc">
                     (ลด {{ row.disc_3 }})</span
                   >
                 </h6>
@@ -143,7 +143,7 @@ export default {
             </div>
           </td>
           <td>
-            <p>
+            <!-- <p>
               <a @click="getLocation(row.id)" class="icon-link">
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
@@ -161,7 +161,7 @@ export default {
               ><span @click="getLocation(row.id)" class="text-primary">
                 ดูตำแหน่งสินค้า</span
               >
-            </p>
+            </p> -->
 
             <!-- Sizes table -->
             <table class="table table-bordered table-striped">
