@@ -139,8 +139,8 @@ export default {
               Number(proPrice["Sales Price"].replace(",", "")) * 0.8
             ).toLocaleString("en-US", { minimumFractionDigits: 2 });
             item.isOnStackPromotion = true;
-            item.proName = "May Rain Rush";
-            item.proPeriod = "(4 พ.ค 2569 - 31 พ.ค 2569)";
+            item.proName = "June in Motion";
+            item.proPeriod = "(1 มิ.ย 2569 - 30 มิ.ย 2569)";
             item.proCat = "Main";
           }
         });
