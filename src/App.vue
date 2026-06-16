@@ -156,7 +156,7 @@ export default {
             ).toLocaleString("en-US");
             item.isOnPromotion = true;
             item.proName = "Discount 20%";
-            item.proPeriod = "(4 พ.ค 2569 - 31 พ.ค 2569)";
+            item.proPeriod = "(1 มิ.ย 2569 - 30 มิ.ย 2569)";
             item.proCat = "Special";
           }
         });

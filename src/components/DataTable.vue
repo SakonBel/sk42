@@ -242,13 +242,13 @@ export default {
 }
 
 .Sale {
-  color: whitesmoke;
+  color: black;
   background-color: yellowgreen;
   padding: 5px;
 }
 
 .Sale-price {
-  color: yellowgreen;
+  color: green;
 }
 
 .Special {
@@ -280,7 +280,7 @@ export default {
 }
 
 .Special-price-table {
-  border: rgb(255, 85, 0) 1px solid;
+  border: rgb(125, 102, 3) 1px solid;
 }
 
 .BOGO-price-table {
