@@ -118,7 +118,7 @@ export default {
                   v-show="row.isOnStackPromotion"
                   :class="row.proCat + '-price'"
                 >
-                  2 ชิ้น
+                  3 ชิ้น
                   {{ row.sale_1 }}-<span class="desc">
                     (ลด {{ row.disc_1 }})</span
                   >
@@ -127,7 +127,7 @@ export default {
                   v-show="row.isOnStackPromotion"
                   :class="row.proCat + '-price'"
                 >
-                  4 ชิ้น {{ row.sale_2 }}-<span class="desc">
+                  5 ชิ้น {{ row.sale_2 }}-<span class="desc">
                     (ลด {{ row.disc_2 }})</span
                   >
                 </h6>
@@ -135,7 +135,7 @@ export default {
                   v-show="row.isOnStackPromotion"
                   :class="row.proCat + '-price'"
                 >
-                  6 ชิ้น {{ row.sale_3 }}-<span class="desc">
+                  7 ชิ้น {{ row.sale_3 }}-<span class="desc">
                     (ลด {{ row.disc_3 }})</span
                   >
                 </h6>
@@ -213,12 +213,12 @@ export default {
 
 .Main {
   color: black;
-  background-color: pink;
+  background-color: mediumturquoise;
   padding: 5px;
 }
 
 .Main-price {
-  color: palevioletred;
+  color: steelblue;
   font-weight: bold;
 }
 
@@ -229,7 +229,7 @@ export default {
 
 .Unit-sales-price {
   color: snow;
-  background-color: palevioletred;
+  background-color: steelblue;
   padding: 5px;
   font-weight: bold;
 }
@@ -243,7 +243,7 @@ export default {
 
 .Sale {
   color: black;
-  background-color: yellowgreen;
+  background-color: mediumseagreen;
   padding: 5px;
 }
 
