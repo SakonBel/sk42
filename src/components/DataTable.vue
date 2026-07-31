@@ -213,12 +213,12 @@ export default {
 
 .Main {
   color: black;
-  background-color: mediumturquoise;
+  background-color: mediumaquamarine;
   padding: 5px;
 }
 
 .Main-price {
-  color: steelblue;
+  color: mediumaquamarine;
   font-weight: bold;
 }
 
@@ -229,36 +229,36 @@ export default {
 
 .Unit-sales-price {
   color: snow;
-  background-color: steelblue;
+  background-color: mediumseagreen;
   padding: 5px;
   font-weight: bold;
 }
 
 .emph {
   color: beige;
-  background-color: steelblue;
+  background-color: mediumseagreen;
   padding: 2px;
   border-radius: 4px;
 }
 
 .Sale {
   color: black;
-  background-color: mediumseagreen;
+  background-color: tomato;
   padding: 5px;
 }
 
 .Sale-price {
-  color: green;
+  color: tomato;
 }
 
 .Special {
   color: beige;
-  background-color: burlywood;
+  background-color: tan;
   padding: 5px;
 }
 
 .Special-price {
-  color: burlywood;
+  color: tan;
 }
 
 .BOGO {
@@ -272,7 +272,7 @@ export default {
 }
 
 .Main-price-table {
-  border: rgb(26, 86, 135) 1px solid;
+  border: green 1px solid;
 }
 
 .Sale-price-table {

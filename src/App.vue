@@ -4,7 +4,7 @@ import location from "./assets/location.json";
 import price from "./assets/price.json";
 import promotion from "./assets/promotion.json";
 import promotion2 from "./assets/promotion2.json";
-import promotion3 from "./assets/promotion3.json";
+// import promotion3 from "./assets/promotion3.json";
 
 import datatable from "./components/DataTable.vue";
 import singleitem from "./components/SingleItem.vue";
@@ -140,7 +140,7 @@ export default {
             ).toLocaleString("en-US", { minimumFractionDigits: 2 });
             item.isOnStackPromotion = true;
             item.proName = "July Gold Rush";
-            item.proPeriod = "(1 ก.ค 2569 - 31 ก.ค 2569)";
+            item.proPeriod = "(1 ส.ค 2569 - 31 ส.ค 2569)";
             item.proCat = "Main";
           }
         });
@@ -156,26 +156,26 @@ export default {
             ).toLocaleString("en-US");
             item.isOnPromotion = true;
             item.proName = "Discount 20%";
-            item.proPeriod = "(1 ก.ค 2569 - 31 ก.ค 2569)";
+            item.proPeriod = "(1 ส.ค 2569 - 31 ส.ค 2569)";
             item.proCat = "Special";
           }
         });
       });
 
       // Add additional promotion 3
-      promotion3.forEach((proPrice) => {
-        items.forEach((item) => {
-          if (proPrice["No."] === item.name) {
-            item.disc = "สูงสุด 50%";
-            item.sale = "ซื้อ 1 แถม 1";
-            item.isOnPromotion = true;
-            item.isOnStackPromotion = false;
-            item.proPeriod = "(25 มิ.ย 2569 - 5 ก.ค 2569)";
-            item.proName = "Buy 1 Get 1";
-            item.proCat = "BOGO";
-          }
-        });
-      });
+      // promotion3.forEach((proPrice) => {
+      //   items.forEach((item) => {
+      //     if (proPrice["No."] === item.name) {
+      //       item.disc = "สูงสุด 50%";
+      //       item.sale = "ซื้อ 1 แถม 1";
+      //       item.isOnPromotion = true;
+      //       item.isOnStackPromotion = false;
+      //       item.proPeriod = "(25 มิ.ย 2569 - 5 ก.ค 2569)";
+      //       item.proName = "Buy 1 Get 1";
+      //       item.proCat = "BOGO";
+      //     }
+      //   });
+      // });
 
       // Add sizes to items appropriately
       items.forEach((item, index) => {
