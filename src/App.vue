@@ -139,8 +139,8 @@ export default {
               Number(proPrice["Sales Price"].replace(",", "")) * 0.8
             ).toLocaleString("en-US", { minimumFractionDigits: 2 });
             item.isOnStackPromotion = true;
-            item.proName = "Happy Mother's Day";
-            item.proPeriod = "(1 ส.ค 2569 - 31 ส.ค 2569)";
+            item.proName = "Spooky Season Sale";
+            item.proPeriod = "(1 ต.ค 2569 - 31 ต.ค 2569)";
             item.proCat = "Main";
           }
         });
@@ -156,7 +156,7 @@ export default {
             ).toLocaleString("en-US");
             item.isOnPromotion = true;
             item.proName = "Discount 20%";
-            item.proPeriod = "(1 ส.ค 2569 - 31 ส.ค 2569)";
+            item.proPeriod = "(1 ต.ค 2569 - 31 ต.ค 2569)";
             item.proCat = "Special";
           }
         });

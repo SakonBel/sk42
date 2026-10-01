@@ -213,12 +213,12 @@ export default {
 
 .Main {
   color: black;
-  background-color: mediumaquamarine;
+  background-color: violet;
   padding: 5px;
 }
 
 .Main-price {
-  color: mediumaquamarine;
+  color: purple;
   font-weight: bold;
 }
 
@@ -229,7 +229,7 @@ export default {
 
 .Unit-sales-price {
   color: snow;
-  background-color: mediumseagreen;
+  background-color: purple;
   padding: 5px;
   font-weight: bold;
 }
@@ -272,7 +272,7 @@ export default {
 }
 
 .Main-price-table {
-  border: green 1px solid;
+  border: goldenrod 1px solid;
 }
 
 .Sale-price-table {
