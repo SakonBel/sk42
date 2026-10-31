@@ -213,12 +213,12 @@ export default {
 
 .Main {
   color: black;
-  background-color: violet;
+  background-color: salmon;
   padding: 5px;
 }
 
 .Main-price {
-  color: purple;
+  color: salmon;
   font-weight: bold;
 }
 
@@ -229,7 +229,7 @@ export default {
 
 .Unit-sales-price {
   color: snow;
-  background-color: purple;
+  background-color: salmon;
   padding: 5px;
   font-weight: bold;
 }
@@ -243,12 +243,12 @@ export default {
 
 .Sale {
   color: black;
-  background-color: tomato;
+  background-color: orangered;
   padding: 5px;
 }
 
 .Sale-price {
-  color: tomato;
+  color: orangered;
 }
 
 .Special {
@@ -272,7 +272,7 @@ export default {
 }
 
 .Main-price-table {
-  border: goldenrod 1px solid;
+  border: darkolivegreen 1px solid;
 }
 
 .Sale-price-table {
