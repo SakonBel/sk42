@@ -229,7 +229,7 @@ export default {
 
 .Unit-sales-price {
   color: snow;
-  background-color: salmon;
+  background-color: darkolivegreen;
   padding: 5px;
   font-weight: bold;
 }
@@ -243,12 +243,12 @@ export default {
 
 .Sale {
   color: black;
-  background-color: orangered;
+  background-color: steelblue;
   padding: 5px;
 }
 
 .Sale-price {
-  color: orangered;
+  color: steelblue;
 }
 
 .Special {
